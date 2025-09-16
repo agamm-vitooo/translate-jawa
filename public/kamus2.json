@@ -1,0 +1,7002 @@
+[
+  {
+    "Kamus Bahasa Jawa":"No",
+    "Ngoko":"Ngoko",
+    "Krama":"Krama",
+    "Krama Inggil":"Krama Inggil",
+    "Bahasa Indonesia":"Bahasa\nIndonesia"
+  },
+  {
+    "Kamus Bahasa Jawa":1,
+    "Ngoko":"Aba",
+    "Krama":null,
+    "Krama Inggil":"Dhawuh",
+    "Bahasa Indonesia":"Perintah"
+  },
+  {
+    "Kamus Bahasa Jawa":2,
+    "Ngoko":"Abah-abah",
+    "Krama":null,
+    "Krama Inggil":"Kambil",
+    "Bahasa Indonesia":"Pelana"
+  },
+  {
+    "Kamus Bahasa Jawa":3,
+    "Ngoko":"Abang",
+    "Krama":"Abrit",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Merah"
+  },
+  {
+    "Kamus Bahasa Jawa":4,
+    "Ngoko":"Abot",
+    "Krama":"Awrat",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Berat"
+  },
+  {
+    "Kamus Bahasa Jawa":5,
+    "Ngoko":"Adang",
+    "Krama":"Bêthak",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Menanak nasi"
+  },
+  {
+    "Kamus Bahasa Jawa":6,
+    "Ngoko":"Adêg",
+    "Krama":null,
+    "Krama Inggil":"Jumênêng",
+    "Bahasa Indonesia":"Berdiri"
+  },
+  {
+    "Kamus Bahasa Jawa":7,
+    "Ngoko":"Adhêm",
+    "Krama":"Asrêp",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Dingin"
+  },
+  {
+    "Kamus Bahasa Jawa":8,
+    "Ngoko":"Adhêp",
+    "Krama":"Ajêng",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Hadap"
+  },
+  {
+    "Kamus Bahasa Jawa":9,
+    "Ngoko":"Adhi",
+    "Krama":null,
+    "Krama Inggil":"Rayi",
+    "Bahasa Indonesia":"Adik"
+  },
+  {
+    "Kamus Bahasa Jawa":10,
+    "Ngoko":"Adoh",
+    "Krama":"Têbih",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Jauh"
+  },
+  {
+    "Kamus Bahasa Jawa":11,
+    "Ngoko":"Adol",
+    "Krama":"Sade",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Jual"
+  },
+  {
+    "Kamus Bahasa Jawa":12,
+    "Ngoko":"Adon",
+    "Krama":"Abên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sabung"
+  },
+  {
+    "Kamus Bahasa Jawa":13,
+    "Ngoko":"Adu",
+    "Krama":"Abên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Menyabung"
+  },
+  {
+    "Kamus Bahasa Jawa":14,
+    "Ngoko":"Adus",
+    "Krama":null,
+    "Krama Inggil":"Siram",
+    "Bahasa Indonesia":"Mandi"
+  },
+  {
+    "Kamus Bahasa Jawa":15,
+    "Ngoko":"Agama",
+    "Krama":"Agami",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Agama"
+  },
+  {
+    "Kamus Bahasa Jawa":16,
+    "Ngoko":"Age",
+    "Krama":"Enggal",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Cepat"
+  },
+  {
+    "Kamus Bahasa Jawa":17,
+    "Ngoko":"Agek",
+    "Krama":"Sawêg",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Baru saja"
+  },
+  {
+    "Kamus Bahasa Jawa":18,
+    "Ngoko":"Aja",
+    "Krama":"Sampun",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Jangan"
+  },
+  {
+    "Kamus Bahasa Jawa":19,
+    "Ngoko":"Ajang",
+    "Krama":"Ajang",
+    "Krama Inggil":"Ambêng",
+    "Bahasa Indonesia":"Tempat nasi"
+  },
+  {
+    "Kamus Bahasa Jawa":20,
+    "Ngoko":"Aji",
+    "Krama":"Aos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Nilai, Harga,\nMartabat"
+  },
+  {
+    "Kamus Bahasa Jawa":21,
+    "Ngoko":"Aju",
+    "Krama":"Ajêng",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Maju"
+  },
+  {
+    "Kamus Bahasa Jawa":22,
+    "Ngoko":"Akeh",
+    "Krama":"Kathah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Banyak"
+  },
+  {
+    "Kamus Bahasa Jawa":23,
+    "Ngoko":"Akon",
+    "Krama":"Akên",
+    "Krama Inggil":"Dhawuh",
+    "Bahasa Indonesia":"Suruh"
+  },
+  {
+    "Kamus Bahasa Jawa":24,
+    "Ngoko":"Aksama",
+    "Krama":"Aksami",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Ampun, Maaf"
+  },
+  {
+    "Kamus Bahasa Jawa":25,
+    "Ngoko":"Aku",
+    "Krama":"Kula",
+    "Krama Inggil":"Dalêm",
+    "Bahasa Indonesia":"Saya"
+  },
+  {
+    "Kamus Bahasa Jawa":26,
+    "Ngoko":"Aku, Ngaku",
+    "Krama":"Aken",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Mengaku"
+  },
+  {
+    "Kamus Bahasa Jawa":27,
+    "Ngoko":"Ala",
+    "Krama":"Awon",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Buruk, Jelek"
+  },
+  {
+    "Kamus Bahasa Jawa":28,
+    "Ngoko":"Alangan",
+    "Krama":"Pambêngan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Halangan"
+  },
+  {
+    "Kamus Bahasa Jawa":29,
+    "Ngoko":"Alas",
+    "Krama":"Wana",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Hutan"
+  },
+  {
+    "Kamus Bahasa Jawa":30,
+    "Ngoko":"Ali-ali",
+    "Krama":"Sêsupe",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Cincin"
+  },
+  {
+    "Kamus Bahasa Jawa":31,
+    "Ngoko":"Alih",
+    "Krama":"Pindhah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Pindah"
+  },
+  {
+    "Kamus Bahasa Jawa":32,
+    "Ngoko":"Alis",
+    "Krama":null,
+    "Krama Inggil":"Imba",
+    "Bahasa Indonesia":"Alis"
+  },
+  {
+    "Kamus Bahasa Jawa":33,
+    "Ngoko":"Amarga",
+    "Krama":"Amargi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Karena"
+  },
+  {
+    "Kamus Bahasa Jawa":34,
+    "Ngoko":"Amba",
+    "Krama":"Wiyar",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Lebar"
+  },
+  {
+    "Kamus Bahasa Jawa":35,
+    "Ngoko":"Ambu",
+    "Krama":"Ambêt",
+    "Krama Inggil":"Ganda",
+    "Bahasa Indonesia":"Bau"
+  },
+  {
+    "Kamus Bahasa Jawa":36,
+    "Ngoko":"Ambung",
+    "Krama":null,
+    "Krama Inggil":"Aras",
+    "Bahasa Indonesia":"Cium"
+  },
+  {
+    "Kamus Bahasa Jawa":37,
+    "Ngoko":"Amek",
+    "Krama":"Mêndhêt",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Ambil"
+  },
+  {
+    "Kamus Bahasa Jawa":38,
+    "Ngoko":"Amêrga",
+    "Krama":"Amêrgi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Karena"
+  },
+  {
+    "Kamus Bahasa Jawa":39,
+    "Ngoko":"Amit",
+    "Krama":null,
+    "Krama Inggil":"Nuwun sewu",
+    "Bahasa Indonesia":"Minta maaf"
+  },
+  {
+    "Kamus Bahasa Jawa":40,
+    "Ngoko":"Ampir",
+    "Krama":null,
+    "Krama Inggil":"Pinarak",
+    "Bahasa Indonesia":"Singgah"
+  },
+  {
+    "Kamus Bahasa Jawa":41,
+    "Ngoko":"Ana",
+    "Krama":"Wonten",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Ada"
+  },
+  {
+    "Kamus Bahasa Jawa":42,
+    "Ngoko":"Anak",
+    "Krama":"Anak, Lare",
+    "Krama Inggil":"Putra",
+    "Bahasa Indonesia":"Anak"
+  },
+  {
+    "Kamus Bahasa Jawa":43,
+    "Ngoko":"Andêl",
+    "Krama":"Pitados",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Percaya"
+  },
+  {
+    "Kamus Bahasa Jawa":44,
+    "Ngoko":"Angel",
+    "Krama":"Awrat",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sulit"
+  },
+  {
+    "Kamus Bahasa Jawa":45,
+    "Ngoko":"Anggêr",
+    "Krama":"Saugêr",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Asalkan"
+  },
+  {
+    "Kamus Bahasa Jawa":46,
+    "Ngoko":"Angkat",
+    "Krama":"Bidhal",
+    "Krama Inggil":"Tindhak, Jêngkar",
+    "Bahasa Indonesia":"Pergi"
+  },
+  {
+    "Kamus Bahasa Jawa":47,
+    "Ngoko":"Anggo",
+    "Krama":"Anggê",
+    "Krama Inggil":"Agêm",
+    "Bahasa Indonesia":"Pakai"
+  },
+  {
+    "Kamus Bahasa Jawa":48,
+    "Ngoko":"Angon",
+    "Krama":"Angen",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Menggembala"
+  },
+  {
+    "Kamus Bahasa Jawa":49,
+    "Ngoko":"Ani-ani",
+    "Krama":"Pugut",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Ani-ani (Alat\npenuai padi)"
+  },
+  {
+    "Kamus Bahasa Jawa":50,
+    "Ngoko":"Anom",
+    "Krama":"Ênem",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Muda"
+  },
+  {
+    "Kamus Bahasa Jawa":51,
+    "Ngoko":"Antara",
+    "Krama":"Antawis",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Antara"
+  },
+  {
+    "Kamus Bahasa Jawa":52,
+    "Ngoko":"Anut",
+    "Krama":"Tumut",
+    "Krama Inggil":"Dherek",
+    "Bahasa Indonesia":"Ikut"
+  },
+  {
+    "Kamus Bahasa Jawa":53,
+    "Ngoko":"Anyar",
+    "Krama":"Enggal",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Baru"
+  },
+  {
+    "Kamus Bahasa Jawa":54,
+    "Ngoko":"Apa",
+    "Krama":"Punapa",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Apa"
+  },
+  {
+    "Kamus Bahasa Jawa":55,
+    "Ngoko":"Apik",
+    "Krama":"Sae",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Baik, Bagus"
+  },
+  {
+    "Kamus Bahasa Jawa":56,
+    "Ngoko":"Apura",
+    "Krama":"Apuntên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Maaf"
+  },
+  {
+    "Kamus Bahasa Jawa":57,
+    "Ngoko":"Arah",
+    "Krama":"Angkah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Maksud, Tujuan"
+  },
+  {
+    "Kamus Bahasa Jawa":58,
+    "Ngoko":"Aran",
+    "Krama":"Nama",
+    "Krama Inggil":"Asma",
+    "Bahasa Indonesia":"Nama"
+  },
+  {
+    "Kamus Bahasa Jawa":59,
+    "Ngoko":"Arang",
+    "Krama":"Awis",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Jrang"
+  },
+  {
+    "Kamus Bahasa Jawa":60,
+    "Ngoko":"Arep",
+    "Krama":"Ajêng",
+    "Krama Inggil":"Kêrsa",
+    "Bahasa Indonesia":"Mau"
+  },
+  {
+    "Kamus Bahasa Jawa":61,
+    "Ngoko":"Arti",
+    "Krama":"Artos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Makna"
+  },
+  {
+    "Kamus Bahasa Jawa":62,
+    "Ngoko":"Asor",
+    "Krama":"Awon",
+    "Krama Inggil":"Andhap",
+    "Bahasa Indonesia":"Rendah"
+  },
+  {
+    "Kamus Bahasa Jawa":63,
+    "Ngoko":"Asu",
+    "Krama":"Sêgawon",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Anjing"
+  },
+  {
+    "Kamus Bahasa Jawa":64,
+    "Ngoko":"Ati",
+    "Krama":"Manah",
+    "Krama Inggil":"Penggalih",
+    "Bahasa Indonesia":"Hati"
+  },
+  {
+    "Kamus Bahasa Jawa":65,
+    "Ngoko":"Atop",
+    "Krama":null,
+    "Krama Inggil":"Sêgu",
+    "Bahasa Indonesia":"Tersendawa"
+  },
+  {
+    "Kamus Bahasa Jawa":66,
+    "Ngoko":"Atur",
+    "Krama":null,
+    "Krama Inggil":"Unjuk",
+    "Bahasa Indonesia":"Beri"
+  },
+  {
+    "Kamus Bahasa Jawa":67,
+    "Ngoko":"Awak",
+    "Krama":"Badan",
+    "Krama Inggil":"Salira",
+    "Bahasa Indonesia":"Badan, Tubuh"
+  },
+  {
+    "Kamus Bahasa Jawa":68,
+    "Ngoko":"Awan",
+    "Krama":"Siyang",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Siang"
+  },
+  {
+    "Kamus Bahasa Jawa":69,
+    "Ngoko":"Aweh",
+    "Krama":"Nyukani",
+    "Krama Inggil":"Maringi",
+    "Bahasa Indonesia":"Beri"
+  },
+  {
+    "Kamus Bahasa Jawa":70,
+    "Ngoko":"Ayake",
+    "Krama":"Mbok mênawi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Barangkali"
+  },
+  {
+    "Kamus Bahasa Jawa":71,
+    "Ngoko":"Ayo",
+    "Krama":"Mangga",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Marilah"
+  },
+  {
+    "Kamus Bahasa Jawa":72,
+    "Ngoko":"Bacut",
+    "Krama":"Lajêng",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kemudian, Lantas"
+  },
+  {
+    "Kamus Bahasa Jawa":73,
+    "Ngoko":"Bae",
+    "Krama":"Kemawon",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Hanya"
+  },
+  {
+    "Kamus Bahasa Jawa":74,
+    "Ngoko":"Bakal",
+    "Krama":"Badhe",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Akan"
+  },
+  {
+    "Kamus Bahasa Jawa":75,
+    "Ngoko":"Baki",
+    "Krama":null,
+    "Krama Inggil":"Panadhahan",
+    "Bahasa Indonesia":"Nampan"
+  },
+  {
+    "Kamus Bahasa Jawa":76,
+    "Ngoko":"Bako",
+    "Krama":"Sata",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tembakau"
+  },
+  {
+    "Kamus Bahasa Jawa":77,
+    "Ngoko":"Baku",
+    "Krama":"Bakên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Pokok"
+  },
+  {
+    "Kamus Bahasa Jawa":78,
+    "Ngoko":"Bali",
+    "Krama":"Wangsul",
+    "Krama Inggil":"Kondur",
+    "Bahasa Indonesia":"Kembali"
+  },
+  {
+    "Kamus Bahasa Jawa":79,
+    "Ngoko":"Balung",
+    "Krama":null,
+    "Krama Inggil":"Tosan",
+    "Bahasa Indonesia":"Tulang"
+  },
+  {
+    "Kamus Bahasa Jawa":80,
+    "Ngoko":"Banda",
+    "Krama":null,
+    "Krama Inggil":"Dipunbêsta",
+    "Bahasa Indonesia":"Dibelenggu"
+  },
+  {
+    "Kamus Bahasa Jawa":81,
+    "Ngoko":"Bangêt",
+    "Krama":"Sangêt",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sangat"
+  },
+  {
+    "Kamus Bahasa Jawa":82,
+    "Ngoko":"Bangga",
+    "Krama":"Banggi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tidak Menurut"
+  },
+  {
+    "Kamus Bahasa Jawa":83,
+    "Ngoko":"Bangkekan",
+    "Krama":null,
+    "Krama Inggil":"Wangkingan",
+    "Bahasa Indonesia":"Pinggang"
+  },
+  {
+    "Kamus Bahasa Jawa":84,
+    "Ngoko":"Banjir",
+    "Krama":"Bêna",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Banjir"
+  },
+  {
+    "Kamus Bahasa Jawa":85,
+    "Ngoko":"Banjur",
+    "Krama":"Lajêng",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Lalu, Setelah itu"
+  },
+  {
+    "Kamus Bahasa Jawa":86,
+    "Ngoko":"Bantal",
+    "Krama":null,
+    "Krama Inggil":"Kajang",
+    "Bahasa Indonesia":"Bantal"
+  },
+  {
+    "Kamus Bahasa Jawa":87,
+    "Ngoko":"Banyu",
+    "Krama":"Toya",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Air"
+  },
+  {
+    "Kamus Bahasa Jawa":88,
+    "Ngoko":"Bapa, Bapak",
+    "Krama":"Rama",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Bapak"
+  },
+  {
+    "Kamus Bahasa Jawa":89,
+    "Ngoko":"Barêng",
+    "Krama":"Sarêng",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Bersama"
+  },
+  {
+    "Kamus Bahasa Jawa":90,
+    "Ngoko":"Barêp",
+    "Krama":"Pambajêng",
+    "Krama Inggil":"Pambayun",
+    "Bahasa Indonesia":"Sulung"
+  },
+  {
+    "Kamus Bahasa Jawa":91,
+    "Ngoko":"Bata",
+    "Krama":"Banon",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Batu bata"
+  },
+  {
+    "Kamus Bahasa Jawa":92,
+    "Ngoko":"Bathik",
+    "Krama":"Sêrat",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Batik"
+  },
+  {
+    "Kamus Bahasa Jawa":93,
+    "Ngoko":"Bathuk",
+    "Krama":null,
+    "Krama Inggil":"Palarapan",
+    "Bahasa Indonesia":"Dahi"
+  },
+  {
+    "Kamus Bahasa Jawa":94,
+    "Ngoko":"Batin",
+    "Krama":"Batos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Batin"
+  },
+  {
+    "Kamus Bahasa Jawa":95,
+    "Ngoko":"Batur",
+    "Krama":"Rencang",
+    "Krama Inggil":"Abdi",
+    "Bahasa Indonesia":"Hamba,\nPembantu"
+  },
+  {
+    "Kamus Bahasa Jawa":96,
+    "Ngoko":"Bebek",
+    "Krama":"Kambangan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Itik"
+  },
+  {
+    "Kamus Bahasa Jawa":97,
+    "Ngoko":"Beda",
+    "Krama":"Bêntên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Beda"
+  },
+  {
+    "Kamus Bahasa Jawa":98,
+    "Ngoko":"Ben, Karêben",
+    "Krama":"Kajêngipun",
+    "Krama Inggil":"Kêrsanipun",
+    "Bahasa Indonesia":"Biarlah"
+  },
+  {
+    "Kamus Bahasa Jawa":99,
+    "Ngoko":"Besuk",
+    "Krama":"Benjing",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Besuk"
+  },
+  {
+    "Kamus Bahasa Jawa":100,
+    "Ngoko":"Bêbêd",
+    "Krama":null,
+    "Krama Inggil":"Nyamping",
+    "Bahasa Indonesia":"Jarik (untuk pria)"
+  },
+  {
+    "Kamus Bahasa Jawa":101,
+    "Ngoko":"Bêbuwang",
+    "Krama":"Bêbucal",
+    "Krama Inggil":"Bobotan",
+    "Bahasa Indonesia":"Buang air besar"
+  },
+  {
+    "Kamus Bahasa Jawa":102,
+    "Ngoko":"Bêcik",
+    "Krama":"Sae",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Baik"
+  },
+  {
+    "Kamus Bahasa Jawa":103,
+    "Ngoko":"Bêdhil",
+    "Krama":"Sênjata",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Senjata"
+  },
+  {
+    "Kamus Bahasa Jawa":104,
+    "Ngoko":"Bêdudan",
+    "Krama":null,
+    "Krama Inggil":"Watangan",
+    "Bahasa Indonesia":"Pipa rokok"
+  },
+  {
+    "Kamus Bahasa Jawa":105,
+    "Ngoko":"Bênêr",
+    "Krama":"Lêrês",
+    "Krama Inggil":"Kasinggihan",
+    "Bahasa Indonesia":"Benar, Betul"
+  },
+  {
+    "Kamus Bahasa Jawa":106,
+    "Ngoko":"Bêngi",
+    "Krama":"Dalu",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Malam"
+  },
+  {
+    "Kamus Bahasa Jawa":107,
+    "Ngoko":"Bêras",
+    "Krama":"Wos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Beras"
+  },
+  {
+    "Kamus Bahasa Jawa":108,
+    "Ngoko":"Bisa",
+    "Krama":"Sagêd",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Dapat, Bisa"
+  },
+  {
+    "Kamus Bahasa Jawa":109,
+    "Ngoko":"Biyen",
+    "Krama":"Riyin",
+    "Krama Inggil":"Rumiyin",
+    "Bahasa Indonesia":"Dulu"
+  },
+  {
+    "Kamus Bahasa Jawa":110,
+    "Ngoko":"Biyung",
+    "Krama":null,
+    "Krama Inggil":"Ibu",
+    "Bahasa Indonesia":"Ibu"
+  },
+  {
+    "Kamus Bahasa Jawa":111,
+    "Ngoko":"Bobot",
+    "Krama":"Wawratipun",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Beratnya"
+  },
+  {
+    "Kamus Bahasa Jawa":112,
+    "Ngoko":"Bocah",
+    "Krama":"Lare",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Anak"
+  },
+  {
+    "Kamus Bahasa Jawa":113,
+    "Ngoko":"Bojo",
+    "Krama":"Semah",
+    "Krama Inggil":"Garwa",
+    "Bahasa Indonesia":"Suami\/Istri"
+  },
+  {
+    "Kamus Bahasa Jawa":114,
+    "Ngoko":"Bokong",
+    "Krama":null,
+    "Krama Inggil":"Pocong",
+    "Bahasa Indonesia":"Bokong"
+  },
+  {
+    "Kamus Bahasa Jawa":115,
+    "Ngoko":"Bolah",
+    "Krama":"Bênang",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Benang"
+  },
+  {
+    "Kamus Bahasa Jawa":116,
+    "Ngoko":"Boreh",
+    "Krama":null,
+    "Krama Inggil":"Konyoh",
+    "Bahasa Indonesia":"Bedak"
+  },
+  {
+    "Kamus Bahasa Jawa":117,
+    "Ngoko":"Brengos",
+    "Krama":null,
+    "Krama Inggil":"Rawis",
+    "Bahasa Indonesia":"Kumis"
+  },
+  {
+    "Kamus Bahasa Jawa":118,
+    "Ngoko":"Bubar",
+    "Krama":"Bibar",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Selesai"
+  },
+  {
+    "Kamus Bahasa Jawa":119,
+    "Ngoko":"Bubrah",
+    "Krama":"Bibrah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Rusak"
+  },
+  {
+    "Kamus Bahasa Jawa":120,
+    "Ngoko":"Budi",
+    "Krama":"Manah",
+    "Krama Inggil":"Pênggalih",
+    "Bahasa Indonesia":"Budi, Pikiran, Akal"
+  },
+  {
+    "Kamus Bahasa Jawa":121,
+    "Ngoko":"Budhal",
+    "Krama":"Bidhal",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Berangkat"
+  },
+  {
+    "Kamus Bahasa Jawa":122,
+    "Ngoko":"Bukak",
+    "Krama":"Bikak",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Buka"
+  },
+  {
+    "Kamus Bahasa Jawa":123,
+    "Ngoko":"Bungah",
+    "Krama":"Bingah",
+    "Krama Inggil":"Rêna",
+    "Bahasa Indonesia":"Gembira"
+  },
+  {
+    "Kamus Bahasa Jawa":124,
+    "Ngoko":"Buri",
+    "Krama":"Wingking",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Belakang"
+  },
+  {
+    "Kamus Bahasa Jawa":125,
+    "Ngoko":"Buru",
+    "Krama":"Bujêng",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Buru"
+  },
+  {
+    "Kamus Bahasa Jawa":126,
+    "Ngoko":"Buruh",
+    "Krama":"Bêrah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Buruh, Pekerja"
+  },
+  {
+    "Kamus Bahasa Jawa":127,
+    "Ngoko":"Buta",
+    "Krama":"Danawa",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Raksasa"
+  },
+  {
+    "Kamus Bahasa Jawa":128,
+    "Ngoko":"Butuh",
+    "Krama":"Bêtah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Butuh"
+  },
+  {
+    "Kamus Bahasa Jawa":129,
+    "Ngoko":"Buwang",
+    "Krama":"Bucal",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Buang"
+  },
+  {
+    "Kamus Bahasa Jawa":130,
+    "Ngoko":"Buyar",
+    "Krama":"Rampung",
+    "Krama Inggil":"Rampung",
+    "Bahasa Indonesia":"Selesai"
+  },
+  {
+    "Kamus Bahasa Jawa":131,
+    "Ngoko":"Calathu",
+    "Krama":"Wicantên",
+    "Krama Inggil":"Ngandika",
+    "Bahasa Indonesia":"Berbicara"
+  },
+  {
+    "Kamus Bahasa Jawa":132,
+    "Ngoko":"Cangkêm",
+    "Krama":"Lesan",
+    "Krama Inggil":"Tutuk",
+    "Bahasa Indonesia":"Mulut"
+  },
+  {
+    "Kamus Bahasa Jawa":133,
+    "Ngoko":"Cangkir",
+    "Krama":null,
+    "Krama Inggil":"Tuwung",
+    "Bahasa Indonesia":"Cangkir"
+  },
+  {
+    "Kamus Bahasa Jawa":134,
+    "Ngoko":"Carita",
+    "Krama":"Cariyos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Cerita"
+  },
+  {
+    "Kamus Bahasa Jawa":135,
+    "Ngoko":"Caturan",
+    "Krama":"Wicantên",
+    "Krama Inggil":"Ngendikan",
+    "Bahasa Indonesia":"Omongan"
+  },
+  {
+    "Kamus Bahasa Jawa":136,
+    "Ngoko":"Cawis",
+    "Krama":"Cawisaken",
+    "Krama Inggil":"Caosaken",
+    "Bahasa Indonesia":"Disiapkan"
+  },
+  {
+    "Kamus Bahasa Jawa":137,
+    "Ngoko":"Celeng",
+    "Krama":"Andhapan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Babi hutan"
+  },
+  {
+    "Kamus Bahasa Jawa":138,
+    "Ngoko":"Cewok",
+    "Krama":null,
+    "Krama Inggil":"Cawik",
+    "Bahasa Indonesia":"Bercebok"
+  },
+  {
+    "Kamus Bahasa Jawa":139,
+    "Ngoko":"Cêdhak",
+    "Krama":"Cêlak",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Dekat"
+  },
+  {
+    "Kamus Bahasa Jawa":140,
+    "Ngoko":"Cêkêl",
+    "Krama":"Cêpêng",
+    "Krama Inggil":"Dipunasta",
+    "Bahasa Indonesia":"Dipegang"
+  },
+  {
+    "Kamus Bahasa Jawa":141,
+    "Ngoko":"Cêndhek",
+    "Krama":"Andhap",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Pendek, Rendah"
+  },
+  {
+    "Kamus Bahasa Jawa":142,
+    "Ngoko":"Cêngêl",
+    "Krama":null,
+    "Krama Inggil":"Griwa",
+    "Bahasa Indonesia":"Tengkuk"
+  },
+  {
+    "Kamus Bahasa Jawa":143,
+    "Ngoko":"Cêpêt",
+    "Krama":"Enggal",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Cepat"
+  },
+  {
+    "Kamus Bahasa Jawa":144,
+    "Ngoko":"Cilik",
+    "Krama":"Alit",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kecil"
+  },
+  {
+    "Kamus Bahasa Jawa":145,
+    "Ngoko":"Coba",
+    "Krama":"Cobi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Coba"
+  },
+  {
+    "Kamus Bahasa Jawa":146,
+    "Ngoko":"Crita",
+    "Krama":"Criyos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Cerita"
+  },
+  {
+    "Kamus Bahasa Jawa":147,
+    "Ngoko":"Cucul",
+    "Krama":null,
+    "Krama Inggil":"Lukar",
+    "Bahasa Indonesia":"Lepas baju"
+  },
+  {
+    "Kamus Bahasa Jawa":148,
+    "Ngoko":"Cukup",
+    "Krama":"Cêkap",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Cukup"
+  },
+  {
+    "Kamus Bahasa Jawa":149,
+    "Ngoko":"Cukur",
+    "Krama":"Pangkas",
+    "Krama Inggil":"Paras",
+    "Bahasa Indonesia":"Bercukur"
+  },
+  {
+    "Kamus Bahasa Jawa":150,
+    "Ngoko":"Cumbana",
+    "Krama":null,
+    "Krama Inggil":"Saresmi",
+    "Bahasa Indonesia":"Setubuh"
+  },
+  {
+    "Kamus Bahasa Jawa":151,
+    "Ngoko":"Cundhuk",
+    "Krama":null,
+    "Krama Inggil":"Sangsangan",
+    "Bahasa Indonesia":"Sunting"
+  },
+  {
+    "Kamus Bahasa Jawa":152,
+    "Ngoko":"Dadah",
+    "Krama":null,
+    "Krama Inggil":"Ginda",
+    "Bahasa Indonesia":"Pijit"
+  },
+  {
+    "Kamus Bahasa Jawa":153,
+    "Ngoko":"Dadi",
+    "Krama":"Dados",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Jadi"
+  },
+  {
+    "Kamus Bahasa Jawa":154,
+    "Ngoko":"Dagang",
+    "Krama":"Gramen",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Dagang"
+  },
+  {
+    "Kamus Bahasa Jawa":155,
+    "Ngoko":"Dalan",
+    "Krama":"Radinan",
+    "Krama Inggil":"Margi",
+    "Bahasa Indonesia":"Jalan"
+  },
+  {
+    "Kamus Bahasa Jawa":156,
+    "Ngoko":"Dandan",
+    "Krama":"Dandos",
+    "Krama Inggil":"Busana",
+    "Bahasa Indonesia":"Berhias"
+  },
+  {
+    "Kamus Bahasa Jawa":157,
+    "Ngoko":"Darma",
+    "Krama":"Darmi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Pelaksanaan\ntugas"
+  },
+  {
+    "Kamus Bahasa Jawa":158,
+    "Ngoko":"Dawa",
+    "Krama":"Panjang",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Panjang"
+  },
+  {
+    "Kamus Bahasa Jawa":159,
+    "Ngoko":"Deleh",
+    "Krama":"Suka",
+    "Krama Inggil":"Paring",
+    "Bahasa Indonesia":"Taruh"
+  },
+  {
+    "Kamus Bahasa Jawa":160,
+    "Ngoko":"Desa",
+    "Krama":"Dhusun",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Desa"
+  },
+  {
+    "Kamus Bahasa Jawa":161,
+    "Ngoko":"Dêlêng",
+    "Krama":"Tingal",
+    "Krama Inggil":"Priksa",
+    "Bahasa Indonesia":"Lihat"
+  },
+  {
+    "Kamus Bahasa Jawa":162,
+    "Ngoko":"Dêrma",
+    "Krama":"Drêma",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Amal"
+  },
+  {
+    "Kamus Bahasa Jawa":163,
+    "Ngoko":"Dhadha",
+    "Krama":null,
+    "Krama Inggil":"Jaja",
+    "Bahasa Indonesia":"dada"
+  },
+  {
+    "Kamus Bahasa Jawa":164,
+    "Ngoko":"Dhayoh",
+    "Krama":"Tamu",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tamu"
+  },
+  {
+    "Kamus Bahasa Jawa":165,
+    "Ngoko":"Dhêk",
+    "Krama":"Kala",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Pada waktu"
+  },
+  {
+    "Kamus Bahasa Jawa":166,
+    "Ngoko":"Dhêmên",
+    "Krama":"Rêmên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Senang"
+  },
+  {
+    "Kamus Bahasa Jawa":167,
+    "Ngoko":"Dhêngkul",
+    "Krama":null,
+    "Krama Inggil":"Jêngku",
+    "Bahasa Indonesia":"Lutut"
+  },
+  {
+    "Kamus Bahasa Jawa":168,
+    "Ngoko":"Dhêngêr",
+    "Krama":"Sumêrêp",
+    "Krama Inggil":"Priksa",
+    "Bahasa Indonesia":"Tahu, Mengerti"
+  },
+  {
+    "Kamus Bahasa Jawa":169,
+    "Ngoko":"Dhewe",
+    "Krama":"Piyambak",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sendiri"
+  },
+  {
+    "Kamus Bahasa Jawa":170,
+    "Ngoko":"Dhek",
+    "Krama":"Kala",
+    "Krama Inggil":"Nalika",
+    "Bahasa Indonesia":"Ketika"
+  },
+  {
+    "Kamus Bahasa Jawa":171,
+    "Ngoko":"Dhisik",
+    "Krama":"Rumiyin",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Dahulu"
+  },
+  {
+    "Kamus Bahasa Jawa":172,
+    "Ngoko":"Dhun",
+    "Krama":"Mandhap",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Turun"
+  },
+  {
+    "Kamus Bahasa Jawa":173,
+    "Ngoko":"Dhuwit",
+    "Krama":"Yatra",
+    "Krama Inggil":"Arta",
+    "Bahasa Indonesia":"Uang"
+  },
+  {
+    "Kamus Bahasa Jawa":174,
+    "Ngoko":"Dhuwur",
+    "Krama":"Inggil",
+    "Krama Inggil":"Luhur",
+    "Bahasa Indonesia":"Tinggi"
+  },
+  {
+    "Kamus Bahasa Jawa":175,
+    "Ngoko":"Dina",
+    "Krama":"Dintên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Hari"
+  },
+  {
+    "Kamus Bahasa Jawa":176,
+    "Ngoko":"Diyan",
+    "Krama":"Dilah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Lampu"
+  },
+  {
+    "Kamus Bahasa Jawa":177,
+    "Ngoko":"Dlamakan",
+    "Krama":null,
+    "Krama Inggil":"Samparan",
+    "Bahasa Indonesia":null
+  },
+  {
+    "Kamus Bahasa Jawa":178,
+    "Ngoko":"Dluwang",
+    "Krama":"Dlancang",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kertas"
+  },
+  {
+    "Kamus Bahasa Jawa":179,
+    "Ngoko":"Dodod",
+    "Krama":null,
+    "Krama Inggil":"Kampuh",
+    "Bahasa Indonesia":"Dodot"
+  },
+  {
+    "Kamus Bahasa Jawa":180,
+    "Ngoko":"Dokok",
+    "Krama":"Dekek",
+    "Krama Inggil":"Paring",
+    "Bahasa Indonesia":"Taruh"
+  },
+  {
+    "Kamus Bahasa Jawa":181,
+    "Ngoko":"Dol",
+    "Krama":"Sade",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Jual"
+  },
+  {
+    "Kamus Bahasa Jawa":182,
+    "Ngoko":"Dolan",
+    "Krama":null,
+    "Krama Inggil":"Amêng-amêng",
+    "Bahasa Indonesia":"Main-main"
+  },
+  {
+    "Kamus Bahasa Jawa":183,
+    "Ngoko":"Dom",
+    "Krama":"Jarum",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Jarum"
+  },
+  {
+    "Kamus Bahasa Jawa":184,
+    "Ngoko":"Doyan",
+    "Krama":"Purun",
+    "Krama Inggil":"Kêrsa",
+    "Bahasa Indonesia":"Mau"
+  },
+  {
+    "Kamus Bahasa Jawa":185,
+    "Ngoko":"Driji",
+    "Krama":null,
+    "Krama Inggil":"Racikan",
+    "Bahasa Indonesia":"Jari"
+  },
+  {
+    "Kamus Bahasa Jawa":186,
+    "Ngoko":"Du, Ngedu",
+    "Krama":"Ngaben",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Mengadu"
+  },
+  {
+    "Kamus Bahasa Jawa":187,
+    "Ngoko":"Dudu",
+    "Krama":"Sanes",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Bukan"
+  },
+  {
+    "Kamus Bahasa Jawa":188,
+    "Ngoko":"Duga",
+    "Krama":"Dugi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Duga"
+  },
+  {
+    "Kamus Bahasa Jawa":189,
+    "Ngoko":"Dulang",
+    "Krama":"Ndulang",
+    "Krama Inggil":"Ndahari",
+    "Bahasa Indonesia":"Menyuapi"
+  },
+  {
+    "Kamus Bahasa Jawa":190,
+    "Ngoko":"Dulur",
+    "Krama":"Dherek",
+    "Krama Inggil":"Santana",
+    "Bahasa Indonesia":"Saudara"
+  },
+  {
+    "Kamus Bahasa Jawa":191,
+    "Ngoko":"Durung",
+    "Krama":"Dereng",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Belum"
+  },
+  {
+    "Kamus Bahasa Jawa":192,
+    "Ngoko":"Duwe",
+    "Krama":"Gadhah",
+    "Krama Inggil":"Kagungan",
+    "Bahasa Indonesia":"Punya"
+  },
+  {
+    "Kamus Bahasa Jawa":193,
+    "Ngoko":"Edan",
+    "Krama":"Ewah",
+    "Krama Inggil":"Gêrah ewah",
+    "Bahasa Indonesia":"Gila"
+  },
+  {
+    "Kamus Bahasa Jawa":194,
+    "Ngoko":"Elek",
+    "Krama":"Awon",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Jelek"
+  },
+  {
+    "Kamus Bahasa Jawa":195,
+    "Ngoko":"Eling",
+    "Krama":"Emut",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Ingat"
+  },
+  {
+    "Kamus Bahasa Jawa":196,
+    "Ngoko":"Elmu",
+    "Krama":"Elmi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Ilmu"
+  },
+  {
+    "Kamus Bahasa Jawa":197,
+    "Ngoko":"Elu",
+    "Krama":"Tumut",
+    "Krama Inggil":"Ndherek",
+    "Bahasa Indonesia":"Ikut"
+  },
+  {
+    "Kamus Bahasa Jawa":198,
+    "Ngoko":"Enak",
+    "Krama":"Eca",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Enak"
+  },
+  {
+    "Kamus Bahasa Jawa":199,
+    "Ngoko":"Epek-epek",
+    "Krama":null,
+    "Krama Inggil":"Tapak asta",
+    "Bahasa Indonesia":null
+  },
+  {
+    "Kamus Bahasa Jawa":200,
+    "Ngoko":"Etung",
+    "Krama":"Etang",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Hitung"
+  },
+  {
+    "Kamus Bahasa Jawa":201,
+    "Ngoko":"Esuk",
+    "Krama":"Enjing",
+    "Krama Inggil":"Enjing",
+    "Bahasa Indonesia":"Pagi"
+  },
+  {
+    "Kamus Bahasa Jawa":202,
+    "Ngoko":"Ewuh",
+    "Krama":"Êwêd",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Repot"
+  },
+  {
+    "Kamus Bahasa Jawa":203,
+    "Ngoko":"Êdoh",
+    "Krama":"Nêbih",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Menjauh"
+  },
+  {
+    "Kamus Bahasa Jawa":204,
+    "Ngoko":"Êlih",
+    "Krama":"Mindah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Memindah"
+  },
+  {
+    "Kamus Bahasa Jawa":205,
+    "Ngoko":"Êluh",
+    "Krama":null,
+    "Krama Inggil":"Waspa",
+    "Bahasa Indonesia":"Airmata"
+  },
+  {
+    "Kamus Bahasa Jawa":206,
+    "Ngoko":"Êmas",
+    "Krama":"Jene",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Emas"
+  },
+  {
+    "Kamus Bahasa Jawa":207,
+    "Ngoko":"Êmbah",
+    "Krama":"Simbah",
+    "Krama Inggil":"Êyang",
+    "Bahasa Indonesia":"Kakek"
+  },
+  {
+    "Kamus Bahasa Jawa":208,
+    "Ngoko":"Êmbuh",
+    "Krama":"Kilap",
+    "Krama Inggil":"Duka",
+    "Bahasa Indonesia":"Tidak Tahu"
+  },
+  {
+    "Kamus Bahasa Jawa":209,
+    "Ngoko":"Êmbun-êmbun",
+    "Krama":"Sundhulan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Ubun-ubun"
+  },
+  {
+    "Kamus Bahasa Jawa":210,
+    "Ngoko":"Êmbok",
+    "Krama":null,
+    "Krama Inggil":"Ibu",
+    "Bahasa Indonesia":"Ibu"
+  },
+  {
+    "Kamus Bahasa Jawa":211,
+    "Ngoko":"Êmoh",
+    "Krama":"Botên purun",
+    "Krama Inggil":"Boten Kêrsa",
+    "Bahasa Indonesia":"Tidak mau"
+  },
+  {
+    "Kamus Bahasa Jawa":212,
+    "Ngoko":"Êmot",
+    "Krama":"Ngêwrat",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Memuat"
+  },
+  {
+    "Kamus Bahasa Jawa":213,
+    "Ngoko":"Êndêm",
+    "Krama":null,
+    "Krama Inggil":"Wuru",
+    "Bahasa Indonesia":"Mabuk"
+  },
+  {
+    "Kamus Bahasa Jawa":214,
+    "Ngoko":"Êndhas",
+    "Krama":"Sirah",
+    "Krama Inggil":"Mustaka",
+    "Bahasa Indonesia":"Kepala"
+  },
+  {
+    "Kamus Bahasa Jawa":215,
+    "Ngoko":"Êndhêg",
+    "Krama":"Kendêl",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Henti"
+  },
+  {
+    "Kamus Bahasa Jawa":216,
+    "Ngoko":"Êndhog",
+    "Krama":"Tigan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Telur"
+  },
+  {
+    "Kamus Bahasa Jawa":217,
+    "Ngoko":"Êndi",
+    "Krama":"Pundi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Mana"
+  },
+  {
+    "Kamus Bahasa Jawa":218,
+    "Ngoko":"Enêng",
+    "Krama":"Mendêl",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Diam"
+  },
+  {
+    "Kamus Bahasa Jawa":219,
+    "Ngoko":"Êner",
+    "Krama":"Lêrês",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Arah"
+  },
+  {
+    "Kamus Bahasa Jawa":220,
+    "Ngoko":"Ênggo",
+    "Krama":"Êngge",
+    "Krama Inggil":"Agêm",
+    "Bahasa Indonesia":"Pakai"
+  },
+  {
+    "Kamus Bahasa Jawa":221,
+    "Ngoko":"Ênggon",
+    "Krama":"Ênggen",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tempat"
+  },
+  {
+    "Kamus Bahasa Jawa":222,
+    "Ngoko":"Ênom",
+    "Krama":"Ênem",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Muda"
+  },
+  {
+    "Kamus Bahasa Jawa":223,
+    "Ngoko":"Êntas",
+    "Krama":"Nêmbe",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Baru saja"
+  },
+  {
+    "Kamus Bahasa Jawa":224,
+    "Ngoko":"Êntek",
+    "Krama":"Telas",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Habis"
+  },
+  {
+    "Kamus Bahasa Jawa":225,
+    "Ngoko":"Ênteni",
+    "Krama":"Entosi",
+    "Krama Inggil":"Rantosi",
+    "Bahasa Indonesia":"Tunggu"
+  },
+  {
+    "Kamus Bahasa Jawa":226,
+    "Ngoko":"Êntut",
+    "Krama":null,
+    "Krama Inggil":"Sarib",
+    "Bahasa Indonesia":"Kentut"
+  },
+  {
+    "Kamus Bahasa Jawa":227,
+    "Ngoko":"Ênyang",
+    "Krama":"Awis",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tawar"
+  },
+  {
+    "Kamus Bahasa Jawa":228,
+    "Ngoko":"Êpêk",
+    "Krama":"Pêndhêt",
+    "Krama Inggil":"Pundhut",
+    "Bahasa Indonesia":"Ambil"
+  },
+  {
+    "Kamus Bahasa Jawa":229,
+    "Ngoko":"Gadhe",
+    "Krama":"Nggantos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Menggadaikan"
+  },
+  {
+    "Kamus Bahasa Jawa":230,
+    "Ngoko":"Gadhuh",
+    "Krama":null,
+    "Krama Inggil":"Ngampil",
+    "Bahasa Indonesia":"Meminjam"
+  },
+  {
+    "Kamus Bahasa Jawa":231,
+    "Ngoko":"Gajah",
+    "Krama":"Liman",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Gajah"
+  },
+  {
+    "Kamus Bahasa Jawa":232,
+    "Ngoko":"Galo",
+    "Krama":"Mênika lo",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Itulah"
+  },
+  {
+    "Kamus Bahasa Jawa":233,
+    "Ngoko":"Gaman",
+    "Krama":"Dêdamêl",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Senjata tajam"
+  },
+  {
+    "Kamus Bahasa Jawa":234,
+    "Ngoko":"Gamêlan",
+    "Krama":"Gangsa",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Gamelan"
+  },
+  {
+    "Kamus Bahasa Jawa":235,
+    "Ngoko":"Gampang",
+    "Krama":"Gampil",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Mudah"
+  },
+  {
+    "Kamus Bahasa Jawa":236,
+    "Ngoko":"Ganêp",
+    "Krama":"Jangkêp",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Lengkap"
+  },
+  {
+    "Kamus Bahasa Jawa":237,
+    "Ngoko":"Ganti",
+    "Krama":"Gantos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Ganti"
+  },
+  {
+    "Kamus Bahasa Jawa":238,
+    "Ngoko":"Gati",
+    "Krama":"Gatos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Panting"
+  },
+  {
+    "Kamus Bahasa Jawa":239,
+    "Ngoko":"Gawa",
+    "Krama":"Bekta",
+    "Krama Inggil":"Asta",
+    "Bahasa Indonesia":"Bawa"
+  },
+  {
+    "Kamus Bahasa Jawa":240,
+    "Ngoko":"Gawe",
+    "Krama":"Damel",
+    "Krama Inggil":"Ngasta",
+    "Bahasa Indonesia":"Membuat"
+  },
+  {
+    "Kamus Bahasa Jawa":241,
+    "Ngoko":"Geneya",
+    "Krama":"Kenging Mênapa",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Mengapa"
+  },
+  {
+    "Kamus Bahasa Jawa":242,
+    "Ngoko":"Gêbug",
+    "Krama":"Gêbag",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Pukul"
+  },
+  {
+    "Kamus Bahasa Jawa":243,
+    "Ngoko":"Gêdhang",
+    "Krama":"Pisang",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Pisang"
+  },
+  {
+    "Kamus Bahasa Jawa":244,
+    "Ngoko":"Gêdhe",
+    "Krama":"Agêng",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Besar"
+  },
+  {
+    "Kamus Bahasa Jawa":245,
+    "Ngoko":"Gêdhen",
+    "Krama":"Agengan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Serba banyak"
+  },
+  {
+    "Kamus Bahasa Jawa":246,
+    "Ngoko":"Gêgêr",
+    "Krama":null,
+    "Krama Inggil":"Pêngkêran",
+    "Bahasa Indonesia":"Punggung"
+  },
+  {
+    "Kamus Bahasa Jawa":247,
+    "Ngoko":"Gêlang",
+    "Krama":null,
+    "Krama Inggil":"Binggêl",
+    "Bahasa Indonesia":"Gelang"
+  },
+  {
+    "Kamus Bahasa Jawa":248,
+    "Ngoko":"Gêlêm",
+    "Krama":"Purun",
+    "Krama Inggil":"Kêrsa",
+    "Bahasa Indonesia":"Mau"
+  },
+  {
+    "Kamus Bahasa Jawa":249,
+    "Ngoko":"Gêlung",
+    "Krama":null,
+    "Krama Inggil":"Ukêl",
+    "Bahasa Indonesia":"Gelung"
+  },
+  {
+    "Kamus Bahasa Jawa":250,
+    "Ngoko":"Gêmak",
+    "Krama":"Puyuh",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Burung puyuh"
+  },
+  {
+    "Kamus Bahasa Jawa":251,
+    "Ngoko":"Gêmati",
+    "Krama":"Gêmatos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Merawat dengan\nbaik"
+  },
+  {
+    "Kamus Bahasa Jawa":252,
+    "Ngoko":"Gêndhuk",
+    "Krama":null,
+    "Krama Inggil":"Nini",
+    "Bahasa Indonesia":"Putri"
+  },
+  {
+    "Kamus Bahasa Jawa":253,
+    "Ngoko":"Gênêp",
+    "Krama":"Jangkêp",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Lengkap"
+  },
+  {
+    "Kamus Bahasa Jawa":254,
+    "Ngoko":"Gêni",
+    "Krama":"Latu",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Api"
+  },
+  {
+    "Kamus Bahasa Jawa":255,
+    "Ngoko":"Gênti",
+    "Krama":"Gêntos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Ganti"
+  },
+  {
+    "Kamus Bahasa Jawa":256,
+    "Ngoko":"Gêring",
+    "Krama":"Kêra",
+    "Krama Inggil":"Susut",
+    "Bahasa Indonesia":"Kurus"
+  },
+  {
+    "Kamus Bahasa Jawa":257,
+    "Ngoko":"Gêtih",
+    "Krama":"Rah",
+    "Krama Inggil":"Ludira",
+    "Bahasa Indonesia":"Darah"
+  },
+  {
+    "Kamus Bahasa Jawa":258,
+    "Ngoko":"Githok",
+    "Krama":null,
+    "Krama Inggil":"Griwa",
+    "Bahasa Indonesia":"Tengkuk"
+  },
+  {
+    "Kamus Bahasa Jawa":259,
+    "Ngoko":"Glugu",
+    "Krama":"Glêga",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Pohon kelapa"
+  },
+  {
+    "Kamus Bahasa Jawa":260,
+    "Ngoko":"Gocek",
+    "Krama":"Cêpêng",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Memegang"
+  },
+  {
+    "Kamus Bahasa Jawa":261,
+    "Ngoko":"Godheg",
+    "Krama":null,
+    "Krama Inggil":"Gumbala",
+    "Bahasa Indonesia":"Cambang"
+  },
+  {
+    "Kamus Bahasa Jawa":262,
+    "Ngoko":"Godhong",
+    "Krama":"Ron",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Daun"
+  },
+  {
+    "Kamus Bahasa Jawa":263,
+    "Ngoko":"Golek",
+    "Krama":"Pados",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Cari"
+  },
+  {
+    "Kamus Bahasa Jawa":264,
+    "Ngoko":"Guroh",
+    "Krama":"Dora",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Bohong"
+  },
+  {
+    "Kamus Bahasa Jawa":265,
+    "Ngoko":"Gugah",
+    "Krama":"Gigah",
+    "Krama Inggil":"Wungu",
+    "Bahasa Indonesia":"Bangun"
+  },
+  {
+    "Kamus Bahasa Jawa":266,
+    "Ngoko":"Gugat",
+    "Krama":"Gigat",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Gugat"
+  },
+  {
+    "Kamus Bahasa Jawa":267,
+    "Ngoko":"Gugu",
+    "Krama":"Gêga",
+    "Krama Inggil":"Ngestokaken",
+    "Bahasa Indonesia":"Menurut"
+  },
+  {
+    "Kamus Bahasa Jawa":268,
+    "Ngoko":"Gula",
+    "Krama":"Gêndhis",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Gula"
+  },
+  {
+    "Kamus Bahasa Jawa":269,
+    "Ngoko":"Gulu",
+    "Krama":null,
+    "Krama Inggil":"Jangga",
+    "Bahasa Indonesia":"Leher"
+  },
+  {
+    "Kamus Bahasa Jawa":270,
+    "Ngoko":"Gumati",
+    "Krama":"Gumatos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Merawat dengan\nbaik"
+  },
+  {
+    "Kamus Bahasa Jawa":271,
+    "Ngoko":"Guna",
+    "Krama":"Gina",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Guna"
+  },
+  {
+    "Kamus Bahasa Jawa":272,
+    "Ngoko":"Gunêm",
+    "Krama":"Ginêm",
+    "Krama Inggil":"Ngêndika",
+    "Bahasa Indonesia":"Berbicara"
+  },
+  {
+    "Kamus Bahasa Jawa":273,
+    "Ngoko":"Gunung",
+    "Krama":"Rêdi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Gunung"
+  },
+  {
+    "Kamus Bahasa Jawa":274,
+    "Ngoko":"Gusi",
+    "Krama":null,
+    "Krama Inggil":"Wingkisan",
+    "Bahasa Indonesia":"Gusi"
+  },
+  {
+    "Kamus Bahasa Jawa":275,
+    "Ngoko":"Guyu",
+    "Krama":"Gujeng",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tawa"
+  },
+  {
+    "Kamus Bahasa Jawa":276,
+    "Ngoko":"Icip",
+    "Krama":"Dipunincip",
+    "Krama Inggil":"Dipunkêdhapi",
+    "Bahasa Indonesia":"Dicicip"
+  },
+  {
+    "Kamus Bahasa Jawa":277,
+    "Ngoko":"Idêp",
+    "Krama":null,
+    "Krama Inggil":"Ibing",
+    "Bahasa Indonesia":"Bulu mata"
+  },
+  {
+    "Kamus Bahasa Jawa":278,
+    "Ngoko":"Idêr",
+    "Krama":null,
+    "Krama Inggil":"Pêpara",
+    "Bahasa Indonesia":"Berkeliling"
+  },
+  {
+    "Kamus Bahasa Jawa":279,
+    "Ngoko":"Idu",
+    "Krama":null,
+    "Krama Inggil":"Kêcoh",
+    "Bahasa Indonesia":"Ludah"
+  },
+  {
+    "Kamus Bahasa Jawa":280,
+    "Ngoko":"Iga",
+    "Krama":null,
+    "Krama Inggil":"Unusan",
+    "Bahasa Indonesia":"Tulang rusuk"
+  },
+  {
+    "Kamus Bahasa Jawa":281,
+    "Ngoko":"Ijo",
+    "Krama":"Ijêm",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Hijau"
+  },
+  {
+    "Kamus Bahasa Jawa":282,
+    "Ngoko":"Ijol",
+    "Krama":"Lintu",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tukar"
+  },
+  {
+    "Kamus Bahasa Jawa":283,
+    "Ngoko":"Ika",
+    "Krama":"Mênika",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Itu"
+  },
+  {
+    "Kamus Bahasa Jawa":284,
+    "Ngoko":"Ikêt",
+    "Krama":null,
+    "Krama Inggil":"Dhêstar",
+    "Bahasa Indonesia":"Ikat kepala"
+  },
+  {
+    "Kamus Bahasa Jawa":285,
+    "Ngoko":"Iki",
+    "Krama":"Niki",
+    "Krama Inggil":"Punika",
+    "Bahasa Indonesia":"Ini"
+  },
+  {
+    "Kamus Bahasa Jawa":286,
+    "Ngoko":"Iku",
+    "Krama":"Mênika",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Itu"
+  },
+  {
+    "Kamus Bahasa Jawa":287,
+    "Ngoko":"Ilmu",
+    "Krama":"Elmu",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Ilmu"
+  },
+  {
+    "Kamus Bahasa Jawa":288,
+    "Ngoko":"Ilang",
+    "Krama":"Ical",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Hilang"
+  },
+  {
+    "Kamus Bahasa Jawa":289,
+    "Ngoko":"Ilat",
+    "Krama":null,
+    "Krama Inggil":"Lidah",
+    "Bahasa Indonesia":"Lidah"
+  },
+  {
+    "Kamus Bahasa Jawa":290,
+    "Ngoko":"Ilo",
+    "Krama":null,
+    "Krama Inggil":"Paningalan",
+    "Bahasa Indonesia":"Cermin"
+  },
+  {
+    "Kamus Bahasa Jawa":291,
+    "Ngoko":"Ilu",
+    "Krama":"Tumut",
+    "Krama Inggil":"Ndherek",
+    "Bahasa Indonesia":"Ikut"
+  },
+  {
+    "Kamus Bahasa Jawa":292,
+    "Ngoko":"Imbuh",
+    "Krama":"Imbet, Ngimbet",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Peram, Memeram"
+  },
+  {
+    "Kamus Bahasa Jawa":293,
+    "Ngoko":"Imbon",
+    "Krama":"Imbêtan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"peraman"
+  },
+  {
+    "Kamus Bahasa Jawa":294,
+    "Ngoko":"Imbuh",
+    "Krama":"Imbêt",
+    "Krama Inggil":"Tanduk",
+    "Bahasa Indonesia":"Tambah"
+  },
+  {
+    "Kamus Bahasa Jawa":295,
+    "Ngoko":"Impi",
+    "Krama":"Supêna",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Impi"
+  },
+  {
+    "Kamus Bahasa Jawa":296,
+    "Ngoko":"Inêp",
+    "Krama":"Sipêng",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Inap"
+  },
+  {
+    "Kamus Bahasa Jawa":297,
+    "Ngoko":"Inggat",
+    "Krama":null,
+    "Krama Inggil":"Lolos",
+    "Bahasa Indonesia":"Pergi tanpa pamit"
+  },
+  {
+    "Kamus Bahasa Jawa":298,
+    "Ngoko":"Ingu",
+    "Krama":"Ingah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Piara, Pelihara"
+  },
+  {
+    "Kamus Bahasa Jawa":299,
+    "Ngoko":"Intên",
+    "Krama":"Sela",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Intan"
+  },
+  {
+    "Kamus Bahasa Jawa":300,
+    "Ngoko":"Irêng",
+    "Krama":"Cêmêng",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Hitam"
+  },
+  {
+    "Kamus Bahasa Jawa":301,
+    "Ngoko":"Iring",
+    "Krama":null,
+    "Krama Inggil":"Dherekaken",
+    "Bahasa Indonesia":"Diiringkan"
+  },
+  {
+    "Kamus Bahasa Jawa":302,
+    "Ngoko":"Irung",
+    "Krama":null,
+    "Krama Inggil":"Grana",
+    "Bahasa Indonesia":"Hidung"
+  },
+  {
+    "Kamus Bahasa Jawa":303,
+    "Ngoko":"Isa",
+    "Krama":"Saged",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Bisa"
+  },
+  {
+    "Kamus Bahasa Jawa":304,
+    "Ngoko":"Isin",
+    "Krama":"Lingsem",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Malu"
+  },
+  {
+    "Kamus Bahasa Jawa":305,
+    "Ngoko":"Isih",
+    "Krama":"Taksih",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Masih"
+  },
+  {
+    "Kamus Bahasa Jawa":306,
+    "Ngoko":"Ising",
+    "Krama":"Bêbucal",
+    "Krama Inggil":"Kêbêlêt,\nBobotan",
+    "Bahasa Indonesia":"Buang air besar"
+  },
+  {
+    "Kamus Bahasa Jawa":307,
+    "Ngoko":"Isor",
+    "Krama":"Andhap",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Bawah"
+  },
+  {
+    "Kamus Bahasa Jawa":308,
+    "Ngoko":"Iwak",
+    "Krama":"Ulam",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Ikan"
+  },
+  {
+    "Kamus Bahasa Jawa":309,
+    "Ngoko":"Jaba",
+    "Krama":"Jawi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Luar"
+  },
+  {
+    "Kamus Bahasa Jawa":310,
+    "Ngoko":"Jaga",
+    "Krama":"Jagi",
+    "Krama Inggil":"Reksa",
+    "Bahasa Indonesia":"Jaga"
+  },
+  {
+    "Kamus Bahasa Jawa":311,
+    "Ngoko":"Jago",
+    "Krama":"Sawung",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Jago, Calon"
+  },
+  {
+    "Kamus Bahasa Jawa":312,
+    "Ngoko":"Jala",
+    "Krama":"Jambêt",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Jala, Jaring"
+  },
+  {
+    "Kamus Bahasa Jawa":313,
+    "Ngoko":"Jalu",
+    "Krama":"Jalu, Panja",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Taji"
+  },
+  {
+    "Kamus Bahasa Jawa":314,
+    "Ngoko":"Jaluk",
+    "Krama":"Nedi",
+    "Krama Inggil":"Nyuwun",
+    "Bahasa Indonesia":"Minta"
+  },
+  {
+    "Kamus Bahasa Jawa":315,
+    "Ngoko":"Jam",
+    "Krama":"Jam, Pukul",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Jam"
+  },
+  {
+    "Kamus Bahasa Jawa":316,
+    "Ngoko":"Jambe",
+    "Krama":"Wohan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Pinang"
+  },
+  {
+    "Kamus Bahasa Jawa":317,
+    "Ngoko":"Jambu",
+    "Krama":"Jambêt",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Jambu"
+  },
+  {
+    "Kamus Bahasa Jawa":318,
+    "Ngoko":"Jamu",
+    "Krama":"Jampi",
+    "Krama Inggil":"Loloh, Usada",
+    "Bahasa Indonesia":"Jamu"
+  },
+  {
+    "Kamus Bahasa Jawa":319,
+    "Ngoko":"Janggut",
+    "Krama":null,
+    "Krama Inggil":"Kêthêkan",
+    "Bahasa Indonesia":"Dagu"
+  },
+  {
+    "Kamus Bahasa Jawa":320,
+    "Ngoko":"Jaran",
+    "Krama":"Kapal",
+    "Krama Inggil":"Titihan,\nTurangga",
+    "Bahasa Indonesia":"Kuda"
+  },
+  {
+    "Kamus Bahasa Jawa":321,
+    "Ngoko":"Jare",
+    "Krama":"Cariyosipun",
+    "Krama Inggil":"Ngêndikanipun",
+    "Bahasa Indonesia":"Katanya"
+  },
+  {
+    "Kamus Bahasa Jawa":322,
+    "Ngoko":"Jarit",
+    "Krama":"Sinjang",
+    "Krama Inggil":"Nyamping",
+    "Bahasa Indonesia":"Kain batik"
+  },
+  {
+    "Kamus Bahasa Jawa":323,
+    "Ngoko":"Jarwa",
+    "Krama":"Jarwi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Artinya"
+  },
+  {
+    "Kamus Bahasa Jawa":324,
+    "Ngoko":"Jati",
+    "Krama":"Jatos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Jati, Nyata, Betul"
+  },
+  {
+    "Kamus Bahasa Jawa":325,
+    "Ngoko":"Jawa",
+    "Krama":"Jawi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Suku Jawa"
+  },
+  {
+    "Kamus Bahasa Jawa":326,
+    "Ngoko":"Jêmbar",
+    "Krama":"Wiyar",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Luas"
+  },
+  {
+    "Kamus Bahasa Jawa":327,
+    "Ngoko":"Jênat",
+    "Krama":null,
+    "Krama Inggil":"Suwargi",
+    "Bahasa Indonesia":"Orang yang\nsudah mati"
+  },
+  {
+    "Kamus Bahasa Jawa":328,
+    "Ngoko":"Jênêng",
+    "Krama":"Nama",
+    "Krama Inggil":"Asma",
+    "Bahasa Indonesia":"Nama"
+  },
+  {
+    "Kamus Bahasa Jawa":329,
+    "Ngoko":"Jênggot",
+    "Krama":null,
+    "Krama Inggil":"Gumbala",
+    "Bahasa Indonesia":"Janggut"
+  },
+  {
+    "Kamus Bahasa Jawa":330,
+    "Ngoko":"Jero",
+    "Krama":"Lêbêt",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Dalam"
+  },
+  {
+    "Kamus Bahasa Jawa":331,
+    "Ngoko":"Jêruk",
+    "Krama":"Jêram",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Jeruk"
+  },
+  {
+    "Kamus Bahasa Jawa":332,
+    "Ngoko":"Jisim",
+    "Krama":null,
+    "Krama Inggil":"Layon",
+    "Bahasa Indonesia":"Mayat"
+  },
+  {
+    "Kamus Bahasa Jawa":333,
+    "Ngoko":"Joged",
+    "Krama":null,
+    "Krama Inggil":"Beksa",
+    "Bahasa Indonesia":"Tari"
+  },
+  {
+    "Kamus Bahasa Jawa":334,
+    "Ngoko":"Jungkat",
+    "Krama":"Serat",
+    "Krama Inggil":"Pethat",
+    "Bahasa Indonesia":"Sisir"
+  },
+  {
+    "Kamus Bahasa Jawa":335,
+    "Ngoko":"Jupuk",
+    "Krama":"Pendhet",
+    "Krama Inggil":"Pundhut",
+    "Bahasa Indonesia":"Ambil"
+  },
+  {
+    "Kamus Bahasa Jawa":336,
+    "Ngoko":"Kabêcikan",
+    "Krama":"Kêsaenan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kebaikan"
+  },
+  {
+    "Kamus Bahasa Jawa":337,
+    "Ngoko":"Kabeh",
+    "Krama":"Sedaya",
+    "Krama Inggil":"Sedanten",
+    "Bahasa Indonesia":"Semua"
+  },
+  {
+    "Kamus Bahasa Jawa":338,
+    "Ngoko":"Kacamata",
+    "Krama":"Kacamripat",
+    "Krama Inggil":"Kacatingal",
+    "Bahasa Indonesia":"Kacamata"
+  },
+  {
+    "Kamus Bahasa Jawa":339,
+    "Ngoko":"Kacek",
+    "Krama":"Kaot",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Beda, Selisih"
+  },
+  {
+    "Kamus Bahasa Jawa":340,
+    "Ngoko":"Kacu",
+    "Krama":null,
+    "Krama Inggil":"Usap asta",
+    "Bahasa Indonesia":"Sapu tangan"
+  },
+  {
+    "Kamus Bahasa Jawa":341,
+    "Ngoko":"Kadhêmên",
+    "Krama":"Kasrêpên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kedinginan"
+  },
+  {
+    "Kamus Bahasa Jawa":342,
+    "Ngoko":"Kadohan",
+    "Krama":"Kêtêbihên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Terlalu jauh"
+  },
+  {
+    "Kamus Bahasa Jawa":343,
+    "Ngoko":"Kae",
+    "Krama":"Punika",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Itu"
+  },
+  {
+    "Kamus Bahasa Jawa":344,
+    "Ngoko":"Kaget",
+    "Krama":null,
+    "Krama Inggil":"Kejot",
+    "Bahasa Indonesia":"Terkejut"
+  },
+  {
+    "Kamus Bahasa Jawa":345,
+    "Ngoko":"Kagetan",
+    "Krama":"Kêjotan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Mudah terkejut"
+  },
+  {
+    "Kamus Bahasa Jawa":346,
+    "Ngoko":"Kajaba",
+    "Krama":"Kêjawi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kecuali"
+  },
+  {
+    "Kamus Bahasa Jawa":347,
+    "Ngoko":"Kajawan",
+    "Krama":"Kajawen",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Wilayahnya orang\njawa"
+  },
+  {
+    "Kamus Bahasa Jawa":348,
+    "Ngoko":"Kaji",
+    "Krama":"Ngaos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Mengaji"
+  },
+  {
+    "Kamus Bahasa Jawa":349,
+    "Ngoko":"Kakang",
+    "Krama":null,
+    "Krama Inggil":"Kangmas, Raka",
+    "Bahasa Indonesia":"Kakak laki-laki"
+  },
+  {
+    "Kamus Bahasa Jawa":350,
+    "Ngoko":"Kakehan",
+    "Krama":"Kêkathahên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kebanyakan"
+  },
+  {
+    "Kamus Bahasa Jawa":351,
+    "Ngoko":"Kaku",
+    "Krama":"Kaken",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kaku"
+  },
+  {
+    "Kamus Bahasa Jawa":352,
+    "Ngoko":"Kalah",
+    "Krama":"Kawon",
+    "Krama Inggil":"Kasoran",
+    "Bahasa Indonesia":"Kalah"
+  },
+  {
+    "Kamus Bahasa Jawa":353,
+    "Ngoko":"Kali",
+    "Krama":"Lepen",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sungai"
+  },
+  {
+    "Kamus Bahasa Jawa":354,
+    "Ngoko":"Kalumrahan",
+    "Krama":"Kalimrahan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kebiasaan"
+  },
+  {
+    "Kamus Bahasa Jawa":355,
+    "Ngoko":"Kalung",
+    "Krama":null,
+    "Krama Inggil":"Sangsangan",
+    "Bahasa Indonesia":"Kalung"
+  },
+  {
+    "Kamus Bahasa Jawa":356,
+    "Ngoko":"Kalungguhan",
+    "Krama":null,
+    "Krama Inggil":"Kalênggahan",
+    "Bahasa Indonesia":"Pangkat,\nKedudukan"
+  },
+  {
+    "Kamus Bahasa Jawa":357,
+    "Ngoko":"Kaluputan",
+    "Krama":"Kalêpatan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kesalahan"
+  },
+  {
+    "Kamus Bahasa Jawa":358,
+    "Ngoko":"Kambil",
+    "Krama":"Klapa",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kelapa"
+  },
+  {
+    "Kamus Bahasa Jawa":359,
+    "Ngoko":"Kambu",
+    "Krama":"Kambet",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tercium baunya"
+  },
+  {
+    "Kamus Bahasa Jawa":360,
+    "Ngoko":"Kamitua",
+    "Krama":"Kamisepuh",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Pimpinan desa"
+  },
+  {
+    "Kamus Bahasa Jawa":361,
+    "Ngoko":"Kamot",
+    "Krama":"Kawrat",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Muat"
+  },
+  {
+    "Kamus Bahasa Jawa":362,
+    "Ngoko":"Kana",
+    "Krama":"Ngrika",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sana"
+  },
+  {
+    "Kamus Bahasa Jawa":363,
+    "Ngoko":"Kanca",
+    "Krama":"Rencang",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Teman"
+  },
+  {
+    "Kamus Bahasa Jawa":364,
+    "Ngoko":"Kandha",
+    "Krama":"Sanjang",
+    "Krama Inggil":"Matur",
+    "Bahasa Indonesia":"Berkata"
+  },
+  {
+    "Kamus Bahasa Jawa":365,
+    "Ngoko":"Kangên",
+    "Krama":null,
+    "Krama Inggil":"Kapang, Oneng",
+    "Bahasa Indonesia":"Rindu"
+  },
+  {
+    "Kamus Bahasa Jawa":366,
+    "Ngoko":"Kangêrten",
+    "Krama":"Kangêrtosan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Diketahui"
+  },
+  {
+    "Kamus Bahasa Jawa":367,
+    "Ngoko":"Kanggo",
+    "Krama":"Kangge",
+    "Krama Inggil":"Kagem",
+    "Bahasa Indonesia":"Buat"
+  },
+  {
+    "Kamus Bahasa Jawa":368,
+    "Ngoko":"Kanti",
+    "Krama":"Kantos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Hingga, Sampai"
+  },
+  {
+    "Kamus Bahasa Jawa":369,
+    "Ngoko":"Kantên",
+    "Krama":"Kantosan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Penyabar"
+  },
+  {
+    "Kamus Bahasa Jawa":370,
+    "Ngoko":"Kapan",
+    "Krama":"Mbenjing\nmenapa",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kapan"
+  },
+  {
+    "Kamus Bahasa Jawa":371,
+    "Ngoko":"Kapiran",
+    "Krama":"Kapinten",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tidak terawat"
+  },
+  {
+    "Kamus Bahasa Jawa":372,
+    "Ngoko":"Kara-kara",
+    "Krama":"Kawis-kawis",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Halangan"
+  },
+  {
+    "Kamus Bahasa Jawa":373,
+    "Ngoko":"Karangên",
+    "Krama":"Kawisên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Terlalu jarang"
+  },
+  {
+    "Kamus Bahasa Jawa":374,
+    "Ngoko":"Karêben",
+    "Krama":"Kajengipun",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Biar saja, Supaya"
+  },
+  {
+    "Kamus Bahasa Jawa":375,
+    "Ngoko":"Karêp",
+    "Krama":"Kajêng",
+    "Krama Inggil":"Kersa",
+    "Bahasa Indonesia":"Niat, Maksud"
+  },
+  {
+    "Kamus Bahasa Jawa":376,
+    "Ngoko":"Karêpe",
+    "Krama":"Kajêngipun",
+    "Krama Inggil":"Kêrsanipun",
+    "Bahasa Indonesia":"Maksudnya"
+  },
+  {
+    "Kamus Bahasa Jawa":377,
+    "Ngoko":"Kari",
+    "Krama":"Kantun",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tertinggal"
+  },
+  {
+    "Kamus Bahasa Jawa":378,
+    "Ngoko":"Karo",
+    "Krama":"Kalih",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kedua"
+  },
+  {
+    "Kamus Bahasa Jawa":379,
+    "Ngoko":"Karo",
+    "Krama":"Kaliyan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Dengan"
+  },
+  {
+    "Kamus Bahasa Jawa":380,
+    "Ngoko":"Kartu",
+    "Krama":"Kêrtos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kartu"
+  },
+  {
+    "Kamus Bahasa Jawa":381,
+    "Ngoko":"Karuhan",
+    "Krama":"Kantênan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tentu, Jelas"
+  },
+  {
+    "Kamus Bahasa Jawa":382,
+    "Ngoko":"Kasoran",
+    "Krama":"Kawonan",
+    "Krama Inggil":"Kandhapan",
+    "Bahasa Indonesia":"Kalah"
+  },
+  {
+    "Kamus Bahasa Jawa":383,
+    "Ngoko":"Kathok",
+    "Krama":"Sruwal",
+    "Krama Inggil":"Lancingan",
+    "Bahasa Indonesia":"Celana"
+  },
+  {
+    "Kamus Bahasa Jawa":384,
+    "Ngoko":"Kathokan",
+    "Krama":"Sruwalan",
+    "Krama Inggil":"Lancingan",
+    "Bahasa Indonesia":"Bercelana"
+  },
+  {
+    "Kamus Bahasa Jawa":385,
+    "Ngoko":"Katon",
+    "Krama":"Katingal",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Dapat dilihat"
+  },
+  {
+    "Kamus Bahasa Jawa":386,
+    "Ngoko":"Kaya",
+    "Krama":"Kados",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Seperti"
+  },
+  {
+    "Kamus Bahasa Jawa":387,
+    "Ngoko":"Kayu",
+    "Krama":"Kajêng",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Batang pohon"
+  },
+  {
+    "Kamus Bahasa Jawa":388,
+    "Ngoko":"Kawanên",
+    "Krama":"Kêsiangan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kesiangan"
+  },
+  {
+    "Kamus Bahasa Jawa":389,
+    "Ngoko":"Kawêngên",
+    "Krama":"Kêdalon",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kêmalaman"
+  },
+  {
+    "Kamus Bahasa Jawa":390,
+    "Ngoko":"Kawigaten",
+    "Krama":"Kawigatosan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Perhatian"
+  },
+  {
+    "Kamus Bahasa Jawa":391,
+    "Ngoko":"Kawruh",
+    "Krama":"Sêsêrêpan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Pengetahuan"
+  },
+  {
+    "Kamus Bahasa Jawa":392,
+    "Ngoko":"Kelangan",
+    "Krama":"Kecalan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kehilangan"
+  },
+  {
+    "Kamus Bahasa Jawa":393,
+    "Ngoko":"Kelingan",
+    "Krama":"Kemutan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Teringat"
+  },
+  {
+    "Kamus Bahasa Jawa":394,
+    "Ngoko":"Kempol",
+    "Krama":null,
+    "Krama Inggil":"Wengkelan",
+    "Bahasa Indonesia":"Betis"
+  },
+  {
+    "Kamus Bahasa Jawa":395,
+    "Ngoko":"Kene",
+    "Krama":"Riki",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sini"
+  },
+  {
+    "Kamus Bahasa Jawa":396,
+    "Ngoko":"Keren",
+    "Krama":"Kantunan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sisa"
+  },
+  {
+    "Kamus Bahasa Jawa":397,
+    "Ngoko":"Keri",
+    "Krama":"Kantun",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tertinggal"
+  },
+  {
+    "Kamus Bahasa Jawa":398,
+    "Ngoko":"Kesuk",
+    "Krama":"Sakenjing",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sepanjang pagi"
+  },
+  {
+    "Kamus Bahasa Jawa":399,
+    "Ngoko":"Ketok",
+    "Krama":"asring",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kelihatan"
+  },
+  {
+    "Kamus Bahasa Jawa":400,
+    "Ngoko":"Kewuhan",
+    "Krama":"Kewêdan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sangat segan"
+  },
+  {
+    "Kamus Bahasa Jawa":401,
+    "Ngoko":"kê",
+    "Krama":"Kaping",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kebatinan"
+  },
+  {
+    "Kamus Bahasa Jawa":402,
+    "Ngoko":"Kêbacut",
+    "Krama":"Kelajeng",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Terlanjur"
+  },
+  {
+    "Kamus Bahasa Jawa":403,
+    "Ngoko":"Kêbangêtên",
+    "Krama":"Kêsangêtên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Keterlaluan"
+  },
+  {
+    "Kamus Bahasa Jawa":404,
+    "Ngoko":"Kêbanyon",
+    "Krama":"Kêtoyan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Terairi (sawah)"
+  },
+  {
+    "Kamus Bahasa Jawa":405,
+    "Ngoko":"Kêbatinan",
+    "Krama":"Kêbatosan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kebati"
+  },
+  {
+    "Kamus Bahasa Jawa":406,
+    "Ngoko":"Kêbênêr",
+    "Krama":"Kêlêrês",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kebetulan"
+  },
+  {
+    "Kamus Bahasa Jawa":407,
+    "Ngoko":"Kêbiren",
+    "Krama":"Kêbincihan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Hewan yang\ndikebiri"
+  },
+  {
+    "Kamus Bahasa Jawa":408,
+    "Ngoko":"Kêbiri",
+    "Krama":"Dipunkêbiri",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Dimandulkan"
+  },
+  {
+    "Kamus Bahasa Jawa":409,
+    "Ngoko":"Kêbo",
+    "Krama":"Maesa",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kerbau"
+  },
+  {
+    "Kamus Bahasa Jawa":410,
+    "Ngoko":"Kêbocahên",
+    "Krama":"Kêlaren",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kekanak-kanakan"
+  },
+  {
+    "Kamus Bahasa Jawa":411,
+    "Ngoko":"Kêbutuhan",
+    "Krama":"Kabêtahan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kebutuhan"
+  },
+  {
+    "Kamus Bahasa Jawa":412,
+    "Ngoko":"Kêcilikên",
+    "Krama":"Kalitên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Terlalu kecil"
+  },
+  {
+    "Kamus Bahasa Jawa":413,
+    "Ngoko":"Kêdadeyan",
+    "Krama":"Kêdadosan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kejadian"
+  },
+  {
+    "Kamus Bahasa Jawa":414,
+    "Ngoko":"Kêdhep",
+    "Krama":null,
+    "Krama Inggil":"Kejep",
+    "Bahasa Indonesia":"Kejap"
+  },
+  {
+    "Kamus Bahasa Jawa":415,
+    "Ngoko":"Kêjaba",
+    "Krama":"Kêjawi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kecuali"
+  },
+  {
+    "Kamus Bahasa Jawa":416,
+    "Ngoko":"Kêkarêpane",
+    "Krama":"Kêkajênganipun",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kehendak"
+  },
+  {
+    "Kamus Bahasa Jawa":417,
+    "Ngoko":"Kêkêmbangan",
+    "Krama":"Sêsêkaran",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Bunga-bungaan"
+  },
+  {
+    "Kamus Bahasa Jawa":418,
+    "Ngoko":"Kêkêmon",
+    "Krama":null,
+    "Krama Inggil":"Kêkêmbêngan",
+    "Bahasa Indonesia":"Berkumur"
+  },
+  {
+    "Kamus Bahasa Jawa":419,
+    "Ngoko":"Kêlairan",
+    "Krama":"Wêdalan",
+    "Krama Inggil":"Wiyosan",
+    "Bahasa Indonesia":"Kelahiran"
+  },
+  {
+    "Kamus Bahasa Jawa":420,
+    "Ngoko":"Kêlakon",
+    "Krama":"Kêlampahan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Terlaksana"
+  },
+  {
+    "Kamus Bahasa Jawa":421,
+    "Ngoko":"Kêlalen",
+    "Krama":"Kêsupen",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Terlupa"
+  },
+  {
+    "Kamus Bahasa Jawa":422,
+    "Ngoko":"Kêlar, Kuwat",
+    "Krama":"Kuwawi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kuat"
+  },
+  {
+    "Kamus Bahasa Jawa":423,
+    "Ngoko":"Kêlaran",
+    "Krama":"Kêsakitan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kesakitan"
+  },
+  {
+    "Kamus Bahasa Jawa":424,
+    "Ngoko":"Kêlalen",
+    "Krama":"Kêsupen",
+    "Krama Inggil":"Kalimêngan",
+    "Bahasa Indonesia":"Terlupa"
+  },
+  {
+    "Kamus Bahasa Jawa":425,
+    "Ngoko":"Kêluron",
+    "Krama":null,
+    "Krama Inggil":"Têrag",
+    "Bahasa Indonesia":"Keguguran"
+  },
+  {
+    "Kamus Bahasa Jawa":426,
+    "Ngoko":"Kêmalingan",
+    "Krama":"Kêpandungan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kecurian"
+  },
+  {
+    "Kamus Bahasa Jawa":427,
+    "Ngoko":"Kêmbang",
+    "Krama":"Sêkar",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Bunga"
+  },
+  {
+    "Kamus Bahasa Jawa":428,
+    "Ngoko":"Kêmênyan",
+    "Krama":"Sela",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kemenyan"
+  },
+  {
+    "Kamus Bahasa Jawa":429,
+    "Ngoko":"Kêmu",
+    "Krama":null,
+    "Krama Inggil":"Kembeng",
+    "Bahasa Indonesia":"Kumur"
+  },
+  {
+    "Kamus Bahasa Jawa":430,
+    "Ngoko":"Kêmul",
+    "Krama":null,
+    "Krama Inggil":"Singêb",
+    "Bahasa Indonesia":"Selimut"
+  },
+  {
+    "Kamus Bahasa Jawa":431,
+    "Ngoko":"Kêna",
+    "Krama":"Kenging",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Boleh"
+  },
+  {
+    "Kamus Bahasa Jawa":432,
+    "Ngoko":"Kêndêl",
+    "Krama":"Purun",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Berani"
+  },
+  {
+    "Kamus Bahasa Jawa":433,
+    "Ngoko":"Kêndhekên",
+    "Krama":"Kandhapan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sangat pendek"
+  },
+  {
+    "Kamus Bahasa Jawa":434,
+    "Ngoko":"Kêntekan",
+    "Krama":"Kêtêlasan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kehabisan"
+  },
+  {
+    "Kamus Bahasa Jawa":435,
+    "Ngoko":"Kêpaten",
+    "Krama":"Kêpêjahan",
+    "Krama Inggil":"Kêsedan",
+    "Bahasa Indonesia":"Kematian"
+  },
+  {
+    "Kamus Bahasa Jawa":436,
+    "Ngoko":"Kêpêntut",
+    "Krama":null,
+    "Krama Inggil":"Kêsarib",
+    "Bahasa Indonesia":"Kentut"
+  },
+  {
+    "Kamus Bahasa Jawa":437,
+    "Ngoko":"Kêpriye",
+    "Krama":"Kados pundi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Bagaimana"
+  },
+  {
+    "Kamus Bahasa Jawa":438,
+    "Ngoko":"Kêpung",
+    "Krama":"Kêpang",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Dikelilingi"
+  },
+  {
+    "Kamus Bahasa Jawa":439,
+    "Ngoko":"Kêrêp",
+    "Krama":"Asring",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sering"
+  },
+  {
+    "Kamus Bahasa Jawa":440,
+    "Ngoko":"Kêris",
+    "Krama":"Dhuwung",
+    "Krama Inggil":"Wangkkingan",
+    "Bahasa Indonesia":"Keris"
+  },
+  {
+    "Kamus Bahasa Jawa":441,
+    "Ngoko":"Kêsêl",
+    "Krama":"Sayah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"lelah"
+  },
+  {
+    "Kamus Bahasa Jawa":442,
+    "Ngoko":"Kêsusu",
+    "Krama":"Kêsêsa",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tergesa-gesa"
+  },
+  {
+    "Kamus Bahasa Jawa":443,
+    "Ngoko":"Kêsuwen",
+    "Krama":"Kvdangon",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Terlalu lama"
+  },
+  {
+    "Kamus Bahasa Jawa":444,
+    "Ngoko":"Kêtara",
+    "Krama":"Kêtawis",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kentara"
+  },
+  {
+    "Kamus Bahasa Jawa":445,
+    "Ngoko":"Kêtêkan",
+    "Krama":"Kêdhatêngan",
+    "Krama Inggil":"Krawuhan",
+    "Bahasa Indonesia":"Didatangi"
+  },
+  {
+    "Kamus Bahasa Jawa":446,
+    "Ngoko":"Kêtêmu",
+    "Krama":"Kêpanggih",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Bertemu"
+  },
+  {
+    "Kamus Bahasa Jawa":447,
+    "Ngoko":"Kêthek",
+    "Krama":null,
+    "Krama Inggil":"Rewanda",
+    "Bahasa Indonesia":"Kera"
+  },
+  {
+    "Kamus Bahasa Jawa":448,
+    "Ngoko":"Kêwêngen",
+    "Krama":"Kêdalon",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kemalaman"
+  },
+  {
+    "Kamus Bahasa Jawa":449,
+    "Ngoko":"Kijing",
+    "Krama":null,
+    "Krama Inggil":"Sêkaran",
+    "Bahasa Indonesia":"Nisan"
+  },
+  {
+    "Kamus Bahasa Jawa":450,
+    "Ngoko":"Kinacek",
+    "Krama":"Kinaot",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Istimewa"
+  },
+  {
+    "Kamus Bahasa Jawa":451,
+    "Ngoko":"Kinang",
+    "Krama":"Ganten",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kingang"
+  },
+  {
+    "Kamus Bahasa Jawa":452,
+    "Ngoko":"Kira",
+    "Krama":"Kintên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kira"
+  },
+  {
+    "Kamus Bahasa Jawa":453,
+    "Ngoko":"Kirim",
+    "Krama":"Kintun",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kirim"
+  },
+  {
+    "Kamus Bahasa Jawa":454,
+    "Ngoko":"Kiyi",
+    "Krama":"Mênika",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Ini"
+  },
+  {
+    "Kamus Bahasa Jawa":455,
+    "Ngoko":"Klambi",
+    "Krama":"Rasukan",
+    "Krama Inggil":"Agêman\nrasukan",
+    "Bahasa Indonesia":"Baju"
+  },
+  {
+    "Kamus Bahasa Jawa":456,
+    "Ngoko":"Klasa",
+    "Krama":"Gêlaran",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tikar"
+  },
+  {
+    "Kamus Bahasa Jawa":457,
+    "Ngoko":"Kleru",
+    "Krama":"Klintu",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Keliru"
+  },
+  {
+    "Kamus Bahasa Jawa":458,
+    "Ngoko":"Klêbu",
+    "Krama":"Klêbêt",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Termasuk"
+  },
+  {
+    "Kamus Bahasa Jawa":459,
+    "Ngoko":"Klbon",
+    "Krama":"Klêbêtan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kemasukan"
+  },
+  {
+    "Kamus Bahasa Jawa":460,
+    "Ngoko":"Klêngêr",
+    "Krama":null,
+    "Krama Inggil":"Kantu",
+    "Bahasa Indonesia":"Pingsan"
+  },
+  {
+    "Kamus Bahasa Jawa":461,
+    "Ngoko":"Klumpuk",
+    "Krama":"Klêmpak",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kumpul"
+  },
+  {
+    "Kamus Bahasa Jawa":462,
+    "Ngoko":"Kobong",
+    "Krama":"Kabêsmi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kebakar"
+  },
+  {
+    "Kamus Bahasa Jawa":463,
+    "Ngoko":"Kok",
+    "Krama":"Sampeyan",
+    "Krama Inggil":"Panjênêngan",
+    "Bahasa Indonesia":"Kau"
+  },
+  {
+    "Kamus Bahasa Jawa":464,
+    "Ngoko":"Kodanan",
+    "Krama":"Kêjawahan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kejawahan"
+  },
+  {
+    "Kamus Bahasa Jawa":465,
+    "Ngoko":"Kongkon",
+    "Krama":"Kengken",
+    "Krama Inggil":"Ngutus",
+    "Bahasa Indonesia":"Menyuruh"
+  },
+  {
+    "Kamus Bahasa Jawa":466,
+    "Ngoko":"Kono",
+    "Krama":"Riku",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Situ"
+  },
+  {
+    "Kamus Bahasa Jawa":467,
+    "Ngoko":"Kowe",
+    "Krama":"Sampeyan",
+    "Krama Inggil":"Panjenengan",
+    "Bahasa Indonesia":"Kamu"
+  },
+  {
+    "Kamus Bahasa Jawa":468,
+    "Ngoko":"Kramas",
+    "Krama":null,
+    "Krama Inggil":"Jamas",
+    "Bahasa Indonesia":null
+  },
+  {
+    "Kamus Bahasa Jawa":469,
+    "Ngoko":"Krasa",
+    "Krama":"Kraos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Terasa"
+  },
+  {
+    "Kamus Bahasa Jawa":470,
+    "Ngoko":"Krasan",
+    "Krama":"Kraosan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Betah"
+  },
+  {
+    "Kamus Bahasa Jawa":471,
+    "Ngoko":"Kringêt",
+    "Krama":null,
+    "Krama Inggil":"Riwe",
+    "Bahasa Indonesia":"Mandi jamas"
+  },
+  {
+    "Kamus Bahasa Jawa":472,
+    "Ngoko":"Kubur",
+    "Krama":"Petak",
+    "Krama Inggil":"Sarean",
+    "Bahasa Indonesia":"Kubur"
+  },
+  {
+    "Kamus Bahasa Jawa":473,
+    "Ngoko":"Kuburan",
+    "Krama":null,
+    "Krama Inggil":"Pasareyan",
+    "Bahasa Indonesia":"Makan"
+  },
+  {
+    "Kamus Bahasa Jawa":474,
+    "Ngoko":"Kudu",
+    "Krama":"Kêdah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Harus"
+  },
+  {
+    "Kamus Bahasa Jawa":475,
+    "Ngoko":"Kuku",
+    "Krama":null,
+    "Krama Inggil":"Kênaka",
+    "Bahasa Indonesia":"Kuku"
+  },
+  {
+    "Kamus Bahasa Jawa":476,
+    "Ngoko":"Kukuh",
+    "Krama":"Kêkah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kokoh"
+  },
+  {
+    "Kamus Bahasa Jawa":477,
+    "Ngoko":"Kulak",
+    "Krama":"Kilak",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Membeli untuk\ndijual"
+  },
+  {
+    "Kamus Bahasa Jawa":478,
+    "Ngoko":"Kulon",
+    "Krama":"Kilen",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Barat"
+  },
+  {
+    "Kamus Bahasa Jawa":479,
+    "Ngoko":"Kuluk",
+    "Krama":null,
+    "Krama Inggil":"Makutha",
+    "Bahasa Indonesia":"Mahkota"
+  },
+  {
+    "Kamus Bahasa Jawa":480,
+    "Ngoko":"Kumat",
+    "Krama":"Kimat",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kambuh"
+  },
+  {
+    "Kamus Bahasa Jawa":481,
+    "Ngoko":"Kumbah",
+    "Krama":"Girah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Cuci"
+  },
+  {
+    "Kamus Bahasa Jawa":482,
+    "Ngoko":"Kumpul",
+    "Krama":"Kêmpal",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kumpul"
+  },
+  {
+    "Kamus Bahasa Jawa":483,
+    "Ngoko":"Kuna",
+    "Krama":"Kina",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kuna"
+  },
+  {
+    "Kamus Bahasa Jawa":484,
+    "Ngoko":"Kuning",
+    "Krama":"Jêne",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kuning"
+  },
+  {
+    "Kamus Bahasa Jawa":485,
+    "Ngoko":"Kuping",
+    "Krama":null,
+    "Krama Inggil":"Talingan",
+    "Bahasa Indonesia":"Telinga"
+  },
+  {
+    "Kamus Bahasa Jawa":486,
+    "Ngoko":"Kurang",
+    "Krama":"Kirang",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kurang"
+  },
+  {
+    "Kamus Bahasa Jawa":487,
+    "Ngoko":"Kuru",
+    "Krama":"Kêra",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kurus"
+  },
+  {
+    "Kamus Bahasa Jawa":488,
+    "Ngoko":"Kurung",
+    "Krama":"Sêngkêr",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kurung"
+  },
+  {
+    "Kamus Bahasa Jawa":489,
+    "Ngoko":"Kutha",
+    "Krama":"Kitha",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kota"
+  },
+  {
+    "Kamus Bahasa Jawa":490,
+    "Ngoko":"Kuwasa",
+    "Krama":"Kuwaos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kuasa"
+  },
+  {
+    "Kamus Bahasa Jawa":491,
+    "Ngoko":"Kuwat\/Kêlar",
+    "Krama":"Kiyat\/Kuwawi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kuat"
+  },
+  {
+    "Kamus Bahasa Jawa":492,
+    "Ngoko":"Kuwatir",
+    "Krama":"Kuwatos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Khawatir"
+  },
+  {
+    "Kamus Bahasa Jawa":493,
+    "Ngoko":"Kuwi",
+    "Krama":"Niku",
+    "Krama Inggil":"Punika",
+    "Bahasa Indonesia":"Itu"
+  },
+  {
+    "Kamus Bahasa Jawa":494,
+    "Ngoko":"Kumawani",
+    "Krama":"Kumawantun",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Terlalu berani"
+  },
+  {
+    "Kamus Bahasa Jawa":495,
+    "Ngoko":"Labuh",
+    "Krama":"Labêt",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Berjasa untuk"
+  },
+  {
+    "Kamus Bahasa Jawa":496,
+    "Ngoko":"Ladi",
+    "Krama":"Lados",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Layan"
+  },
+  {
+    "Kamus Bahasa Jawa":497,
+    "Ngoko":"Lagi",
+    "Krama":"Saweg",
+    "Krama Inggil":"Nembe",
+    "Bahasa Indonesia":"Baru Saja"
+  },
+  {
+    "Kamus Bahasa Jawa":498,
+    "Ngoko":"Lair",
+    "Krama":null,
+    "Krama Inggil":"Miyos",
+    "Bahasa Indonesia":"Lahir"
+  },
+  {
+    "Kamus Bahasa Jawa":499,
+    "Ngoko":"Laki",
+    "Krama":"Semah",
+    "Krama Inggil":"Garwa, Sarêsmi",
+    "Bahasa Indonesia":"Suami"
+  },
+  {
+    "Kamus Bahasa Jawa":500,
+    "Ngoko":"Laku",
+    "Krama":"Lampah",
+    "Krama Inggil":"Tindak",
+    "Bahasa Indonesia":"Jalan"
+  },
+  {
+    "Kamus Bahasa Jawa":501,
+    "Ngoko":"Lali",
+    "Krama":"Supe",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Lupa"
+  },
+  {
+    "Kamus Bahasa Jawa":502,
+    "Ngoko":"Lama",
+    "Krama":"Lami, Dangu",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Lama"
+  },
+  {
+    "Kamus Bahasa Jawa":503,
+    "Ngoko":"Lambe",
+    "Krama":null,
+    "Krama Inggil":"Lathi",
+    "Bahasa Indonesia":"Bibir"
+  },
+  {
+    "Kamus Bahasa Jawa":504,
+    "Ngoko":"Lan",
+    "Krama":"Kaliyan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Dan"
+  },
+  {
+    "Kamus Bahasa Jawa":505,
+    "Ngoko":"Lanang",
+    "Krama":"Jalêr",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Laki-laki"
+  },
+  {
+    "Kamus Bahasa Jawa":506,
+    "Ngoko":"Landa",
+    "Krama":"Landi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Belanda"
+  },
+  {
+    "Kamus Bahasa Jawa":507,
+    "Ngoko":"Landheyan",
+    "Krama":null,
+    "Krama Inggil":"Jêjêran",
+    "Bahasa Indonesia":"Tangkai tombak"
+  },
+  {
+    "Kamus Bahasa Jawa":508,
+    "Ngoko":"Lara",
+    "Krama":"Sakit",
+    "Krama Inggil":"Gerah",
+    "Bahasa Indonesia":"Sakit"
+  },
+  {
+    "Kamus Bahasa Jawa":509,
+    "Ngoko":"Larang",
+    "Krama":"Awis",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Mahal"
+  },
+  {
+    "Kamus Bahasa Jawa":510,
+    "Ngoko":"Lawang",
+    "Krama":"Kontên, Kori",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Pintu"
+  },
+  {
+    "Kamus Bahasa Jawa":511,
+    "Ngoko":"Lawas",
+    "Krama":"Lami, Dangu",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Lama"
+  },
+  {
+    "Kamus Bahasa Jawa":512,
+    "Ngoko":"Lawe",
+    "Krama":"Sêlangkung",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Dua puluh lima"
+  },
+  {
+    "Kamus Bahasa Jawa":513,
+    "Ngoko":"Lek",
+    "Krama":null,
+    "Krama Inggil":"Wungu",
+    "Bahasa Indonesia":"Terjaga"
+  },
+  {
+    "Kamus Bahasa Jawa":514,
+    "Ngoko":"Leren",
+    "Krama":"Kendêl",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Istirahat"
+  },
+  {
+    "Kamus Bahasa Jawa":515,
+    "Ngoko":"Lêbu",
+    "Krama":"Lêbêt",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Dalam"
+  },
+  {
+    "Kamus Bahasa Jawa":516,
+    "Ngoko":"Lêlara",
+    "Krama":"Sêsakit",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Penyakit"
+  },
+  {
+    "Kamus Bahasa Jawa":517,
+    "Ngoko":"Lêmah",
+    "Krama":"Siti",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tanah"
+  },
+  {
+    "Kamus Bahasa Jawa":518,
+    "Ngoko":"Lêmu",
+    "Krama":"Lêma",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Lêmbut, Halus"
+  },
+  {
+    "Kamus Bahasa Jawa":519,
+    "Ngoko":"Lênga",
+    "Krama":"Lisah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Minyak"
+  },
+  {
+    "Kamus Bahasa Jawa":520,
+    "Ngoko":"Lêngên",
+    "Krama":null,
+    "Krama Inggil":"Pamênthangan",
+    "Bahasa Indonesia":"Lengan"
+  },
+  {
+    "Kamus Bahasa Jawa":521,
+    "Ngoko":"Lêstari",
+    "Krama":"Lêstantun",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Lestari, Abadi"
+  },
+  {
+    "Kamus Bahasa Jawa":522,
+    "Ngoko":"Lima",
+    "Krama":"Gangsal",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Lima"
+  },
+  {
+    "Kamus Bahasa Jawa":523,
+    "Ngoko":"Linggih",
+    "Krama":"Lênggah",
+    "Krama Inggil":"Pinarak",
+    "Bahasa Indonesia":"Duduk"
+  },
+  {
+    "Kamus Bahasa Jawa":524,
+    "Ngoko":"Linuwih",
+    "Krama":"Linangkung",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Lebih, Luar biasa"
+  },
+  {
+    "Kamus Bahasa Jawa":525,
+    "Ngoko":"Liru",
+    "Krama":"Lintu",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tukar, Ganti"
+  },
+  {
+    "Kamus Bahasa Jawa":526,
+    "Ngoko":"Liwat",
+    "Krama":"Langkung",
+    "Krama Inggil":"Miyos",
+    "Bahasa Indonesia":"Lewat"
+  },
+  {
+    "Kamus Bahasa Jawa":527,
+    "Ngoko":"Liwêt",
+    "Krama":"Mbênthak",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Menanak nasi"
+  },
+  {
+    "Kamus Bahasa Jawa":528,
+    "Ngoko":"Lor",
+    "Krama":"Ler",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Utara"
+  },
+  {
+    "Kamus Bahasa Jawa":529,
+    "Ngoko":"Loro",
+    "Krama":"Kalih",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Dua"
+  },
+  {
+    "Kamus Bahasa Jawa":530,
+    "Ngoko":"Lorodan",
+    "Krama":"Lorodan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Bekas"
+  },
+  {
+    "Kamus Bahasa Jawa":531,
+    "Ngoko":"Lucu",
+    "Krama":null,
+    "Krama Inggil":"Cucud",
+    "Bahasa Indonesia":"Lucu"
+  },
+  {
+    "Kamus Bahasa Jawa":532,
+    "Ngoko":"Luh",
+    "Krama":null,
+    "Krama Inggil":"Waspa",
+    "Bahasa Indonesia":"Air mata"
+  },
+  {
+    "Kamus Bahasa Jawa":533,
+    "Ngoko":"Luku",
+    "Krama":"Lujêng",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Bajak"
+  },
+  {
+    "Kamus Bahasa Jawa":534,
+    "Ngoko":"Lulang",
+    "Krama":"Cucal",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kulit"
+  },
+  {
+    "Kamus Bahasa Jawa":535,
+    "Ngoko":"Lumrah",
+    "Krama":"Limrah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Biasa"
+  },
+  {
+    "Kamus Bahasa Jawa":536,
+    "Ngoko":"Lunga",
+    "Krama":"Kesah",
+    "Krama Inggil":"Tindak",
+    "Bahasa Indonesia":"Pergi"
+  },
+  {
+    "Kamus Bahasa Jawa":537,
+    "Ngoko":"Lungguh",
+    "Krama":null,
+    "Krama Inggil":"Lênggah",
+    "Bahasa Indonesia":"Duduk"
+  },
+  {
+    "Kamus Bahasa Jawa":538,
+    "Ngoko":"Luput",
+    "Krama":"Lepat",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Salah, Keliru"
+  },
+  {
+    "Kamus Bahasa Jawa":539,
+    "Ngoko":"Luwih",
+    "Krama":"Langkung",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Lebih"
+  },
+  {
+    "Kamus Bahasa Jawa":540,
+    "Ngoko":"Maca",
+    "Krama":"Maos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Dilisankan"
+  },
+  {
+    "Kamus Bahasa Jawa":541,
+    "Ngoko":"Macan",
+    "Krama":null,
+    "Krama Inggil":"Sima",
+    "Bahasa Indonesia":"Macan"
+  },
+  {
+    "Kamus Bahasa Jawa":542,
+    "Ngoko":"Madu",
+    "Krama":"Mabên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Bertengkar"
+  },
+  {
+    "Kamus Bahasa Jawa":543,
+    "Ngoko":"Maju",
+    "Krama":"Majeng",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Maju"
+  },
+  {
+    "Kamus Bahasa Jawa":544,
+    "Ngoko":"Malam",
+    "Krama":"Lilin",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Lilin"
+  },
+  {
+    "Kamus Bahasa Jawa":545,
+    "Ngoko":"Maling",
+    "Krama":"Padung",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Pencuri"
+  },
+  {
+    "Kamus Bahasa Jawa":546,
+    "Ngoko":"Mamah",
+    "Krama":null,
+    "Krama Inggil":"Nggilut",
+    "Bahasa Indonesia":"Mengunyah"
+  },
+  {
+    "Kamus Bahasa Jawa":547,
+    "Ngoko":"Mana",
+    "Krama":"Mantên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sekian"
+  },
+  {
+    "Kamus Bahasa Jawa":548,
+    "Ngoko":"Mandhêg",
+    "Krama":"Kendêl",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Berhenti"
+  },
+  {
+    "Kamus Bahasa Jawa":549,
+    "Ngoko":"Maneh",
+    "Krama":"Malih",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Lagi"
+  },
+  {
+    "Kamus Bahasa Jawa":550,
+    "Ngoko":"Mangan",
+    "Krama":"Nedha",
+    "Krama Inggil":"Dhahar",
+    "Bahasa Indonesia":"Makan"
+  },
+  {
+    "Kamus Bahasa Jawa":551,
+    "Ngoko":"Mangkana",
+    "Krama":"Makatên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Demikian"
+  },
+  {
+    "Kamus Bahasa Jawa":552,
+    "Ngoko":"Manuk",
+    "Krama":"Pêksi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Burung"
+  },
+  {
+    "Kamus Bahasa Jawa":553,
+    "Ngoko":"Mara",
+    "Krama":"Dhatêng",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Datang"
+  },
+  {
+    "Kamus Bahasa Jawa":554,
+    "Ngoko":"Mari",
+    "Krama":"Mantun",
+    "Krama Inggil":"Dhangan",
+    "Bahasa Indonesia":"Sembuh"
+  },
+  {
+    "Kamus Bahasa Jawa":555,
+    "Ngoko":"Mata",
+    "Krama":"Mripat",
+    "Krama Inggil":"Paningal, Soca",
+    "Bahasa Indonesia":"Mata"
+  },
+  {
+    "Kamus Bahasa Jawa":556,
+    "Ngoko":"Mati",
+    "Krama":"Pejah",
+    "Krama Inggil":"Seda",
+    "Bahasa Indonesia":"Meninggal"
+  },
+  {
+    "Kamus Bahasa Jawa":557,
+    "Ngoko":"Mau",
+    "Krama":"Wau",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tadi"
+  },
+  {
+    "Kamus Bahasa Jawa":558,
+    "Ngoko":"Mawa",
+    "Krama":"Mawi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Bara api"
+  },
+  {
+    "Kamus Bahasa Jawa":559,
+    "Ngoko":"Mayit",
+    "Krama":"Jisim",
+    "Krama Inggil":"Layon",
+    "Bahasa Indonesia":"Jenazah"
+  },
+  {
+    "Kamus Bahasa Jawa":560,
+    "Ngoko":"Melu",
+    "Krama":"Tumut",
+    "Krama Inggil":"Dherek",
+    "Bahasa Indonesia":"Ikut"
+  },
+  {
+    "Kamus Bahasa Jawa":561,
+    "Ngoko":"Menehi",
+    "Krama":"Ngaturi, Nyukani",
+    "Krama Inggil":"Nyaosi, Maringi",
+    "Bahasa Indonesia":"Memberi"
+  },
+  {
+    "Kamus Bahasa Jawa":562,
+    "Ngoko":"Mêlek",
+    "Krama":null,
+    "Krama Inggil":"Wungu",
+    "Bahasa Indonesia":"Terjaga"
+  },
+  {
+    "Kamus Bahasa Jawa":563,
+    "Ngoko":"Mênang",
+    "Krama":"Mimpang",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Menang"
+  },
+  {
+    "Kamus Bahasa Jawa":564,
+    "Ngoko":"Mênawa",
+    "Krama":"Mênawi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Jika kalau"
+  },
+  {
+    "Kamus Bahasa Jawa":565,
+    "Ngoko":"Mêngko",
+    "Krama":"Mangke",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Nanti"
+  },
+  {
+    "Kamus Bahasa Jawa":566,
+    "Ngoko":"Mênjangan",
+    "Krama":"Sangsam",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sejenis rusa"
+  },
+  {
+    "Kamus Bahasa Jawa":567,
+    "Ngoko":"Mêntas",
+    "Krama":"Nêmbe",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Baru saja"
+  },
+  {
+    "Kamus Bahasa Jawa":568,
+    "Ngoko":"Mênyang",
+    "Krama":"Dhatêng",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Ke"
+  },
+  {
+    "Kamus Bahasa Jawa":569,
+    "Ngoko":"Mêrga",
+    "Krama":"Margi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Karena"
+  },
+  {
+    "Kamus Bahasa Jawa":570,
+    "Ngoko":"Mêruhi",
+    "Krama":"Nyêmêrêpi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Mengetahui"
+  },
+  {
+    "Kamus Bahasa Jawa":571,
+    "Ngoko":"Mêtu",
+    "Krama":"Mêdal",
+    "Krama Inggil":"Miyos",
+    "Bahasa Indonesia":"Keluar"
+  },
+  {
+    "Kamus Bahasa Jawa":572,
+    "Ngoko":"Mêtêng",
+    "Krama":"Wawrat, Mbobot",
+    "Krama Inggil":"Nggarbini",
+    "Bahasa Indonesia":"Hamil"
+  },
+  {
+    "Kamus Bahasa Jawa":573,
+    "Ngoko":"Milang",
+    "Krama":"Mical",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Menghitung"
+  },
+  {
+    "Kamus Bahasa Jawa":574,
+    "Ngoko":"Minggat",
+    "Krama":"Kesah",
+    "Krama Inggil":"Lolos",
+    "Bahasa Indonesia":"Melarikan diri"
+  },
+  {
+    "Kamus Bahasa Jawa":575,
+    "Ngoko":"Mlaku",
+    "Krama":"Mlampah",
+    "Krama Inggil":"Tindak",
+    "Bahasa Indonesia":"Berjalan"
+  },
+  {
+    "Kamus Bahasa Jawa":576,
+    "Ngoko":"Mono",
+    "Krama":"Mantên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Demikian"
+  },
+  {
+    "Kamus Bahasa Jawa":577,
+    "Ngoko":"Mor",
+    "Krama":"Kêmpal",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kumpul"
+  },
+  {
+    "Kamus Bahasa Jawa":578,
+    "Ngoko":"Mori",
+    "Krama":"Montên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kafan"
+  },
+  {
+    "Kamus Bahasa Jawa":579,
+    "Ngoko":"Mot",
+    "Krama":"Wrat",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Muat"
+  },
+  {
+    "Kamus Bahasa Jawa":580,
+    "Ngoko":"Mudhun",
+    "Krama":"Mandhap",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Turun"
+  },
+  {
+    "Kamus Bahasa Jawa":581,
+    "Ngoko":"Muga-muga",
+    "Krama":"Mugi-mugi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Mudah-mudahan"
+  },
+  {
+    "Kamus Bahasa Jawa":582,
+    "Ngoko":"Mula",
+    "Krama":"Mila",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Memang"
+  },
+  {
+    "Kamus Bahasa Jawa":583,
+    "Ngoko":"Mulang",
+    "Krama":"Mucal",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Mengajar"
+  },
+  {
+    "Kamus Bahasa Jawa":584,
+    "Ngoko":"Mulih",
+    "Krama":"Mantuk",
+    "Krama Inggil":"Kondur",
+    "Bahasa Indonesia":"Pulang"
+  },
+  {
+    "Kamus Bahasa Jawa":585,
+    "Ngoko":"Mumêt",
+    "Krama":null,
+    "Krama Inggil":"Puyêng",
+    "Bahasa Indonesia":"Pusing"
+  },
+  {
+    "Kamus Bahasa Jawa":586,
+    "Ngoko":"Mundhak",
+    "Krama":"Mindhak",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tambah"
+  },
+  {
+    "Kamus Bahasa Jawa":587,
+    "Ngoko":"Mung",
+    "Krama":"Namung, Naming",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Hanya"
+  },
+  {
+    "Kamus Bahasa Jawa":588,
+    "Ngoko":"Munggah",
+    "Krama":"Inggah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Naik"
+  },
+  {
+    "Kamus Bahasa Jawa":589,
+    "Ngoko":"Mungguh",
+    "Krama":"Mênggah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Mengenai"
+  },
+  {
+    "Kamus Bahasa Jawa":590,
+    "Ngoko":"Mungsuh",
+    "Krama":"Mêngsah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Musuh, Lawan"
+  },
+  {
+    "Kamus Bahasa Jawa":591,
+    "Ngoko":"Muni",
+    "Krama":"Mungel",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Bersuara"
+  },
+  {
+    "Kamus Bahasa Jawa":592,
+    "Ngoko":"Murah",
+    "Krama":"Mirah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Murah"
+  },
+  {
+    "Kamus Bahasa Jawa":593,
+    "Ngoko":"Muring",
+    "Krama":null,
+    "Krama Inggil":"Duka",
+    "Bahasa Indonesia":"Marah"
+  },
+  {
+    "Kamus Bahasa Jawa":594,
+    "Ngoko":"Mutah",
+    "Krama":null,
+    "Krama Inggil":"Luntak",
+    "Bahasa Indonesia":"Muntah"
+  },
+  {
+    "Kamus Bahasa Jawa":595,
+    "Ngoko":"Mutawatir",
+    "Krama":"Mutawantos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Bahaya"
+  },
+  {
+    "Kamus Bahasa Jawa":596,
+    "Ngoko":"Muwah",
+    "Krama":"Miwah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Dan juga"
+  },
+  {
+    "Kamus Bahasa Jawa":597,
+    "Ngoko":"Nagara",
+    "Krama":"Nagari",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Negara"
+  },
+  {
+    "Kamus Bahasa Jawa":598,
+    "Ngoko":"Ndandani",
+    "Krama":"Ndandosi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Membetulkan"
+  },
+  {
+    "Kamus Bahasa Jawa":599,
+    "Ngoko":"Ndelehake",
+    "Krama":"Nyukakake",
+    "Krama Inggil":"Maringake",
+    "Bahasa Indonesia":"Meletakkan"
+  },
+  {
+    "Kamus Bahasa Jawa":600,
+    "Ngoko":"Ndêdawa",
+    "Krama":"Memanjang",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Memperpanjang"
+  },
+  {
+    "Kamus Bahasa Jawa":601,
+    "Ngoko":"Ndêleng",
+    "Krama":"Ningali",
+    "Krama Inggil":"Mriksani",
+    "Bahasa Indonesia":"Melihat"
+  },
+  {
+    "Kamus Bahasa Jawa":602,
+    "Ngoko":"Ndokokake",
+    "Krama":"Ndekekakên",
+    "Krama Inggil":"Maringakên",
+    "Bahasa Indonesia":"Meletakkan"
+  },
+  {
+    "Kamus Bahasa Jawa":603,
+    "Ngoko":"Nduweni",
+    "Krama":"Nggadahi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Memiliki"
+  },
+  {
+    "Kamus Bahasa Jawa":604,
+    "Ngoko":"Ngadêk",
+    "Krama":null,
+    "Krama Inggil":"Jumênêng",
+    "Bahasa Indonesia":"Berdiri"
+  },
+  {
+    "Kamus Bahasa Jawa":605,
+    "Ngoko":"Ngadhêp",
+    "Krama":"Sowan",
+    "Krama Inggil":"Marak",
+    "Bahasa Indonesia":"Menghadap"
+  },
+  {
+    "Kamus Bahasa Jawa":606,
+    "Ngoko":"Ngajeni",
+    "Krama":"Ngaosi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Menghargai"
+  },
+  {
+    "Kamus Bahasa Jawa":607,
+    "Ngoko":"Ngaji",
+    "Krama":"Ngaos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Mengaji"
+  },
+  {
+    "Kamus Bahasa Jawa":608,
+    "Ngoko":"Ngajokakên",
+    "Krama":"Ngajêngakên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Memajukan"
+  },
+  {
+    "Kamus Bahasa Jawa":609,
+    "Ngoko":"Ngakoni",
+    "Krama":"Ngakêni",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Mengakui"
+  },
+  {
+    "Kamus Bahasa Jawa":610,
+    "Ngoko":"Ngaku",
+    "Krama":"Ngakên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Mengaku"
+  },
+  {
+    "Kamus Bahasa Jawa":611,
+    "Ngoko":"Ngalangi",
+    "Krama":"Mambêngi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Menghalangi"
+  },
+  {
+    "Kamus Bahasa Jawa":612,
+    "Ngoko":"Ngalor",
+    "Krama":"Ngaler",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Ke utara"
+  },
+  {
+    "Kamus Bahasa Jawa":613,
+    "Ngoko":"Ngambakake",
+    "Krama":"Miyarakên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Meluaskan"
+  },
+  {
+    "Kamus Bahasa Jawa":614,
+    "Ngoko":"Ngambu",
+    "Krama":"Ngambêt",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Membau"
+  },
+  {
+    "Kamus Bahasa Jawa":615,
+    "Ngoko":"Ngambung",
+    "Krama":null,
+    "Krama Inggil":"Ngaras",
+    "Bahasa Indonesia":"Mencium"
+  },
+  {
+    "Kamus Bahasa Jawa":616,
+    "Ngoko":"Nganakake",
+    "Krama":"Ngawontênakên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Mêngadakan"
+  },
+  {
+    "Kamus Bahasa Jawa":617,
+    "Ngoko":"Nganti",
+    "Krama":"Ngantos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sampai"
+  },
+  {
+    "Kamus Bahasa Jawa":618,
+    "Ngoko":"Nganyang",
+    "Krama":"Ngawis",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Menawar"
+  },
+  {
+    "Kamus Bahasa Jawa":619,
+    "Ngoko":"Ngapura",
+    "Krama":"Ngapuntên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Memaafkan"
+  },
+  {
+    "Kamus Bahasa Jawa":620,
+    "Ngoko":"Ngarani",
+    "Krama":"Mastani",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Menyebut"
+  },
+  {
+    "Kamus Bahasa Jawa":621,
+    "Ngoko":"Ngarêp",
+    "Krama":"Ngajêng",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Di depan"
+  },
+  {
+    "Kamus Bahasa Jawa":622,
+    "Ngoko":"Ngasor",
+    "Krama":"Ngawon",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Mengalah"
+  },
+  {
+    "Kamus Bahasa Jawa":623,
+    "Ngoko":"Ngawaki",
+    "Krama":null,
+    "Krama Inggil":"Nyêlirani",
+    "Bahasa Indonesia":"Melakukan sendiri"
+  },
+  {
+    "Kamus Bahasa Jawa":624,
+    "Ngoko":"Ngelingi",
+    "Krama":"Ngemuti",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Mengingat"
+  },
+  {
+    "Kamus Bahasa Jawa":625,
+    "Ngoko":"Ngêndhêgake",
+    "Krama":"Ngêndêlake",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Menghentikan"
+  },
+  {
+    "Kamus Bahasa Jawa":626,
+    "Ngoko":"Ngendhog",
+    "Krama":"Nigan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Bertelur"
+  },
+  {
+    "Kamus Bahasa Jawa":627,
+    "Ngoko":"Ngenger",
+    "Krama":null,
+    "Krama Inggil":"Ngabdi",
+    "Bahasa Indonesia":"Mengabdi"
+  },
+  {
+    "Kamus Bahasa Jawa":628,
+    "Ngoko":"Nêmpuh",
+    "Krama":"Nêmpah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Nempuh"
+  },
+  {
+    "Kamus Bahasa Jawa":629,
+    "Ngoko":"Nêsu",
+    "Krama":"Srêngên",
+    "Krama Inggil":"Duka",
+    "Bahasa Indonesia":"Marah"
+  },
+  {
+    "Kamus Bahasa Jawa":630,
+    "Ngoko":"Ngêboti",
+    "Krama":"Ngawrati",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Lebih"
+  },
+  {
+    "Kamus Bahasa Jawa":631,
+    "Ngoko":"Ngêlak",
+    "Krama":null,
+    "Krama Inggil":"Salit",
+    "Bahasa Indonesia":"Haus"
+  },
+  {
+    "Kamus Bahasa Jawa":632,
+    "Ngoko":"Ngêlu",
+    "Krama":null,
+    "Krama Inggil":"Puyêng",
+    "Bahasa Indonesia":"Pusing"
+  },
+  {
+    "Kamus Bahasa Jawa":633,
+    "Ngoko":"Ngêpekake",
+    "Krama":"Mêndhêtake",
+    "Krama Inggil":"Mundhutake",
+    "Bahasa Indonesia":"Mengambilkan"
+  },
+  {
+    "Kamus Bahasa Jawa":634,
+    "Ngoko":"Ngêrti",
+    "Krama":"Ngêrtos",
+    "Krama Inggil":"Priksa",
+    "Bahasa Indonesia":"Tahu"
+  },
+  {
+    "Kamus Bahasa Jawa":635,
+    "Ngoko":"Nggadhuhi",
+    "Krama":null,
+    "Krama Inggil":"Ngampili",
+    "Bahasa Indonesia":"Meminjami"
+  },
+  {
+    "Kamus Bahasa Jawa":636,
+    "Ngoko":"Ngganti",
+    "Krama":"Nggantos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Mengganti"
+  },
+  {
+    "Kamus Bahasa Jawa":637,
+    "Ngoko":"Nggawa",
+    "Krama":"Bêkta",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Membawa"
+  },
+  {
+    "Kamus Bahasa Jawa":638,
+    "Ngoko":"Nggênêpi",
+    "Krama":"Njangkêpi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Melengkapi"
+  },
+  {
+    "Kamus Bahasa Jawa":639,
+    "Ngoko":"Nggoleki",
+    "Krama":"Madosi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Mencari"
+  },
+  {
+    "Kamus Bahasa Jawa":640,
+    "Ngoko":"Nggugah",
+    "Krama":"Nggigah",
+    "Krama Inggil":"Mungu",
+    "Bahasa Indonesia":"Membangunkan"
+  },
+  {
+    "Kamus Bahasa Jawa":641,
+    "Ngoko":"Nggugat",
+    "Krama":"Nggigat",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Menggugat"
+  },
+  {
+    "Kamus Bahasa Jawa":642,
+    "Ngoko":"Nggunakake",
+    "Krama":"Ngginakakên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Menggunakan"
+  },
+  {
+    "Kamus Bahasa Jawa":643,
+    "Ngoko":"Nggêmuyu",
+    "Krama":"Nggêgujêng",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Menertawakan"
+  },
+  {
+    "Kamus Bahasa Jawa":644,
+    "Ngoko":"Ngilang",
+    "Krama":"Ngical",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Hilang"
+  },
+  {
+    "Kamus Bahasa Jawa":645,
+    "Ngoko":"Nginang",
+    "Krama":"Ngganten",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Menginang"
+  },
+  {
+    "Kamus Bahasa Jawa":646,
+    "Ngoko":"Nginêp",
+    "Krama":"Nyipêng",
+    "Krama Inggil":"Nyare",
+    "Bahasa Indonesia":"Menginap"
+  },
+  {
+    "Kamus Bahasa Jawa":647,
+    "Ngoko":"Ngingu",
+    "Krama":"Ngingah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Memelihara"
+  },
+  {
+    "Kamus Bahasa Jawa":648,
+    "Ngoko":"Nglairake",
+    "Krama":"Nglairakên",
+    "Krama Inggil":"Mbabarakên",
+    "Bahasa Indonesia":"Melahirkan"
+  },
+  {
+    "Kamus Bahasa Jawa":649,
+    "Ngoko":"Nglarani",
+    "Krama":"Nyakiti",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Menyakiti"
+  },
+  {
+    "Kamus Bahasa Jawa":650,
+    "Ngoko":"Ngliwêt",
+    "Krama":"Mbêthak",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Menanak nasi"
+  },
+  {
+    "Kamus Bahasa Jawa":651,
+    "Ngoko":"Ngudarasa",
+    "Krama":"Ngudaraos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Membatin"
+  },
+  {
+    "Kamus Bahasa Jawa":652,
+    "Ngoko":"Njaba",
+    "Krama":"Njawi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Di luar"
+  },
+  {
+    "Kamus Bahasa Jawa":653,
+    "Ngoko":"Njaga",
+    "Krama":"Njagi",
+    "Krama Inggil":"Ngrêksa",
+    "Bahasa Indonesia":"Menjaga"
+  },
+  {
+    "Kamus Bahasa Jawa":654,
+    "Ngoko":"Njagokake",
+    "Krama":"Nyawungakên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Mencalonkan"
+  },
+  {
+    "Kamus Bahasa Jawa":655,
+    "Ngoko":"Njaluk",
+    "Krama":"Nyuwun",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Minta"
+  },
+  {
+    "Kamus Bahasa Jawa":656,
+    "Ngoko":"Nom",
+    "Krama":"Nem",
+    "Krama Inggil":"Timur",
+    "Bahasa Indonesia":"Muda"
+  },
+  {
+    "Kamus Bahasa Jawa":657,
+    "Ngoko":"Nuli",
+    "Krama":"Nuntên, Lajêng",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Lalu, Cepat"
+  },
+  {
+    "Kamus Bahasa Jawa":658,
+    "Ngoko":"Nyambut\ngawe",
+    "Krama":"Nyambut damêl",
+    "Krama Inggil":"Ngasta damêl",
+    "Bahasa Indonesia":"Bekerja"
+  },
+  {
+    "Kamus Bahasa Jawa":659,
+    "Ngoko":"Nyêkêl",
+    "Krama":"Nyêpêng",
+    "Krama Inggil":"Ngasta",
+    "Bahasa Indonesia":"Memegang"
+  },
+  {
+    "Kamus Bahasa Jawa":660,
+    "Ngoko":"Nyilih",
+    "Krama":"Nyambut",
+    "Krama Inggil":"Ngampil",
+    "Bahasa Indonesia":"Pinjam"
+  },
+  {
+    "Kamus Bahasa Jawa":661,
+    "Ngoko":"Nyrêngêni",
+    "Krama":null,
+    "Krama Inggil":"Ndukani",
+    "Bahasa Indonesia":"Memarahi"
+  },
+  {
+    "Kamus Bahasa Jawa":662,
+    "Ngoko":"Nyritani",
+    "Krama":"Nyriyosi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Menceritakan"
+  },
+  {
+    "Kamus Bahasa Jawa":663,
+    "Ngoko":"Nyundhuki",
+    "Krama":null,
+    "Krama Inggil":"Nyangsangi",
+    "Bahasa Indonesia":"Menyunting"
+  },
+  {
+    "Kamus Bahasa Jawa":664,
+    "Ngoko":"Obah",
+    "Krama":"Ebah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Bergerak"
+  },
+  {
+    "Kamus Bahasa Jawa":665,
+    "Ngoko":"Obat",
+    "Krama":"Jampi",
+    "Krama Inggil":"Usada",
+    "Bahasa Indonesia":"Obat"
+  },
+  {
+    "Kamus Bahasa Jawa":666,
+    "Ngoko":"Obong",
+    "Krama":"Bêsmi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Bakar"
+  },
+  {
+    "Kamus Bahasa Jawa":667,
+    "Ngoko":"Oleh",
+    "Krama":"Angsal",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Mendapatkan"
+  },
+  {
+    "Kamus Bahasa Jawa":668,
+    "Ngoko":"Omah",
+    "Krama":"Griya",
+    "Krama Inggil":"Dalêm",
+    "Bahasa Indonesia":"Rumah"
+  },
+  {
+    "Kamus Bahasa Jawa":669,
+    "Ngoko":"Ombe",
+    "Krama":null,
+    "Krama Inggil":"Unjuk",
+    "Bahasa Indonesia":"Minum"
+  },
+  {
+    "Kamus Bahasa Jawa":670,
+    "Ngoko":"Ombo",
+    "Krama":"Wiyar",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Luas"
+  },
+  {
+    "Kamus Bahasa Jawa":671,
+    "Ngoko":"Omong",
+    "Krama":"Ginêm",
+    "Krama Inggil":"Andika",
+    "Bahasa Indonesia":"Bicara"
+  },
+  {
+    "Kamus Bahasa Jawa":672,
+    "Ngoko":"Ompong",
+    "Krama":null,
+    "Krama Inggil":"Dhaut",
+    "Bahasa Indonesia":"Ompong"
+  },
+  {
+    "Kamus Bahasa Jawa":673,
+    "Ngoko":"Opah",
+    "Krama":"Epah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Upah"
+  },
+  {
+    "Kamus Bahasa Jawa":674,
+    "Ngoko":"Ora",
+    "Krama":"Botên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tidak"
+  },
+  {
+    "Kamus Bahasa Jawa":675,
+    "Ngoko":"Owah",
+    "Krama":"Ewah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Berubah"
+  },
+  {
+    "Kamus Bahasa Jawa":676,
+    "Ngoko":"Padha",
+    "Krama":"Sami",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sama"
+  },
+  {
+    "Kamus Bahasa Jawa":677,
+    "Ngoko":"Padhang",
+    "Krama":"Pajar",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Terang"
+  },
+  {
+    "Kamus Bahasa Jawa":678,
+    "Ngoko":"Padu",
+    "Krama":"Pabên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Bertengkar"
+  },
+  {
+    "Kamus Bahasa Jawa":679,
+    "Ngoko":"Paido",
+    "Krama":"Paibên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tidak percaya"
+  },
+  {
+    "Kamus Bahasa Jawa":680,
+    "Ngoko":"Pajêng",
+    "Krama":"Paos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Pajak"
+  },
+  {
+    "Kamus Bahasa Jawa":681,
+    "Ngoko":"Pakarangan",
+    "Krama":"Pêkawisan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Halaman"
+  },
+  {
+    "Kamus Bahasa Jawa":682,
+    "Ngoko":"Panah",
+    "Krama":null,
+    "Krama Inggil":"Jêmparing",
+    "Bahasa Indonesia":"Panah"
+  },
+  {
+    "Kamus Bahasa Jawa":683,
+    "Ngoko":"Panas",
+    "Krama":"Bênter",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Panas"
+  },
+  {
+    "Kamus Bahasa Jawa":684,
+    "Ngoko":"Pangan",
+    "Krama":"Têdha",
+    "Krama Inggil":"Dhaharan",
+    "Bahasa Indonesia":"Makanan"
+  },
+  {
+    "Kamus Bahasa Jawa":685,
+    "Ngoko":"Panggonan",
+    "Krama":"Panggenan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tempat"
+  },
+  {
+    "Kamus Bahasa Jawa":686,
+    "Ngoko":"Pangilon",
+    "Krama":null,
+    "Krama Inggil":"Paningalan",
+    "Bahasa Indonesia":"Cermin"
+  },
+  {
+    "Kamus Bahasa Jawa":687,
+    "Ngoko":"Pangudakara",
+    "Krama":"Pangudakawis",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Perkiraan"
+  },
+  {
+    "Kamus Bahasa Jawa":688,
+    "Ngoko":"Pangudarasa",
+    "Krama":"Pangudaraos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Perasaan hati"
+  },
+  {
+    "Kamus Bahasa Jawa":689,
+    "Ngoko":"Panguripan",
+    "Krama":"Pagesangan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kehidupan"
+  },
+  {
+    "Kamus Bahasa Jawa":690,
+    "Ngoko":"Papat",
+    "Krama":"Sêkawan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Empat"
+  },
+  {
+    "Kamus Bahasa Jawa":691,
+    "Ngoko":"Paran",
+    "Krama":"Purug",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Rantau"
+  },
+  {
+    "Kamus Bahasa Jawa":692,
+    "Ngoko":"Pari",
+    "Krama":"Pantun",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Padi"
+  },
+  {
+    "Kamus Bahasa Jawa":693,
+    "Ngoko":"Pasa",
+    "Krama":"Siyam",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Puasa"
+  },
+  {
+    "Kamus Bahasa Jawa":694,
+    "Ngoko":"Pasar",
+    "Krama":"Pêkên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Pasar"
+  },
+  {
+    "Kamus Bahasa Jawa":695,
+    "Ngoko":"Pati",
+    "Krama":"Pêjah",
+    "Krama Inggil":"Seda, Surud",
+    "Bahasa Indonesia":"Kematian"
+  },
+  {
+    "Kamus Bahasa Jawa":696,
+    "Ngoko":"Payu",
+    "Krama":"Pajêng",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Laku"
+  },
+  {
+    "Kamus Bahasa Jawa":697,
+    "Ngoko":"Payung",
+    "Krama":null,
+    "Krama Inggil":"Songsong",
+    "Bahasa Indonesia":"Payung"
+  },
+  {
+    "Kamus Bahasa Jawa":698,
+    "Ngoko":"Pek",
+    "Krama":"Pêndhêt",
+    "Krama Inggil":"Pundhut",
+    "Bahasa Indonesia":"Ambil"
+  },
+  {
+    "Kamus Bahasa Jawa":699,
+    "Ngoko":"Petan",
+    "Krama":null,
+    "Krama Inggil":"Ulik",
+    "Bahasa Indonesia":"Mencari kutu\nrambut"
+  },
+  {
+    "Kamus Bahasa Jawa":700,
+    "Ngoko":"Pêndhapa",
+    "Krama":"Pêndhapi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Pendapa"
+  },
+  {
+    "Kamus Bahasa Jawa":701,
+    "Ngoko":"Pêdhang",
+    "Krama":null,
+    "Krama Inggil":"Sabêt",
+    "Bahasa Indonesia":"Pedang"
+  },
+  {
+    "Kamus Bahasa Jawa":702,
+    "Ngoko":"Pêndhok",
+    "Krama":"Kandhêlan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Lapisan emas\npada keris"
+  },
+  {
+    "Kamus Bahasa Jawa":703,
+    "Ngoko":"Pênêr",
+    "Krama":"Lêrês",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tepat"
+  },
+  {
+    "Kamus Bahasa Jawa":704,
+    "Ngoko":"Pênthil",
+    "Krama":null,
+    "Krama Inggil":"Mundri",
+    "Bahasa Indonesia":"Putting susu"
+  },
+  {
+    "Kamus Bahasa Jawa":705,
+    "Ngoko":"Piandel",
+    "Krama":"Kapitadosan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kepercayaan"
+  },
+  {
+    "Kamus Bahasa Jawa":706,
+    "Ngoko":"Pijêt",
+    "Krama":null,
+    "Krama Inggil":"Pêtêk",
+    "Bahasa Indonesia":"Pijit"
+  },
+  {
+    "Kamus Bahasa Jawa":707,
+    "Ngoko":"Pikir",
+    "Krama":"Manah",
+    "Krama Inggil":"Pênggalih",
+    "Bahasa Indonesia":"Pikiran"
+  },
+  {
+    "Kamus Bahasa Jawa":708,
+    "Ngoko":"Pikul",
+    "Krama":"Dipunrêmbat",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Dipikul"
+  },
+  {
+    "Kamus Bahasa Jawa":709,
+    "Ngoko":"Pilara",
+    "Krama":"Dipunpisakiti",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Disakiti"
+  },
+  {
+    "Kamus Bahasa Jawa":710,
+    "Ngoko":"Pilis",
+    "Krama":null,
+    "Krama Inggil":"Larik, Sigit",
+    "Bahasa Indonesia":"Pilis"
+  },
+  {
+    "Kamus Bahasa Jawa":711,
+    "Ngoko":"Ping",
+    "Krama":"Ping, Kaping",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Dikalikan"
+  },
+  {
+    "Kamus Bahasa Jawa":712,
+    "Ngoko":"Pipi",
+    "Krama":null,
+    "Krama Inggil":"Pêngarasan",
+    "Bahasa Indonesia":"Pipi"
+  },
+  {
+    "Kamus Bahasa Jawa":713,
+    "Ngoko":"Pira",
+    "Krama":"Pintên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Berapa"
+  },
+  {
+    "Kamus Bahasa Jawa":714,
+    "Ngoko":"Piranti",
+    "Krama":"Pirantos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Alat"
+  },
+  {
+    "Kamus Bahasa Jawa":715,
+    "Ngoko":"Piring",
+    "Krama":"Lancaran",
+    "Krama Inggil":"Ambêngan",
+    "Bahasa Indonesia":"Piring"
+  },
+  {
+    "Kamus Bahasa Jawa":716,
+    "Ngoko":"Pisan",
+    "Krama":"Pindhah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sekali"
+  },
+  {
+    "Kamus Bahasa Jawa":717,
+    "Ngoko":"Pitakon",
+    "Krama":"Pitakên",
+    "Krama Inggil":"Padangon",
+    "Bahasa Indonesia":"Apa yang\nditanyakan"
+  },
+  {
+    "Kamus Bahasa Jawa":718,
+    "Ngoko":"Pitaya",
+    "Krama":"Pitados",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Percaya"
+  },
+  {
+    "Kamus Bahasa Jawa":719,
+    "Ngoko":"Pitik",
+    "Krama":"Ayam",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Ayam"
+  },
+  {
+    "Kamus Bahasa Jawa":720,
+    "Ngoko":"Pituduh",
+    "Krama":"Pitêdah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Nasihat, Petunjuk"
+  },
+  {
+    "Kamus Bahasa Jawa":721,
+    "Ngoko":"Pracaya",
+    "Krama":"Pitados",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Percaya"
+  },
+  {
+    "Kamus Bahasa Jawa":722,
+    "Ngoko":"Prada",
+    "Krama":"Praos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Cat emas"
+  },
+  {
+    "Kamus Bahasa Jawa":723,
+    "Ngoko":"Prakara",
+    "Krama":"Prêkawis",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Perkara"
+  },
+  {
+    "Kamus Bahasa Jawa":724,
+    "Ngoko":"Prayoga",
+    "Krama":"Prayogi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Patut, Layak"
+  },
+  {
+    "Kamus Bahasa Jawa":725,
+    "Ngoko":"Prau",
+    "Krama":"Baita",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Perahu"
+  },
+  {
+    "Kamus Bahasa Jawa":726,
+    "Ngoko":"Prihatin",
+    "Krama":"Prihatos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Prihatin,\nBerprihatin"
+  },
+  {
+    "Kamus Bahasa Jawa":727,
+    "Ngoko":"Pring",
+    "Krama":"Dêling, Bambu",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Bambu"
+  },
+  {
+    "Kamus Bahasa Jawa":728,
+    "Ngoko":"Priyayi",
+    "Krama":"Priyantun",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Bangsawan"
+  },
+  {
+    "Kamus Bahasa Jawa":729,
+    "Ngoko":"Puluh",
+    "Krama":"Dasa",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Puluh"
+  },
+  {
+    "Kamus Bahasa Jawa":730,
+    "Ngoko":"Pundhak",
+    "Krama":null,
+    "Krama Inggil":"Pamidangan",
+    "Bahasa Indonesia":"Pundak, Bahu"
+  },
+  {
+    "Kamus Bahasa Jawa":731,
+    "Ngoko":"Pungkur",
+    "Krama":"Pêngkêr",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Bagian \/ sisi\nbelakang"
+  },
+  {
+    "Kamus Bahasa Jawa":732,
+    "Ngoko":"Pupak",
+    "Krama":null,
+    "Krama Inggil":"Dhaut",
+    "Bahasa Indonesia":"Ganti gigi,\nOmpong"
+  },
+  {
+    "Kamus Bahasa Jawa":733,
+    "Ngoko":"Pupu",
+    "Krama":null,
+    "Krama Inggil":"Wêntis",
+    "Bahasa Indonesia":"Paha"
+  },
+  {
+    "Kamus Bahasa Jawa":734,
+    "Ngoko":"Pupur",
+    "Krama":null,
+    "Krama Inggil":"Tasik",
+    "Bahasa Indonesia":"Bedak"
+  },
+  {
+    "Kamus Bahasa Jawa":735,
+    "Ngoko":"Puput",
+    "Krama":null,
+    "Krama Inggil":"Dhautan",
+    "Bahasa Indonesia":"Putus tali pusar"
+  },
+  {
+    "Kamus Bahasa Jawa":736,
+    "Ngoko":"Pusêr",
+    "Krama":"Pusêr",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Pusar"
+  },
+  {
+    "Kamus Bahasa Jawa":737,
+    "Ngoko":"Putih",
+    "Krama":"Pêthak",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Putih"
+  },
+  {
+    "Kamus Bahasa Jawa":738,
+    "Ngoko":"Putu",
+    "Krama":null,
+    "Krama Inggil":"Wayah",
+    "Bahasa Indonesia":"Cucu"
+  },
+  {
+    "Kamus Bahasa Jawa":739,
+    "Ngoko":"Rabi",
+    "Krama":null,
+    "Krama Inggil":"Krama, Pikrama",
+    "Bahasa Indonesia":"Nikah, Kawin"
+  },
+  {
+    "Kamus Bahasa Jawa":740,
+    "Ngoko":"Rada",
+    "Krama":"Radi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Agak"
+  },
+  {
+    "Kamus Bahasa Jawa":741,
+    "Ngoko":"Rahayu",
+    "Krama":"Rahajêng",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Selamat"
+  },
+  {
+    "Kamus Bahasa Jawa":742,
+    "Ngoko":"Rai",
+    "Krama":null,
+    "Krama Inggil":"Pasuryan",
+    "Bahasa Indonesia":"Muka, wajah"
+  },
+  {
+    "Kamus Bahasa Jawa":743,
+    "Ngoko":"Rambut",
+    "Krama":null,
+    "Krama Inggil":"Rikma",
+    "Bahasa Indonesia":"Rambut"
+  },
+  {
+    "Kamus Bahasa Jawa":744,
+    "Ngoko":"Rana",
+    "Krama":"Mrika, Mriku",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Ke sana"
+  },
+  {
+    "Kamus Bahasa Jawa":745,
+    "Ngoko":"Rasa",
+    "Krama":"Raos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Rasa, Perasaan"
+  },
+  {
+    "Kamus Bahasa Jawa":746,
+    "Ngoko":"Rata",
+    "Krama":"Radin",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Rata, Merata"
+  },
+  {
+    "Kamus Bahasa Jawa":747,
+    "Ngoko":"Raup",
+    "Krama":null,
+    "Krama Inggil":"Suryan",
+    "Bahasa Indonesia":"Cici muka"
+  },
+  {
+    "Kamus Bahasa Jawa":748,
+    "Ngoko":"Rene",
+    "Krama":"Mriki",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Ke sini"
+  },
+  {
+    "Kamus Bahasa Jawa":749,
+    "Ngoko":"Rewang",
+    "Krama":"Rencang",
+    "Krama Inggil":"Abdi",
+    "Bahasa Indonesia":"Pembantu"
+  },
+  {
+    "Kamus Bahasa Jawa":750,
+    "Ngoko":"Rêbut",
+    "Krama":"Rêbat",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Rebut, Rampas"
+  },
+  {
+    "Kamus Bahasa Jawa":751,
+    "Ngoko":"Rêdatin",
+    "Krama":"Rêdatos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sedih, Susah"
+  },
+  {
+    "Kamus Bahasa Jawa":752,
+    "Ngoko":"Rêga",
+    "Krama":"Rêgi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Harga"
+  },
+  {
+    "Kamus Bahasa Jawa":753,
+    "Ngoko":"Rêkasa",
+    "Krama":"Rêkaos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sulit, Parah"
+  },
+  {
+    "Kamus Bahasa Jawa":754,
+    "Ngoko":"Rêmbug",
+    "Krama":"Rêmbag",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Runding"
+  },
+  {
+    "Kamus Bahasa Jawa":755,
+    "Ngoko":"Rêmbulan",
+    "Krama":null,
+    "Krama Inggil":"Candra",
+    "Bahasa Indonesia":"Bulan"
+  },
+  {
+    "Kamus Bahasa Jawa":756,
+    "Ngoko":"Ribut",
+    "Krama":"Ribêt",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Repot"
+  },
+  {
+    "Kamus Bahasa Jawa":757,
+    "Ngoko":"Rina",
+    "Krama":"Rintên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Siang"
+  },
+  {
+    "Kamus Bahasa Jawa":758,
+    "Ngoko":"Riyak",
+    "Krama":null,
+    "Krama Inggil":"Jagra",
+    "Bahasa Indonesia":"Lendir, Dahak"
+  },
+  {
+    "Kamus Bahasa Jawa":759,
+    "Ngoko":"Riyaya",
+    "Krama":"Riyadi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Hari raya"
+  },
+  {
+    "Kamus Bahasa Jawa":760,
+    "Ngoko":"Robah",
+    "Krama":"Rêbah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Ubah, Berubah"
+  },
+  {
+    "Kamus Bahasa Jawa":761,
+    "Ngoko":"Rokok",
+    "Krama":"Sês",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Rokok"
+  },
+  {
+    "Kamus Bahasa Jawa":762,
+    "Ngoko":"Rombak",
+    "Krama":"Rêbah, Rombak",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Rombak"
+  },
+  {
+    "Kamus Bahasa Jawa":763,
+    "Ngoko":"Rubêd",
+    "Krama":"Ribêd",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Repot"
+  },
+  {
+    "Kamus Bahasa Jawa":764,
+    "Ngoko":"Rubuh",
+    "Krama":"Rêbah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Roboh"
+  },
+  {
+    "Kamus Bahasa Jawa":765,
+    "Ngoko":"Rumat",
+    "Krama":"Rimat",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Simpan, Pelihara"
+  },
+  {
+    "Kamus Bahasa Jawa":766,
+    "Ngoko":"Rungu",
+    "Krama":"Pirêng",
+    "Krama Inggil":"Pidangêt",
+    "Bahasa Indonesia":"Dengar"
+  },
+  {
+    "Kamus Bahasa Jawa":767,
+    "Ngoko":"Runtuh",
+    "Krama":"Rêntah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Runtuh"
+  },
+  {
+    "Kamus Bahasa Jawa":768,
+    "Ngoko":"Rupa",
+    "Krama":"Rupi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Rupa"
+  },
+  {
+    "Kamus Bahasa Jawa":769,
+    "Ngoko":"Rupak",
+    "Krama":"Ripak",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sempit\npandangannya"
+  },
+  {
+    "Kamus Bahasa Jawa":770,
+    "Ngoko":"Rusak",
+    "Krama":"Risak",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Rusak"
+  },
+  {
+    "Kamus Bahasa Jawa":771,
+    "Ngoko":"Rusuh",
+    "Krama":"Rêsah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Rusuh"
+  },
+  {
+    "Kamus Bahasa Jawa":772,
+    "Ngoko":"Sabuk",
+    "Krama":null,
+    "Krama Inggil":"Paningsêt",
+    "Bahasa Indonesia":"Sabuk"
+  },
+  {
+    "Kamus Bahasa Jawa":773,
+    "Ngoko":"Saguh",
+    "Krama":"Sagah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sanggup"
+  },
+  {
+    "Kamus Bahasa Jawa":774,
+    "Ngoko":"Saiki",
+    "Krama":"Sakmênika",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sekarang"
+  },
+  {
+    "Kamus Bahasa Jawa":775,
+    "Ngoko":"Sajen",
+    "Krama":null,
+    "Krama Inggil":"Caosan",
+    "Bahasa Indonesia":"Sajian"
+  },
+  {
+    "Kamus Bahasa Jawa":776,
+    "Ngoko":"Saji",
+    "Krama":null,
+    "Krama Inggil":"Dipunsaosaken",
+    "Bahasa Indonesia":"Diberikan saja"
+  },
+  {
+    "Kamus Bahasa Jawa":777,
+    "Ngoko":"Saka",
+    "Krama":"Saking",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Asalnya"
+  },
+  {
+    "Kamus Bahasa Jawa":778,
+    "Ngoko":"Salah",
+    "Krama":"Lêpat",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Salah"
+  },
+  {
+    "Kamus Bahasa Jawa":779,
+    "Ngoko":"Salin",
+    "Krama":"Santun, Gantos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Ganti pakaian"
+  },
+  {
+    "Kamus Bahasa Jawa":780,
+    "Ngoko":"Sambung",
+    "Krama":"Sambêt",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sambung"
+  },
+  {
+    "Kamus Bahasa Jawa":781,
+    "Ngoko":"Samubarang",
+    "Krama":"Samukawis",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Segala sesuatu"
+  },
+  {
+    "Kamus Bahasa Jawa":782,
+    "Ngoko":"Sangga",
+    "Krama":"Sanggi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Ditopang,\nDitanggung"
+  },
+  {
+    "Kamus Bahasa Jawa":783,
+    "Ngoko":"Sapa",
+    "Krama":"Sintên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Siapa"
+  },
+  {
+    "Kamus Bahasa Jawa":784,
+    "Ngoko":"Sapi",
+    "Krama":"Lêmbu",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Lembu"
+  },
+  {
+    "Kamus Bahasa Jawa":785,
+    "Ngoko":"Sapih",
+    "Krama":null,
+    "Krama Inggil":"Dipunpêgêng",
+    "Bahasa Indonesia":"Disapih, Disarak"
+  },
+  {
+    "Kamus Bahasa Jawa":786,
+    "Ngoko":"Sarwa",
+    "Krama":"Sarwi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Serba"
+  },
+  {
+    "Kamus Bahasa Jawa":787,
+    "Ngoko":"Sasi",
+    "Krama":"Wulan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Bulan"
+  },
+  {
+    "Kamus Bahasa Jawa":788,
+    "Ngoko":"Sawah",
+    "Krama":"Sabin",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sawah"
+  },
+  {
+    "Kamus Bahasa Jawa":789,
+    "Ngoko":"Seba",
+    "Krama":"Sowan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Menghadap"
+  },
+  {
+    "Kamus Bahasa Jawa":790,
+    "Ngoko":"Seje",
+    "Krama":"Sanes",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Berbeda"
+  },
+  {
+    "Kamus Bahasa Jawa":791,
+    "Ngoko":"Seleh",
+    "Krama":"Sukakakên",
+    "Krama Inggil":"Paringaken",
+    "Bahasa Indonesia":"Ditaruh,\nDiletakkan"
+  },
+  {
+    "Kamus Bahasa Jawa":792,
+    "Ngoko":"Sendok",
+    "Krama":null,
+    "Krama Inggil":"Lantaran",
+    "Bahasa Indonesia":"Sendok"
+  },
+  {
+    "Kamus Bahasa Jawa":793,
+    "Ngoko":"Sesuk",
+    "Krama":"Benjing",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Besuk"
+  },
+  {
+    "Kamus Bahasa Jawa":794,
+    "Ngoko":"Sê-",
+    "Krama":"Satunggal",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Satu"
+  },
+  {
+    "Kamus Bahasa Jawa":795,
+    "Ngoko":"Sêbar",
+    "Krama":"Dhawah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sebar (benih)"
+  },
+  {
+    "Kamus Bahasa Jawa":796,
+    "Ngoko":"Sêbut",
+    "Krama":"Sêbatan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Nama"
+  },
+  {
+    "Kamus Bahasa Jawa":797,
+    "Ngoko":"Sêbut",
+    "Krama":"Sêbat",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Mengatakan,\nSebut"
+  },
+  {
+    "Kamus Bahasa Jawa":798,
+    "Ngoko":"Sêdhela",
+    "Krama":"Sakedhap",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sebentar"
+  },
+  {
+    "Kamus Bahasa Jawa":799,
+    "Ngoko":"Sêdhêng",
+    "Krama":"Cêkap",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Cukup"
+  },
+  {
+    "Kamus Bahasa Jawa":800,
+    "Ngoko":"Sêdhêngan",
+    "Krama":"Cêkapan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kecukupan"
+  },
+  {
+    "Kamus Bahasa Jawa":801,
+    "Ngoko":"Sêga",
+    "Krama":"Sêkul",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Nasi"
+  },
+  {
+    "Kamus Bahasa Jawa":802,
+    "Ngoko":"Sêgara",
+    "Krama":"Sêgantên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Laut"
+  },
+  {
+    "Kamus Bahasa Jawa":803,
+    "Ngoko":"Sêka",
+    "Krama":"Saking",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Dari"
+  },
+  {
+    "Kamus Bahasa Jawa":804,
+    "Ngoko":"Sêlawe",
+    "Krama":"Sêlangkung",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Dua puluh lima"
+  },
+  {
+    "Kamus Bahasa Jawa":805,
+    "Ngoko":"Sêmana",
+    "Krama":"Sêmantên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sekian itu"
+  },
+  {
+    "Kamus Bahasa Jawa":806,
+    "Ngoko":"Sêmaya",
+    "Krama":"Sêmagos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Menangguhkan"
+  },
+  {
+    "Kamus Bahasa Jawa":807,
+    "Ngoko":"Sêmbêlih",
+    "Krama":"Pragat",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Menyembelih"
+  },
+  {
+    "Kamus Bahasa Jawa":808,
+    "Ngoko":"Sêmono",
+    "Krama":"Sêmantên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sebesar itu"
+  },
+  {
+    "Kamus Bahasa Jawa":809,
+    "Ngoko":"Sênêng",
+    "Krama":"Rêmen",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Senang, Suka"
+  },
+  {
+    "Kamus Bahasa Jawa":810,
+    "Ngoko":"Sêparo",
+    "Krama":"Sêpalih",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Separo"
+  },
+  {
+    "Kamus Bahasa Jawa":811,
+    "Ngoko":"Sêpi",
+    "Krama":"Sêpên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sunyi, Sepi"
+  },
+  {
+    "Kamus Bahasa Jawa":812,
+    "Ngoko":"Sêprana",
+    "Krama":"Sêprika",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sejak dulu"
+  },
+  {
+    "Kamus Bahasa Jawa":813,
+    "Ngoko":"Sêprene",
+    "Krama":"Sêpriki",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sampai sekarang"
+  },
+  {
+    "Kamus Bahasa Jawa":814,
+    "Ngoko":"Sêpuluh",
+    "Krama":"Sêdasa",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sepuluh"
+  },
+  {
+    "Kamus Bahasa Jawa":815,
+    "Ngoko":"Sêru",
+    "Krama":"Sora",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Keras (suara)"
+  },
+  {
+    "Kamus Bahasa Jawa":816,
+    "Ngoko":"Sêtali",
+    "Krama":"Sêtangsul",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Dua puluh sen"
+  },
+  {
+    "Kamus Bahasa Jawa":817,
+    "Ngoko":"Sêthithik",
+    "Krama":"Sêkêdhik",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sedikit"
+  },
+  {
+    "Kamus Bahasa Jawa":818,
+    "Ngoko":"Si",
+    "Krama":"Pun",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Si"
+  },
+  {
+    "Kamus Bahasa Jawa":819,
+    "Ngoko":"Sida",
+    "Krama":"Siyos",
+    "Krama Inggil":"Estu",
+    "Bahasa Indonesia":"Jadi"
+  },
+  {
+    "Kamus Bahasa Jawa":820,
+    "Ngoko":"Siji",
+    "Krama":"Sêtunggal",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Satu"
+  },
+  {
+    "Kamus Bahasa Jawa":821,
+    "Ngoko":"Sikil",
+    "Krama":"Suku",
+    "Krama Inggil":"Sampeyan",
+    "Bahasa Indonesia":"Kaki"
+  },
+  {
+    "Kamus Bahasa Jawa":822,
+    "Ngoko":"Sikut",
+    "Krama":null,
+    "Krama Inggil":"Siku",
+    "Bahasa Indonesia":"Siku"
+  },
+  {
+    "Kamus Bahasa Jawa":823,
+    "Ngoko":"Silih",
+    "Krama":"Sambut",
+    "Krama Inggil":"Pundhut, Ampil",
+    "Bahasa Indonesia":"Pinjam"
+  },
+  {
+    "Kamus Bahasa Jawa":824,
+    "Ngoko":"Silihan",
+    "Krama":"Sambutan",
+    "Krama Inggil":"Ampilan",
+    "Bahasa Indonesia":"Pinjaman"
+  },
+  {
+    "Kamus Bahasa Jawa":825,
+    "Ngoko":"Sing",
+    "Krama":"Ingkang",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Yang"
+  },
+  {
+    "Kamus Bahasa Jawa":826,
+    "Ngoko":"Sisi",
+    "Krama":null,
+    "Krama Inggil":"Sêmprit",
+    "Bahasa Indonesia":"Membuang ingus"
+  },
+  {
+    "Kamus Bahasa Jawa":827,
+    "Ngoko":"Slamet",
+    "Krama":"Wilujeng",
+    "Krama Inggil":"Sugeng",
+    "Bahasa Indonesia":"Selamat"
+  },
+  {
+    "Kamus Bahasa Jawa":828,
+    "Ngoko":"Slametan",
+    "Krama":"Wilujengan",
+    "Krama Inggil":"Sugengan",
+    "Bahasa Indonesia":"Selamatan"
+  },
+  {
+    "Kamus Bahasa Jawa":829,
+    "Ngoko":"Sok",
+    "Krama":"Asring",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sering"
+  },
+  {
+    "Kamus Bahasa Jawa":830,
+    "Ngoko":"Sore",
+    "Krama":"Sontên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sore"
+  },
+  {
+    "Kamus Bahasa Jawa":831,
+    "Ngoko":"Sranta",
+    "Krama":"Srantos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sabar menanti"
+  },
+  {
+    "Kamus Bahasa Jawa":832,
+    "Ngoko":"Srêngenge",
+    "Krama":"Surya",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Matahari"
+  },
+  {
+    "Kamus Bahasa Jawa":833,
+    "Ngoko":"Srêngên",
+    "Krama":null,
+    "Krama Inggil":"Dipunsrêngêni",
+    "Bahasa Indonesia":"Dimarahi"
+  },
+  {
+    "Kamus Bahasa Jawa":834,
+    "Ngoko":"Suguh",
+    "Krama":"Dipunsêgah",
+    "Krama Inggil":"Dipunsugata",
+    "Bahasa Indonesia":"Disuguh"
+  },
+  {
+    "Kamus Bahasa Jawa":835,
+    "Ngoko":"Sukêr",
+    "Krama":null,
+    "Krama Inggil":"Tarab",
+    "Bahasa Indonesia":"Bulanan"
+  },
+  {
+    "Kamus Bahasa Jawa":836,
+    "Ngoko":"Sukêt",
+    "Krama":"Rumput",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Rumput"
+  },
+  {
+    "Kamus Bahasa Jawa":837,
+    "Ngoko":"Sumurup",
+    "Krama":"Sumêrêp",
+    "Krama Inggil":"Priksa, Uninga",
+    "Bahasa Indonesia":"Mengerti, Melihat"
+  },
+  {
+    "Kamus Bahasa Jawa":838,
+    "Ngoko":"Sunat",
+    "Krama":null,
+    "Krama Inggil":"Têtês",
+    "Bahasa Indonesia":"Khitan"
+  },
+  {
+    "Kamus Bahasa Jawa":839,
+    "Ngoko":"Sungu",
+    "Krama":"Singat",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tandut"
+  },
+  {
+    "Kamus Bahasa Jawa":840,
+    "Ngoko":"Supaya",
+    "Krama":"Supados",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Supaya"
+  },
+  {
+    "Kamus Bahasa Jawa":841,
+    "Ngoko":"Surasa",
+    "Krama":"Suraos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Arti, Maksud"
+  },
+  {
+    "Kamus Bahasa Jawa":842,
+    "Ngoko":"Suruh",
+    "Krama":"Dipunsêdhahi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Diundang"
+  },
+  {
+    "Kamus Bahasa Jawa":843,
+    "Ngoko":"Surup",
+    "Krama":"Sêrap",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Petang"
+  },
+  {
+    "Kamus Bahasa Jawa":844,
+    "Ngoko":"Susah",
+    "Krama":"Sisah",
+    "Krama Inggil":"Sêngkêl",
+    "Bahasa Indonesia":"Susah"
+  },
+  {
+    "Kamus Bahasa Jawa":845,
+    "Ngoko":"Suson",
+    "Krama":"Sêsêpan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Masih menyusu"
+  },
+  {
+    "Kamus Bahasa Jawa":846,
+    "Ngoko":"Susu",
+    "Krama":null,
+    "Krama Inggil":"Pêmbayun",
+    "Bahasa Indonesia":"Susu, Payudara"
+  },
+  {
+    "Kamus Bahasa Jawa":847,
+    "Ngoko":"Susur",
+    "Krama":"Susur",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sugi, Susur"
+  },
+  {
+    "Kamus Bahasa Jawa":848,
+    "Ngoko":"Suwara",
+    "Krama":"Suwanten",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Suara"
+  },
+  {
+    "Kamus Bahasa Jawa":849,
+    "Ngoko":"Suwarga",
+    "Krama":"Suwargi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Surga, Almarhum"
+  },
+  {
+    "Kamus Bahasa Jawa":850,
+    "Ngoko":"Suwe",
+    "Krama":"Dangu",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Lama"
+  },
+  {
+    "Kamus Bahasa Jawa":851,
+    "Ngoko":"Suwêng",
+    "Krama":"Sêngkang",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sunbang"
+  },
+  {
+    "Kamus Bahasa Jawa":852,
+    "Ngoko":"Suwung",
+    "Krama":"Suwêng",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"(rumah) Kosong"
+  },
+  {
+    "Kamus Bahasa Jawa":853,
+    "Ngoko":"Tai",
+    "Krama":"Tinja",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tahi, Tinja"
+  },
+  {
+    "Kamus Bahasa Jawa":854,
+    "Ngoko":"Tak-",
+    "Krama":"Kula-",
+    "Krama Inggil":"Dalem-, Kawula-",
+    "Bahasa Indonesia":"Saya"
+  },
+  {
+    "Kamus Bahasa Jawa":855,
+    "Ngoko":"Takon",
+    "Krama":"Taken",
+    "Krama Inggil":"Mundhut priksa",
+    "Bahasa Indonesia":"Bertanya"
+  },
+  {
+    "Kamus Bahasa Jawa":856,
+    "Ngoko":"Tali",
+    "Krama":"Tangsul",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tali"
+  },
+  {
+    "Kamus Bahasa Jawa":857,
+    "Ngoko":"Tamba",
+    "Krama":"Jampi",
+    "Krama Inggil":"Usada",
+    "Bahasa Indonesia":"Obat"
+  },
+  {
+    "Kamus Bahasa Jawa":858,
+    "Ngoko":"Tampa",
+    "Krama":"Tampi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Memperoleh"
+  },
+  {
+    "Kamus Bahasa Jawa":859,
+    "Ngoko":"Tanda Tangan",
+    "Krama":null,
+    "Krama Inggil":"Tapak Asta",
+    "Bahasa Indonesia":"Tanda tangan"
+  },
+  {
+    "Kamus Bahasa Jawa":860,
+    "Ngoko":"Tandur",
+    "Krama":"Tanêm",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tanam"
+  },
+  {
+    "Kamus Bahasa Jawa":861,
+    "Ngoko":"Tangan",
+    "Krama":null,
+    "Krama Inggil":"Asta",
+    "Bahasa Indonesia":"Tangan"
+  },
+  {
+    "Kamus Bahasa Jawa":862,
+    "Ngoko":"Tangga",
+    "Krama":"Tanggi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tetangga"
+  },
+  {
+    "Kamus Bahasa Jawa":863,
+    "Ngoko":"Tanggon",
+    "Krama":"Tanggên",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tangguh"
+  },
+  {
+    "Kamus Bahasa Jawa":864,
+    "Ngoko":"Tanggung",
+    "Krama":"Tangêl",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tanggung-\ntanggung"
+  },
+  {
+    "Kamus Bahasa Jawa":865,
+    "Ngoko":"Tangi",
+    "Krama":null,
+    "Krama Inggil":"Wungu",
+    "Bahasa Indonesia":"Bangun"
+  },
+  {
+    "Kamus Bahasa Jawa":866,
+    "Ngoko":"Tangis",
+    "Krama":null,
+    "Krama Inggil":"Pamuwun",
+    "Bahasa Indonesia":"Tangis"
+  },
+  {
+    "Kamus Bahasa Jawa":867,
+    "Ngoko":"Tapêl",
+    "Krama":null,
+    "Krama Inggil":"Rakêtan",
+    "Bahasa Indonesia":"Bedak perut"
+  },
+  {
+    "Kamus Bahasa Jawa":868,
+    "Ngoko":"Tapih",
+    "Krama":"Sinjang",
+    "Krama Inggil":"Nyamping",
+    "Bahasa Indonesia":"Kain batik\n(perempuan)"
+  },
+  {
+    "Kamus Bahasa Jawa":869,
+    "Ngoko":"Tari, Ditari",
+    "Krama":"Dipuntantun",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Ditanya mau atau\ntidak"
+  },
+  {
+    "Kamus Bahasa Jawa":870,
+    "Ngoko":"Tatu",
+    "Krama":null,
+    "Krama Inggil":"Labêt",
+    "Bahasa Indonesia":"Luka"
+  },
+  {
+    "Kamus Bahasa Jawa":871,
+    "Ngoko":"Tau",
+    "Krama":"Nate",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Pernah"
+  },
+  {
+    "Kamus Bahasa Jawa":872,
+    "Ngoko":"Tawa",
+    "Krama":"Tawi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Menawari\ndagangan"
+  },
+  {
+    "Kamus Bahasa Jawa":873,
+    "Ngoko":"Têbu",
+    "Krama":"Rosan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tebu"
+  },
+  {
+    "Kamus Bahasa Jawa":874,
+    "Ngoko":"Têgal",
+    "Krama":"Têgil",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Ladang"
+  },
+  {
+    "Kamus Bahasa Jawa":875,
+    "Ngoko":"Têka",
+    "Krama":"Dhatêng",
+    "Krama Inggil":"Rawuh",
+    "Bahasa Indonesia":"Datang"
+  },
+  {
+    "Kamus Bahasa Jawa":876,
+    "Ngoko":"Têkan",
+    "Krama":"Dumugi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tiba, Sampai"
+  },
+  {
+    "Kamus Bahasa Jawa":877,
+    "Ngoko":"Têkên",
+    "Krama":null,
+    "Krama Inggil":"Lantaran",
+    "Bahasa Indonesia":"Tongkat"
+  },
+  {
+    "Kamus Bahasa Jawa":878,
+    "Ngoko":"Têlu",
+    "Krama":"Tiga",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tiga"
+  },
+  {
+    "Kamus Bahasa Jawa":879,
+    "Ngoko":"Têmbaga",
+    "Krama":"Têmbagi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tembaga"
+  },
+  {
+    "Kamus Bahasa Jawa":880,
+    "Ngoko":"Têmbang",
+    "Krama":"Sêkar",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Lagu, Nyanyian"
+  },
+  {
+    "Kamus Bahasa Jawa":881,
+    "Ngoko":"Têmên",
+    "Krama":"Estu, Yêktos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sungguh, Benar"
+  },
+  {
+    "Kamus Bahasa Jawa":882,
+    "Ngoko":"Têmon",
+    "Krama":"Pêpanggihan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Pertemuan"
+  },
+  {
+    "Kamus Bahasa Jawa":883,
+    "Ngoko":"Têmu",
+    "Krama":"Panggih",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Temu"
+  },
+  {
+    "Kamus Bahasa Jawa":884,
+    "Ngoko":"Tênan",
+    "Krama":"Estu, Yêktos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Senyatanya"
+  },
+  {
+    "Kamus Bahasa Jawa":885,
+    "Ngoko":"Têpung",
+    "Krama":"Têpang",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kenal, Bertemu"
+  },
+  {
+    "Kamus Bahasa Jawa":886,
+    "Ngoko":"Têrus",
+    "Krama":"Lajêng",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Terus"
+  },
+  {
+    "Kamus Bahasa Jawa":887,
+    "Ngoko":"Têtak",
+    "Krama":"Supit",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Khitan"
+  },
+  {
+    "Kamus Bahasa Jawa":888,
+    "Ngoko":"Têtêpungan",
+    "Krama":"Têtêpangan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Berkenalan"
+  },
+  {
+    "Kamus Bahasa Jawa":889,
+    "Ngoko":"Têtuwa",
+    "Krama":"Sêsêpuh",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sesepuh, Tetua"
+  },
+  {
+    "Kamus Bahasa Jawa":890,
+    "Ngoko":"Tilik",
+    "Krama":"Dhawah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Jatuh"
+  },
+  {
+    "Kamus Bahasa Jawa":891,
+    "Ngoko":"Tilik",
+    "Krama":"Tuwi",
+    "Krama Inggil":"Tinjo, Sowan",
+    "Bahasa Indonesia":"Berkunjung,\nMenjenguk"
+  },
+  {
+    "Kamus Bahasa Jawa":892,
+    "Ngoko":"Tinggal",
+    "Krama":"Tilar",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Meninggalkan"
+  },
+  {
+    "Kamus Bahasa Jawa":893,
+    "Ngoko":"Tlaten",
+    "Krama":"Tlatos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tekun"
+  },
+  {
+    "Kamus Bahasa Jawa":894,
+    "Ngoko":"Tonton",
+    "Krama":"Tingal",
+    "Krama Inggil":"Priksa",
+    "Bahasa Indonesia":"Lihat"
+  },
+  {
+    "Kamus Bahasa Jawa":895,
+    "Ngoko":"Tontonan",
+    "Krama":"Têtingalan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Pertunjukan"
+  },
+  {
+    "Kamus Bahasa Jawa":896,
+    "Ngoko":"Trasi",
+    "Krama":"Traos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Terasi"
+  },
+  {
+    "Kamus Bahasa Jawa":897,
+    "Ngoko":"Tuduh",
+    "Krama":"Têdah",
+    "Krama Inggil":"Paring priksa",
+    "Bahasa Indonesia":"Memberitahukan"
+  },
+  {
+    "Kamus Bahasa Jawa":898,
+    "Ngoko":"Tuku",
+    "Krama":"Tumbas",
+    "Krama Inggil":"Mundhut",
+    "Bahasa Indonesia":"Beli"
+  },
+  {
+    "Kamus Bahasa Jawa":899,
+    "Ngoko":"Tulis",
+    "Krama":"Sêrat",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tulis"
+  },
+  {
+    "Kamus Bahasa Jawa":900,
+    "Ngoko":"Tulisan",
+    "Krama":"Sêratan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tulisan"
+  },
+  {
+    "Kamus Bahasa Jawa":901,
+    "Ngoko":"Tuma",
+    "Krama":null,
+    "Krama Inggil":"Itik",
+    "Bahasa Indonesia":"Kutu"
+  },
+  {
+    "Kamus Bahasa Jawa":902,
+    "Ngoko":"Tumbak",
+    "Krama":"Waos",
+    "Krama Inggil":"Watangan",
+    "Bahasa Indonesia":"Tombak"
+  },
+  {
+    "Kamus Bahasa Jawa":903,
+    "Ngoko":"Tuna",
+    "Krama":"Tuni",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Rugi, Tidak\nsampai"
+  },
+  {
+    "Kamus Bahasa Jawa":904,
+    "Ngoko":"Tunggal",
+    "Krama":"Tungil",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Satu, Tunggal"
+  },
+  {
+    "Kamus Bahasa Jawa":905,
+    "Ngoko":"Tunggang",
+    "Krama":"Tumpak",
+    "Krama Inggil":"Nitih",
+    "Bahasa Indonesia":"Naik (kendaraan)"
+  },
+  {
+    "Kamus Bahasa Jawa":906,
+    "Ngoko":"Tunggangan",
+    "Krama":"Tumpakan",
+    "Krama Inggil":"Titihan",
+    "Bahasa Indonesia":"Kendaraan"
+  },
+  {
+    "Kamus Bahasa Jawa":907,
+    "Ngoko":"Tunggu",
+    "Krama":"Têngga",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tunggu"
+  },
+  {
+    "Kamus Bahasa Jawa":908,
+    "Ngoko":"Turah",
+    "Krama":"Tirah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Lebih"
+  },
+  {
+    "Kamus Bahasa Jawa":909,
+    "Ngoko":"Turon",
+    "Krama":"Tilêman",
+    "Krama Inggil":"Sareyan",
+    "Bahasa Indonesia":"Tiduran"
+  },
+  {
+    "Kamus Bahasa Jawa":910,
+    "Ngoko":"Turu",
+    "Krama":"Tilem",
+    "Krama Inggil":"Sare",
+    "Bahasa Indonesia":"Tidur"
+  },
+  {
+    "Kamus Bahasa Jawa":911,
+    "Ngoko":"Turun",
+    "Krama":"Têdhak",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Keturunan"
+  },
+  {
+    "Kamus Bahasa Jawa":912,
+    "Ngoko":"Turunan",
+    "Krama":"Têdhakan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Asal usul\nketurunan"
+  },
+  {
+    "Kamus Bahasa Jawa":913,
+    "Ngoko":"Tutu",
+    "Krama":"Dipungêntang",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Ditumbuk"
+  },
+  {
+    "Kamus Bahasa Jawa":914,
+    "Ngoko":"Tutur",
+    "Krama":"Sanjang, Criyos",
+    "Krama Inggil":"Paring priksa",
+    "Bahasa Indonesia":"Berkata"
+  },
+  {
+    "Kamus Bahasa Jawa":915,
+    "Ngoko":"Tuwa",
+    "Krama":"Sêpuh",
+    "Krama Inggil":"Yuswa",
+    "Bahasa Indonesia":"Tua"
+  },
+  {
+    "Kamus Bahasa Jawa":916,
+    "Ngoko":"Tuwuh",
+    "Krama":"Tewah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tumbuh"
+  },
+  {
+    "Kamus Bahasa Jawa":917,
+    "Ngoko":"Udakara",
+    "Krama":"Udakawis",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kira-kira"
+  },
+  {
+    "Kamus Bahasa Jawa":918,
+    "Ngoko":"Udan",
+    "Krama":"Jawah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Hujan"
+  },
+  {
+    "Kamus Bahasa Jawa":919,
+    "Ngoko":"Udhar",
+    "Krama":null,
+    "Krama Inggil":"Lukar",
+    "Bahasa Indonesia":"Lepas kain batik"
+  },
+  {
+    "Kamus Bahasa Jawa":920,
+    "Ngoko":"Udhun",
+    "Krama":"Mandhap",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Turun"
+  },
+  {
+    "Kamus Bahasa Jawa":921,
+    "Ngoko":"Uga",
+    "Krama":"Ugi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Juga"
+  },
+  {
+    "Kamus Bahasa Jawa":922,
+    "Ngoko":"Ugêl-ugêl",
+    "Krama":null,
+    "Krama Inggil":"Pagêlangan",
+    "Bahasa Indonesia":"Pergelangan\ntangan"
+  },
+  {
+    "Kamus Bahasa Jawa":923,
+    "Ngoko":"Ujar",
+    "Krama":null,
+    "Krama Inggil":"Punagi",
+    "Bahasa Indonesia":"Janji, Sumpah"
+  },
+  {
+    "Kamus Bahasa Jawa":924,
+    "Ngoko":"Ula",
+    "Krama":"Sawêr",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Ular"
+  },
+  {
+    "Kamus Bahasa Jawa":925,
+    "Ngoko":"Ulat",
+    "Krama":null,
+    "Krama Inggil":"Pasuryan",
+    "Bahasa Indonesia":"Raut muka"
+  },
+  {
+    "Kamus Bahasa Jawa":926,
+    "Ngoko":"Ulêm",
+    "Krama":null,
+    "Krama Inggil":"Atur",
+    "Bahasa Indonesia":"Undangan"
+  },
+  {
+    "Kamus Bahasa Jawa":927,
+    "Ngoko":"Ulih",
+    "Krama":"Mantuk",
+    "Krama Inggil":"Kondur",
+    "Bahasa Indonesia":"Pulang"
+  },
+  {
+    "Kamus Bahasa Jawa":928,
+    "Ngoko":"Umbêl",
+    "Krama":null,
+    "Krama Inggil":"Gadhing",
+    "Bahasa Indonesia":"Ingus"
+  },
+  {
+    "Kamus Bahasa Jawa":929,
+    "Ngoko":"Umur",
+    "Krama":null,
+    "Krama Inggil":"Yuswa",
+    "Bahasa Indonesia":"Umur"
+  },
+  {
+    "Kamus Bahasa Jawa":930,
+    "Ngoko":"Undang",
+    "Krama":"Timbal",
+    "Krama Inggil":"Atur",
+    "Bahasa Indonesia":"Panggil"
+  },
+  {
+    "Kamus Bahasa Jawa":931,
+    "Ngoko":"Undhak",
+    "Krama":"Mindhak",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Meningkat"
+  },
+  {
+    "Kamus Bahasa Jawa":932,
+    "Ngoko":"Unggah",
+    "Krama":"Inggah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Naik"
+  },
+  {
+    "Kamus Bahasa Jawa":933,
+    "Ngoko":"Ungkur",
+    "Krama":"Pêngkêr",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Belakang"
+  },
+  {
+    "Kamus Bahasa Jawa":934,
+    "Ngoko":"Uni",
+    "Krama":"Ungêl",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Bunyi, Suara"
+  },
+  {
+    "Kamus Bahasa Jawa":935,
+    "Ngoko":"Untu",
+    "Krama":"Waos",
+    "Krama Inggil":"Waja",
+    "Bahasa Indonesia":"Gigi"
+  },
+  {
+    "Kamus Bahasa Jawa":936,
+    "Ngoko":"Upakara",
+    "Krama":"Upakawis",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Pelihara"
+  },
+  {
+    "Kamus Bahasa Jawa":937,
+    "Ngoko":"Upama",
+    "Krama":"Upami",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Upama"
+  },
+  {
+    "Kamus Bahasa Jawa":938,
+    "Ngoko":"Urip",
+    "Krama":"Gesang",
+    "Krama Inggil":"Sugeng",
+    "Bahasa Indonesia":"Hidup"
+  },
+  {
+    "Kamus Bahasa Jawa":939,
+    "Ngoko":"Utama",
+    "Krama":"Utami",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Utama"
+  },
+  {
+    "Kamus Bahasa Jawa":940,
+    "Ngoko":"Utang",
+    "Krama":"Sambut",
+    "Krama Inggil":"Ngampil",
+    "Bahasa Indonesia":"Pinjam"
+  },
+  {
+    "Kamus Bahasa Jawa":941,
+    "Ngoko":"Utawa",
+    "Krama":"Utawi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Atau"
+  },
+  {
+    "Kamus Bahasa Jawa":942,
+    "Ngoko":"Usus",
+    "Krama":null,
+    "Krama Inggil":"Jaringan",
+    "Bahasa Indonesia":"Usus"
+  },
+  {
+    "Kamus Bahasa Jawa":943,
+    "Ngoko":"Uyah",
+    "Krama":"Sarêm",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Garam"
+  },
+  {
+    "Kamus Bahasa Jawa":944,
+    "Ngoko":"Uyuh",
+    "Krama":"Toyan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kencing"
+  },
+  {
+    "Kamus Bahasa Jawa":945,
+    "Ngoko":"Waca",
+    "Krama":"Waos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Baca"
+  },
+  {
+    "Kamus Bahasa Jawa":946,
+    "Ngoko":"Wacan",
+    "Krama":"Waosan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Bacaan"
+  },
+  {
+    "Kamus Bahasa Jawa":947,
+    "Ngoko":"Wadi",
+    "Krama":"Wados",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Rahasia"
+  },
+  {
+    "Kamus Bahasa Jawa":948,
+    "Ngoko":"Wadon",
+    "Krama":"Êstri",
+    "Krama Inggil":"Putri, Wanita",
+    "Bahasa Indonesia":"Putri, Perempuan"
+  },
+  {
+    "Kamus Bahasa Jawa":949,
+    "Ngoko":"Wae",
+    "Krama":"Kemawon",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Saja"
+  },
+  {
+    "Kamus Bahasa Jawa":950,
+    "Ngoko":"Wahing",
+    "Krama":null,
+    "Krama Inggil":"Sigra",
+    "Bahasa Indonesia":"Bersin"
+  },
+  {
+    "Kamus Bahasa Jawa":951,
+    "Ngoko":"Waja",
+    "Krama":"Waos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Baja"
+  },
+  {
+    "Kamus Bahasa Jawa":952,
+    "Ngoko":"Walanda",
+    "Krama":"Walandi",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Belanda"
+  },
+  {
+    "Kamus Bahasa Jawa":953,
+    "Ngoko":"Wani",
+    "Krama":"Wantun",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Berani"
+  },
+  {
+    "Kamus Bahasa Jawa":954,
+    "Ngoko":"Wanti-wanti",
+    "Krama":"Wantos-wantos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Nasehat keras"
+  },
+  {
+    "Kamus Bahasa Jawa":955,
+    "Ngoko":"Warangka",
+    "Krama":"Sarungan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sarung keris"
+  },
+  {
+    "Kamus Bahasa Jawa":956,
+    "Ngoko":"Waras",
+    "Krama":"Saras",
+    "Krama Inggil":"Waluya",
+    "Bahasa Indonesia":"Sembuh"
+  },
+  {
+    "Kamus Bahasa Jawa":957,
+    "Ngoko":"Warêg",
+    "Krama":"Tuwuk",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kenyang"
+  },
+  {
+    "Kamus Bahasa Jawa":958,
+    "Ngoko":"Warisan",
+    "Krama":"Tilaran",
+    "Krama Inggil":"Pusaka",
+    "Bahasa Indonesia":"Warisan"
+  },
+  {
+    "Kamus Bahasa Jawa":959,
+    "Ngoko":"Warna",
+    "Krama":"Warni",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Warna\/Jenis"
+  },
+  {
+    "Kamus Bahasa Jawa":960,
+    "Ngoko":"Warung",
+    "Krama":"Wande",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kedai, Warung"
+  },
+  {
+    "Kamus Bahasa Jawa":961,
+    "Ngoko":"Waspada",
+    "Krama":"Wasapaos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Wasapada"
+  },
+  {
+    "Kamus Bahasa Jawa":962,
+    "Ngoko":"Watara",
+    "Krama":"Watawis",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Antara, Kira-kira"
+  },
+  {
+    "Kamus Bahasa Jawa":963,
+    "Ngoko":"Watu",
+    "Krama":"Sela",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Batu"
+  },
+  {
+    "Kamus Bahasa Jawa":964,
+    "Ngoko":"Watuk",
+    "Krama":null,
+    "Krama Inggil":"Cêkoh",
+    "Bahasa Indonesia":"Batuk"
+  },
+  {
+    "Kamus Bahasa Jawa":965,
+    "Ngoko":"Wayah",
+    "Krama":"Wanci",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Waktu"
+  },
+  {
+    "Kamus Bahasa Jawa":966,
+    "Ngoko":"Wayang",
+    "Krama":"Ringgit",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Wayang"
+  },
+  {
+    "Kamus Bahasa Jawa":967,
+    "Ngoko":"Wedang",
+    "Krama":"Bênteran",
+    "Krama Inggil":"Unjukan",
+    "Bahasa Indonesia":"Minuman"
+  },
+  {
+    "Kamus Bahasa Jawa":968,
+    "Ngoko":"Weneh",
+    "Krama":"Dipunsukani",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Diberi"
+  },
+  {
+    "Kamus Bahasa Jawa":969,
+    "Ngoko":"Wêdêl",
+    "Krama":"Cêlêp",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Cat kain"
+  },
+  {
+    "Kamus Bahasa Jawa":970,
+    "Ngoko":"Wêdhus",
+    "Krama":"Menda",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Kambing"
+  },
+  {
+    "Kamus Bahasa Jawa":971,
+    "Ngoko":"Wêktu",
+    "Krama":"Wêkdal",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Waktu"
+  },
+  {
+    "Kamus Bahasa Jawa":972,
+    "Ngoko":"Wêngi",
+    "Krama":"Dalu",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Malam"
+  },
+  {
+    "Kamus Bahasa Jawa":973,
+    "Ngoko":"Wêrta",
+    "Krama":"Wêrtos, Wartos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Berita, Kabar"
+  },
+  {
+    "Kamus Bahasa Jawa":974,
+    "Ngoko":"Wêruh",
+    "Krama":"Sumêrêp",
+    "Krama Inggil":"Uninga, Priksa",
+    "Bahasa Indonesia":"Tahu, Melihat"
+  },
+  {
+    "Kamus Bahasa Jawa":975,
+    "Ngoko":"Wêsi",
+    "Krama":"Tosan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Besi"
+  },
+  {
+    "Kamus Bahasa Jawa":976,
+    "Ngoko":"Wêteng",
+    "Krama":"Padharan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Perut"
+  },
+  {
+    "Kamus Bahasa Jawa":977,
+    "Ngoko":"Wêtu",
+    "Krama":"Kêwêdal",
+    "Krama Inggil":"Kêwiyos",
+    "Bahasa Indonesia":"Terungkap"
+  },
+  {
+    "Kamus Bahasa Jawa":978,
+    "Ngoko":"Wêton",
+    "Krama":"Wêdalan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Hari kelahiran"
+  },
+  {
+    "Kamus Bahasa Jawa":979,
+    "Ngoko":"Wicara",
+    "Krama":"Wicantên",
+    "Krama Inggil":"Ngêndika",
+    "Bahasa Indonesia":"Bicara"
+  },
+  {
+    "Kamus Bahasa Jawa":980,
+    "Ngoko":"Wigati",
+    "Krama":"Wigatos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Perlu sekali,\nPenting"
+  },
+  {
+    "Kamus Bahasa Jawa":981,
+    "Ngoko":"Wilang",
+    "Krama":"Wical",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Hitung"
+  },
+  {
+    "Kamus Bahasa Jawa":982,
+    "Ngoko":"Wilangan",
+    "Krama":"Wicalan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Hitungan,\nBilangan"
+  },
+  {
+    "Kamus Bahasa Jawa":983,
+    "Ngoko":"Wirang",
+    "Krama":"Isin",
+    "Krama Inggil":"Lingsem",
+    "Bahasa Indonesia":"Malu"
+  },
+  {
+    "Kamus Bahasa Jawa":984,
+    "Ngoko":"Wis",
+    "Krama":"Sampun",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Sudah"
+  },
+  {
+    "Kamus Bahasa Jawa":985,
+    "Ngoko":"Wisuh",
+    "Krama":null,
+    "Krama Inggil":"Wijik",
+    "Bahasa Indonesia":"Mencuci\ntangan\/kaki"
+  },
+  {
+    "Kamus Bahasa Jawa":986,
+    "Ngoko":"Wong",
+    "Krama":"Tiyang",
+    "Krama Inggil":"Priyantun",
+    "Bahasa Indonesia":"Orang"
+  },
+  {
+    "Kamus Bahasa Jawa":987,
+    "Ngoko":"Wuda",
+    "Krama":null,
+    "Krama Inggil":"Lukar",
+    "Bahasa Indonesia":"Lepas pakaian"
+  },
+  {
+    "Kamus Bahasa Jawa":988,
+    "Ngoko":"Wudêl",
+    "Krama":null,
+    "Krama Inggil":"Nabi",
+    "Bahasa Indonesia":"Pusar"
+  },
+  {
+    "Kamus Bahasa Jawa":989,
+    "Ngoko":"Wudun",
+    "Krama":null,
+    "Krama Inggil":"Untar",
+    "Bahasa Indonesia":"Bisul"
+  },
+  {
+    "Kamus Bahasa Jawa":990,
+    "Ngoko":"Wulangan",
+    "Krama":"Wucalan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Pelajaran"
+  },
+  {
+    "Kamus Bahasa Jawa":991,
+    "Ngoko":"Wuluh",
+    "Krama":"Wêlah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Buluh, Bambu"
+  },
+  {
+    "Kamus Bahasa Jawa":992,
+    "Ngoko":"Wuragil",
+    "Krama":null,
+    "Krama Inggil":"Waruju",
+    "Bahasa Indonesia":"Bungsu"
+  },
+  {
+    "Kamus Bahasa Jawa":993,
+    "Ngoko":"Wurung",
+    "Krama":"Sande",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tidak jadi"
+  },
+  {
+    "Kamus Bahasa Jawa":994,
+    "Ngoko":"Wutuh",
+    "Krama":"Wêtah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Utuh"
+  },
+  {
+    "Kamus Bahasa Jawa":995,
+    "Ngoko":"Wuwuh",
+    "Krama":"Wêtah",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Bertambah"
+  },
+  {
+    "Kamus Bahasa Jawa":996,
+    "Ngoko":"Wuwuhan",
+    "Krama":"Wêwahan",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Tambahan"
+  },
+  {
+    "Kamus Bahasa Jawa":997,
+    "Ngoko":"Ya, Iya",
+    "Krama":"Inggih",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Ya"
+  },
+  {
+    "Kamus Bahasa Jawa":998,
+    "Ngoko":"Yêkti",
+    "Krama":"Yêktos",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Betul"
+  },
+  {
+    "Kamus Bahasa Jawa":999,
+    "Ngoko":"Yen",
+    "Krama":"Bilih",
+    "Krama Inggil":null,
+    "Bahasa Indonesia":"Jikalau"
+  }
+]
