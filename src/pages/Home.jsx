@@ -1,11 +1,29 @@
 import { useEffect, useState } from "react";
 import TranslateForm from "../components/TranslateForm";
 import ResultBox from "../components/ResultBox";
+import { createClient } from "@supabase/supabase-js";
+
+// 🔑 Inisialisasi client Supabase
+const supabase = createClient(
+  import.meta.env.VITE_SUPABASE_URL,
+  import.meta.env.VITE_SUPABASE_ANON_KEY
+);
 
 export default function Home() {
   const [data, setData] = useState([]);
   const [result, setResult] = useState(null);
 
+  // ⏺️ Log kunjungan
+  useEffect(() => {
+    async function logVisit() {
+      await supabase.from("visits").insert([
+        { user_agent: navigator.userAgent }
+      ]);
+    }
+    logVisit();
+  }, []);
+
+  // 📖 Ambil kamus JSON
   useEffect(() => {
     fetch("/kamus2.json")
       .then((res) => res.json())
