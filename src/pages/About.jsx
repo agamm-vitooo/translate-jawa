@@ -9,7 +9,18 @@ export default function TentangPage() {
   return (
     <div className="min-h-screen bg-gray-50 p-6">
       <div className="max-w-4xl mx-auto space-y-6">
-        <h1 className="text-3xl font-bold text-gray-800">Tentang Inovasi</h1>
+        {/* Brand / Nama Inovasi */}
+        <div className="text-center space-y-2">
+          <h1 className="text-4xl font-extrabold text-blue-900">
+            SiBoBa-EsGuJi
+          </h1>
+          <p className="text-gray-600 italic">
+            <span className="font-semibold">Sinau Boso Bareng SD Guno Siji</span>
+          </p>
+          <p className="text-gray-500 text-sm">
+            Media digital untuk belajar bahasa dan aksara Jawa secara interaktif
+          </p>
+        </div>
 
         {/* Tujuan Inovasi */}
         <section className="bg-white rounded-2xl shadow p-6">
@@ -30,7 +41,9 @@ export default function TentangPage() {
 
         {/* Lokasi SD */}
         <section className="bg-white rounded-2xl shadow p-6">
-          <h2 className="text-xl font-semibold text-gray-700 mb-3">📍 Lokasi SD</h2>
+          <h2 className="text-xl font-semibold text-gray-700 mb-3">
+            📍 Lokasi SD
+          </h2>
           <div className="w-full h-80 rounded-xl overflow-hidden shadow">
             <iframe
               title="Lokasi SDN 1 Guno"
