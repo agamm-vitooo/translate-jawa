@@ -1,12 +1,13 @@
-import { useEffect, useRef, useState } from "react";
+// src/pages/admin/Dashboard.jsx
+import { useEffect, useState } from "react";
+import Highcharts from "highcharts";
+import HighchartsReact from "highcharts-react-official";
 import { supabase } from "../../supabaseClient";
-import Chart from "chart.js/auto";
 
 export default function Dashboard() {
-  const chartRef = useRef(null);
-  const canvasRef = useRef(null);
   const [total, setTotal] = useState(0);
   const [perHari, setPerHari] = useState({});
+  const [chartOptions, setChartOptions] = useState({});
 
   useEffect(() => {
     const fetchStats = async () => {
@@ -15,6 +16,9 @@ export default function Dashboard() {
         .select("created_at")
         .order("created_at", { ascending: true });
 
+      if (!data) return;
+
+      // Group per hari
       const grouped = data.reduce((acc, row) => {
         const day = new Date(row.created_at).toLocaleDateString("id-ID");
         acc[day] = (acc[day] || 0) + 1;
@@ -27,39 +31,57 @@ export default function Dashboard() {
       const labels = Object.keys(grouped);
       const values = Object.values(grouped);
 
-      if (chartRef.current) chartRef.current.destroy();
-
-      chartRef.current = new Chart(canvasRef.current, {
-        type: "line",
-        data: {
-          labels,
-          datasets: [
-            {
-              label: "Kunjungan per Hari",
-              data: values,
-              borderColor: "#2563eb",
-              backgroundColor: "rgba(37, 99, 235, 0.2)",
-              tension: 0.4,
-              fill: true,
-              pointRadius: 5,
-              pointHoverRadius: 7,
-            },
-          ],
+      setChartOptions({
+        chart: {
+          type: "line",
+          backgroundColor: "#ffffff",
+          height: 350,
         },
-        options: {
-          responsive: true,
-          maintainAspectRatio: false,
-          plugins: {
-            legend: { display: false },
-            tooltip: {
-              callbacks: {
-                label: (context) => `${context.parsed.y} kunjungan`,
+        title: { text: "" }, // hilangkan judul chart, sudah ada heading di atas
+        xAxis: {
+          categories: labels,
+          title: { text: "Tanggal" },
+          labels: { style: { color: "#374151" } },
+          gridLineWidth: 0,
+        },
+        yAxis: {
+          title: { text: "Jumlah Kunjungan" },
+          min: 0,
+          gridLineColor: "#e5e7eb",
+          labels: { style: { color: "#374151" } },
+        },
+        series: [
+          {
+            name: "Kunjungan",
+            data: values,
+            color: "#2563eb",
+            lineWidth: 3,
+            marker: {
+              radius: 5,
+              fillColor: "#2563eb",
+            },
+          },
+        ],
+        tooltip: {
+          backgroundColor: "#1f2937",
+          style: { color: "#f9fafb" },
+          borderRadius: 6,
+          borderWidth: 0,
+          formatter: function () {
+            return `<strong>${this.x}</strong>: ${this.y} kunjungan`;
+          },
+        },
+        legend: { enabled: false },
+        credits: { enabled: false },
+        responsive: {
+          rules: [
+            {
+              condition: { maxWidth: 768 },
+              chartOptions: {
+                xAxis: { labels: { rotation: -45 } },
               },
             },
-          },
-          scales: {
-            y: { beginAtZero: true },
-          },
+          ],
         },
       });
     };
@@ -100,13 +122,15 @@ export default function Dashboard() {
 
         {/* Chart */}
         <div className="lg:col-span-2">
-          <div className="bg-white p-6 rounded-xl shadow hover:shadow-md transition h-96">
+          <div className="bg-white p-6 rounded-xl shadow hover:shadow-md transition h-[430px]">
             <h3 className="text-lg font-semibold mb-4 text-gray-700">
               Grafik Kunjungan
             </h3>
-            <div className="w-full h-80">
-              <canvas ref={canvasRef} className="w-full h-full"></canvas>
-            </div>
+            {chartOptions.series ? (
+              <HighchartsReact highcharts={Highcharts} options={chartOptions} />
+            ) : (
+              <p className="text-gray-400 text-center mt-20">Loading chart...</p>
+            )}
           </div>
         </div>
       </div>

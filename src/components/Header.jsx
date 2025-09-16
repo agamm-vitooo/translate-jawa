@@ -1,54 +1,57 @@
 // src/components/Header.jsx
-import { useState, useEffect } from "react";
-import { Link } from "react-router-dom"; 
-import { supabase } from "../supabaseClient";
+import { useState } from "react";
+import { Link, useLocation } from "react-router-dom";
 
 export default function Header() {
   const [isOpen, setIsOpen] = useState(false);
+  const location = useLocation();
   const toggleMenu = () => setIsOpen(!isOpen);
+
+  const navLinks = [
+    { name: "Home", path: "/" },
+    { name: "Translate Aksara", path: "/aksara" },
+    { name: "Tentang", path: "/tentang" },
+    { name: "Buku Tamu", path: "/guestbook" },
+  ];
 
   return (
     <header className="bg-blue-900 border-b border-gray-500 px-6 py-4 relative">
-      <div className="max-w-6xl mx-auto flex justify-between items-center">
-        {/* Logo / Judul */}
-        <Link to="/" className="group">
-          <h1 className="text-2xl font-light text-white tracking-wide group-hover:text-blue-400 transition-colors duration-200">
-            Kamus Jawa
-          </h1>
+      <div className="max-w-6xl mx-auto flex items-center justify-between relative">
+        {/* Logo */}
+        <Link
+          to="/"
+          className="text-2xl font-light text-white tracking-wide hover:text-blue-400 transition-colors duration-200"
+        >
+          Kamus Jawa
         </Link>
 
-        {/* Desktop Navigation */}
-        <nav className="hidden md:flex space-x-8 items-center">
-          <Link
-            to="/"
-            className="text-white hover:text-gray-400 text-sm font-medium tracking-wide relative group"
-          >
-            Home
-            <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-blue-700 group-hover:w-full transition-all duration-200"></span>
-          </Link>
-          <Link
-            to="/aksara"
-            className="text-white hover:text-gray-400 text-sm font-medium tracking-wide relative group"
-          >
-            Translate Aksara
-            <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-blue-700 group-hover:w-full transition-all duration-200"></span>
-          </Link>
-          <Link
-            to="/tentang"
-            className="text-white hover:text-gray-400 text-sm font-medium tracking-wide relative group"
-          >
-            Tentang
-            <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-blue-700 group-hover:w-full transition-all duration-200"></span>
-          </Link>
+        {/* Nav desktop */}
+        <nav className="hidden md:flex absolute left-1/2 transform -translate-x-1/2 space-x-8">
+          {navLinks.map((link) => (
+            <Link
+              key={link.path}
+              to={link.path}
+              className={`relative text-white hover:text-gray-400 text-sm font-medium tracking-wide transition-colors duration-200`}
+            >
+              {link.name}
+              <span
+                className={`absolute left-0 -bottom-1 h-0.5 bg-white w-0 transition-all duration-300 ${
+                  location.pathname === link.path ? "w-full" : "group-hover:w-full"
+                }`}
+              />
+            </Link>
+          ))}
+        </nav>
 
-          {/* Login Button */}
+        {/* Login desktop */}
+        <div className="hidden md:block">
           <Link
             to="/login"
-            className="ml-6 bg-blue-800 hover:bg-blue-900 text-white px-4 py-2 rounded-lg text-sm font-medium transition"
+            className="bg-blue-800 hover:bg-blue-900 text-white px-4 py-2 rounded-lg text-sm font-medium transition"
           >
             Login
           </Link>
-        </nav>
+        </div>
 
         {/* Mobile Hamburger */}
         <div className="md:hidden flex items-center">
@@ -79,47 +82,33 @@ export default function Header() {
       </div>
 
       {/* Mobile Menu */}
-      <div
-        className={`md:hidden overflow-hidden transition-all duration-300 ${
-          isOpen ? "max-h-60 opacity-100" : "max-h-0 opacity-0"
-        }`}
-      >
-        <nav className="bg-blue-900">
-          <Link
-            to="/"
-            className="block px-6 py-4 text-white hover:bg-blue-800"
-            onClick={() => setIsOpen(false)}
-          >
-            Home
-          </Link>
-          <Link
-            to="/aksara"
-            className="block px-6 py-4 text-white hover:bg-blue-800"
-            onClick={() => setIsOpen(false)}
-          >
-            Translate Aksara
-          </Link>
-          <Link
-            to="/tentang"
-            className="block px-6 py-4 text-white hover:bg-blue-800"
-            onClick={() => setIsOpen(false)}
-          >
-            Tentang
-          </Link>
+      {isOpen && (
+        <div className="md:hidden mt-2 bg-blue-900 rounded-xl overflow-hidden">
+          {navLinks.map((link) => (
+            <Link
+              key={link.path}
+              to={link.path}
+              onClick={() => setIsOpen(false)}
+              className="block px-6 py-4 text-white hover:bg-blue-800 transition"
+            >
+              {link.name}
+            </Link>
+          ))}
+
           <Link
             to="/login"
-            className="block px-6 py-4 text-white bg-green-600 hover:bg-green-700 transition"
             onClick={() => setIsOpen(false)}
+            className="block px-6 py-4 text-white bg-blue-800 hover:bg-blue-900 rounded-xl transition"
           >
             Login
           </Link>
-        </nav>
-      </div>
+        </div>
+      )}
 
       {/* Backdrop */}
       {isOpen && (
         <div
-          className="fixed inset-0 bg-black bg-opacity-25 z-[-1] md:hidden"
+          className="fixed inset-0 bg-black bg-opacity-25 z-[-1]"
           onClick={() => setIsOpen(false)}
         />
       )}

@@ -7,8 +7,10 @@ import HeaderAdmin from "./pages/admin/components/Header-Admin";
 import Home from "./pages/Home";
 import AksaraPage from "./pages/Aksara-Jawa";
 import TentangPage from "./pages/About";
+import Guestbook from "./pages/Guest";
 import Dashboard from "./pages/admin/Dashboard";
 import Login from "./pages/admin/auth/Auth";
+import Guest from "./pages/admin/Guest";
 
 function AppWrapper() {
   return (
@@ -65,6 +67,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/aksara" element={<AksaraPage />} />
           <Route path="/tentang" element={<TentangPage />} />
+          <Route path="/guestbook" element={<Guestbook />} />
 
           {/* Auth */}
           <Route
@@ -78,6 +81,15 @@ function App() {
             element={
               <ProtectedRoute session={session}>
                 <Dashboard />
+              </ProtectedRoute>
+            }
+          />
+
+          <Route
+            path="/admin/guest"
+            element={
+              <ProtectedRoute session={session}>
+                <Guest/>
               </ProtectedRoute>
             }
           />
