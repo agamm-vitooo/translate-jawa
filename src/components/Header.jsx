@@ -47,7 +47,7 @@ export default function Header() {
         <div className="hidden md:block">
           <Link
             to="/login"
-            className="bg-blue-800 hover:bg-blue-900 text-white px-4 py-2 rounded-lg text-sm font-medium transition"
+            className="bg-slate-200 hover:bg-slate-100 text-blue-900 px-4 py-2 rounded-lg text-sm font-medium transition"
           >
             Login
           </Link>
@@ -98,7 +98,7 @@ export default function Header() {
           <Link
             to="/login"
             onClick={() => setIsOpen(false)}
-            className="block px-6 py-4 text-white bg-blue-800 hover:bg-blue-900 rounded-xl transition"
+            className="block px-6 py-4 bg-slate-200 hover:bg-slate-100 text-blue-900 rounded-xl transition"
           >
             Login
           </Link>

@@ -3,6 +3,7 @@ import { useEffect, useState } from "react";
 import Highcharts from "highcharts";
 import HighchartsReact from "highcharts-react-official";
 import { supabase } from "../../supabaseClient";
+import * as XLSX from "xlsx"; // Tambahkan import xlsx
 
 export default function Dashboard() {
   const [total, setTotal] = useState(0);
@@ -32,12 +33,8 @@ export default function Dashboard() {
       const values = Object.values(grouped);
 
       setChartOptions({
-        chart: {
-          type: "line",
-          backgroundColor: "#ffffff",
-          height: 350,
-        },
-        title: { text: "" }, // hilangkan judul chart, sudah ada heading di atas
+        chart: { type: "line", backgroundColor: "#ffffff", height: 350 },
+        title: { text: "" },
         xAxis: {
           categories: labels,
           title: { text: "Tanggal" },
@@ -56,10 +53,7 @@ export default function Dashboard() {
             data: values,
             color: "#2563eb",
             lineWidth: 3,
-            marker: {
-              radius: 5,
-              fillColor: "#2563eb",
-            },
+            marker: { radius: 5, fillColor: "#2563eb" },
           },
         ],
         tooltip: {
@@ -73,27 +67,36 @@ export default function Dashboard() {
         },
         legend: { enabled: false },
         credits: { enabled: false },
-        responsive: {
-          rules: [
-            {
-              condition: { maxWidth: 768 },
-              chartOptions: {
-                xAxis: { labels: { rotation: -45 } },
-              },
-            },
-          ],
-        },
+        responsive: [
+          {
+            condition: { maxWidth: 768 },
+            chartOptions: { xAxis: { labels: { rotation: -45 } } },
+          },
+        ],
       });
     };
 
     fetchStats();
   }, []);
 
+  // Fungsi export ke Excel
+  const exportExcel = () => {
+    const wsData = [["Tanggal", "Jumlah Kunjungan"]]; // Header
+    Object.entries(perHari).forEach(([date, count]) => {
+      wsData.push([date, count]);
+    });
+
+    const ws = XLSX.utils.aoa_to_sheet(wsData);
+    const wb = XLSX.utils.book_new();
+    XLSX.utils.book_append_sheet(wb, ws, "Statistik Kunjungan");
+    XLSX.writeFile(wb, "statistik_kunjungan.xlsx");
+  };
+
   return (
     <div className="p-8 bg-gray-50 min-h-screen">
       <h2 className="text-2xl font-bold mb-8">📊 Statistik Kunjungan</h2>
 
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 mb-6">
         {/* Statistik Tertulis */}
         <div className="space-y-6">
           <div className="p-5 bg-white rounded-xl shadow hover:shadow-md transition">
@@ -121,7 +124,7 @@ export default function Dashboard() {
         </div>
 
         {/* Chart */}
-        <div className="lg:col-span-2">
+        <div className="lg:col-span-2 space-y-4">
           <div className="bg-white p-6 rounded-xl shadow hover:shadow-md transition h-[430px]">
             <h3 className="text-lg font-semibold mb-4 text-gray-700">
               Grafik Kunjungan
@@ -132,6 +135,12 @@ export default function Dashboard() {
               <p className="text-gray-400 text-center mt-20">Loading chart...</p>
             )}
           </div>
+          <button
+            onClick={exportExcel}
+            className="bg-green-600 hover:bg-green-700 text-white font-semibold px-6 py-3 rounded-xl transition-all duration-200"
+          >
+            📥 Export ke Excel
+          </button>
         </div>
       </div>
     </div>

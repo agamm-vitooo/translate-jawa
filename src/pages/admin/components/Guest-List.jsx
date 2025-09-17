@@ -20,16 +20,24 @@ export default function GuestList({ maxHeight }) {
   }, []);
 
   return (
-    <div className={`space-y-4 overflow-y-auto pr-2 ${maxHeight ? maxHeight : ''}`}>
+    <div
+      className={`overflow-y-auto pr-2 ${maxHeight ? maxHeight : ''} `}
+      style={{
+        display: 'grid',
+        gridTemplateColumns: 'repeat(auto-fill, minmax(250px, 1fr))',
+        gap: '1rem',
+      }}
+    >
       {loading ? (
-        <p className="text-gray-500">Loading...</p>
+        <p className="text-gray-500 col-span-full text-center">Loading...</p>
       ) : entries.length === 0 ? (
-        <p className="text-gray-500">Belum ada pesan</p>
+        <p className="text-gray-500 col-span-full text-center">Belum ada pesan</p>
       ) : (
         entries.map((entry) => (
           <div
             key={entry.id}
-            className="bg-white p-4 rounded-xl shadow"
+            className="bg-white p-4 rounded-xl shadow break-words"
+            style={{ minHeight: '80px' }}
           >
             <p className="font-semibold text-blue-600">{entry.name}</p>
             {entry.email && <p className="text-sm text-gray-500">{entry.email}</p>}
